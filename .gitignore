@@ -1,0 +1,14 @@
+private/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+.pi/sessions/
+*.log
+research/raw/
+*.info.json
+*.json3
+*.mp4
+*.webm

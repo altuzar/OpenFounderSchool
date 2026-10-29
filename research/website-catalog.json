@@ -1,0 +1,308 @@
+{
+  "snapshot_date": "2026-10-28",
+  "timezone": "America/Mexico_City",
+  "sitemap_url": "https://founders.school/sitemap.xml",
+  "sitemap_sha256": "cdc862225e8d6411f6d463343f6ab39e3be781413bb95b9470c51c7a8218f7bf",
+  "items": [
+    {
+      "url": "https://founders.school/",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 20564,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_plus_web_reader"
+    },
+    {
+      "url": "https://founders.school/freshman-year",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 9712,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_plus_web_reader"
+    },
+    {
+      "url": "https://founders.school/founders-weekend",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 6299,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_plus_web_reader"
+    },
+    {
+      "url": "https://founders.school/founders-weekend-london",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 4706,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_visible_text"
+    },
+    {
+      "url": "https://founders.school/weekends",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 2568,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_plus_web_reader"
+    },
+    {
+      "url": "https://founders.school/build-weekend",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "c9d9ab717c054c1bd24588c5bdbf4f8b7644533a92a1c95047de9b71672cf3c9",
+      "text_characters": 5359,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/apply",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "0362f9ca28cebada1be6c74287a2b6635c444913a1d4521d9d0b9fc3d9c6c766",
+      "text_characters": 1943,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/scholarships",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "8c6ad47a4c91900a9215621ccdf24fb654c57dc02ed4d0da64c2c1f2d4b8a7cf",
+      "text_characters": 5790,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/blog",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "3d761a7481983af157832c10b95d2e2291961de1ab7a7c9e8752172e25ea6e6d",
+      "text_characters": 1044,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 0,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "Raw body capture unavailable; official page read through web-reader.",
+      "retrieval": "web_reader"
+    },
+    {
+      "url": "https://founders.school/press",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "37ef3d62babbbd2ad0fb67d5a5ba357492fe7bbdcd10635c6b6ff8575be6ad25",
+      "text_characters": 2836,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/best-high-school-for-teen-entrepreneurs",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "85c4bc0e5b61ae2be6596da9bc2c232fed701e4fb32a853b26351105f9da29cb",
+      "text_characters": 4921,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/entrepreneurship-programs-for-high-school-students",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "e091759b739e7bb0f4ec06194e10116a68e04f1b9496ea49e23b3c1f091a5a33",
+      "text_characters": 6881,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/contact",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "c74d6927b2cccddbb5a0aa05f1493e1b3c5d3c95cf6fc0e03dd5855b3515482a",
+      "text_characters": 1510,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/privacy",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "e696ca0e23dca579d21ca63485f933eb7611f4c54b2a73da95ff164ceb45f7d1",
+      "text_characters": 773,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/terms",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "8ecb282e4eb7d3945b795bdcd29765ad9edd43005056695c50ae1f9a5869a03b",
+      "text_characters": 672,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/dean-of-parents",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "1281eb00afbee39858dc15c5665a7391d5701671532ab3d619d74b55093a14a3",
+      "text_characters": 7266,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/head-of-student-life",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "b9550dfd108bf4301915f21f0d0112ef650578b59cea978dafe1312210e60452",
+      "text_characters": 6550,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/elite-guide",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 6638,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_visible_text"
+    },
+    {
+      "url": "https://founders.school/jobs/elite-guide-programs-team",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "b9c63df142f6535fc67412325c67c09ae6f6038641696a0d7cf87855fc852dda",
+      "text_characters": 10210,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/founding-technical-director",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 7967,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "raw_fetch_note": "HTTP body capture timed out; visible text was inspected. Full raw-response completeness is not asserted.",
+      "retrieval": "partial_http_visible_text"
+    },
+    {
+      "url": "https://founders.school/jobs/special-programs-operations-lead",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "7867dc082937aaa5d7e38765d01fabd99c635660a3c9770870b1316ca6ed9c0f",
+      "text_characters": 8555,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/founders-guide",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "4176e71018593f9603a1dff58b9980d066dcd6b69a96f265e1c65b3ee544e147",
+      "text_characters": 6094,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/founding-art-director",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "795ad6b02a15d0eea5a5bc984cbe300d5ef6bfc3369112d9c81770e918e9d450",
+      "text_characters": 5845,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/guide-programs-team",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "c361d821871db694d8ae9acd473a388651170fd5ae050b4a8c33e3857a868b43",
+      "text_characters": 9538,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/narrative-designer",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "cec00735af8f7cbd502c32ac58e7a6b1f788717b7c7618a15e210c2cad8978d7",
+      "text_characters": 6976,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/jobs/lead-founder-guide-austin",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "eef6ec65392c2810832451d336daf01c859c3c71c113c32d943f3546b0627a10",
+      "text_characters": 6666,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "relevant_sections",
+      "retrieval": "bounded_http_fetch"
+    },
+    {
+      "url": "https://founders.school/blog/grok-bot-guide",
+      "http_status": "200",
+      "fetched": false,
+      "sha256": null,
+      "text_characters": 0,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "raw_fetch_note": "Raw body capture unavailable; official page read through web-reader.",
+      "retrieval": "web_reader"
+    },
+    {
+      "url": "https://founders.school/blog/how-to-make-1m",
+      "http_status": "200",
+      "fetched": true,
+      "sha256": "e128798ad16b566c0ad1605f4af083ba1694d69233ad4d0298f6c394845a4052",
+      "text_characters": 4531,
+      "snapshot_date": "2026-10-28",
+      "review_scope": "public_visible_text",
+      "retrieval": "bounded_http_fetch"
+    }
+  ],
+  "method_note": "All 29 sitemap URLs were attempted once with a bounded retry. Twenty full HTTP captures succeeded; nine timed out. Public text was reviewed through partial bodies or web-reader; hiring pages were inspected for relevant sections. No login or form submissions."
+}

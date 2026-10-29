@@ -1,0 +1,1608 @@
+{
+  "version": "0.1.0",
+  "language": "es",
+  "hours_per_week": 6,
+  "weeks_per_year": 40,
+  "entries": [
+    {
+      "year": 1,
+      "week": 1,
+      "title": "Tu mapa de curiosidad",
+      "concept": "Un negocio empieza con una situación concreta, no con una app.",
+      "build": "Escribe diez molestias cotidianas y elige dos que conozcas por experiencia.",
+      "test": "Pide a un familiar un ejemplo reciente; si no puede participar, haz roleplay etiquetado.",
+      "artifact": "Mapa de diez problemas y dos hipótesis.",
+      "criterion": "Distingues observación, opinión y suposición sin inventar clientes."
+    },
+    {
+      "year": 1,
+      "week": 2,
+      "title": "Observar sin vender",
+      "concept": "Entender el último episodio de un problema revela más que preguntar si comprarían.",
+      "build": "Prepara cinco preguntas neutrales y practica escuchando sin presentar una solución.",
+      "test": "Revisa el guion con tu adulto y elimina dos preguntas que sugieren la respuesta.",
+      "artifact": "Guion y notas de una conversación autorizada o simulada.",
+      "criterion": "Puedes explicar qué pregunta sesgaba la respuesta y cómo la cambiaste."
+    },
+    {
+      "year": 1,
+      "week": 3,
+      "title": "Escoger un comprador",
+      "concept": "Usuario y comprador pueden ser personas distintas.",
+      "build": "Dibuja tres segmentos y quién decide, usa y paga en cada uno.",
+      "test": "Busca un contraejemplo donde quien disfruta el producto no puede pagarlo.",
+      "artifact": "Ficha de segmento y mapa de decisión.",
+      "criterion": "El segmento describe una situación comprobable, no todas las personas."
+    },
+    {
+      "year": 1,
+      "week": 4,
+      "title": "Las alternativas existentes",
+      "concept": "Una libreta o no hacer nada también compiten contigo.",
+      "build": "Compara tres maneras actuales de resolver un problema: tiempo, costo y limitación.",
+      "test": "Haz una prueba personal de una alternativa sin comprar ni crear cuentas.",
+      "artifact": "Tabla de alternativas y decisión provisional.",
+      "criterion": "Incluyes la opción de no hacer nada y una razón para preferirla."
+    },
+    {
+      "year": 1,
+      "week": 5,
+      "title": "Una oferta pequeña",
+      "concept": "Prometer menos y cumplirlo permite aprender sin compromisos desmedidos.",
+      "build": "Redacta una oferta con comprador, tarea, alcance, plazo y precio hipotético.",
+      "test": "Pide a un familiar explicar la oferta con sus propias palabras; corrige ambigüedades.",
+      "artifact": "Oferta de un párrafo con límites.",
+      "criterion": "Otra persona entiende qué recibe y qué queda fuera."
+    },
+    {
+      "year": 1,
+      "week": 6,
+      "title": "Precio, costo y tiempo",
+      "concept": "Un precio alto no corrige una entrega costosa o innecesaria.",
+      "build": "Calcula tres precios, costos de entrega y horas para un ejemplo ficticio.",
+      "test": "Simula una devolución y un aumento de materiales; recalcula el resultado.",
+      "artifact": "Tabla de tres escenarios en una sola moneda.",
+      "criterion": "No confundes cobros con utilidad y muestras al menos un escenario de pérdida."
+    },
+    {
+      "year": 1,
+      "week": 7,
+      "title": "Practicar una objeción",
+      "concept": "Una objeción puede señalar falta de valor, confianza o capacidad.",
+      "build": "Ensaya tres conversaciones de oferta con el coach en modo SIMULACIÓN.",
+      "test": "Pide al coach rechazar la oferta por motivos distintos y practica aceptar el no.",
+      "artifact": "Registro de objeciones y dos revisiones.",
+      "criterion": "Respondes sin presión y sin inventar un testimonio o garantía."
+    },
+    {
+      "year": 1,
+      "week": 8,
+      "title": "Cumplir una microentrega",
+      "concept": "La evidencia de servicio es lo que otra persona puede usar.",
+      "build": "Prepara una entrega gratuita para un familiar: organizar un archivo o explicar una tarea.",
+      "test": "El familiar prueba el resultado; si no participa, documenta una prueba simulada.",
+      "artifact": "Antes y después con datos ficticios o propios no sensibles.",
+      "criterion": "La tarea tiene criterio de terminado y no crea acceso a cuentas ajenas."
+    },
+    {
+      "year": 1,
+      "week": 9,
+      "title": "Tu primer experimento",
+      "concept": "Una prueba útil puede demostrar que tu idea es incorrecta.",
+      "build": "Escribe hipótesis, indicador, umbral, tiempo y condición de detener antes de probar.",
+      "test": "Ejecuta una prueba autorizada o simulada y conserva un resultado desfavorable.",
+      "artifact": "Ficha de experimento completa.",
+      "criterion": "El umbral existía antes del resultado y no lo cambias para declarar éxito."
+    },
+    {
+      "year": 1,
+      "week": 10,
+      "title": "Primera defensa familiar",
+      "concept": "Explicar tus decisiones muestra qué has aprendido.",
+      "build": "Prepara una demo de tres minutos sobre el problema, oferta y prueba.",
+      "test": "El adulto hace tres preguntas: evidencia, costo y qué cambiaría tu opinión.",
+      "artifact": "Portafolio del trimestre y autoevaluación.",
+      "criterion": "Diferencias lo aprendido de las ventas reales y propones un siguiente paso pequeño."
+    },
+    {
+      "year": 1,
+      "week": 11,
+      "title": "Elegir el recorrido mínimo",
+      "concept": "Un producto mínimo permite completar una tarea, no impresionar con funciones.",
+      "build": "Dibuja cinco pasos del usuario y reduce el recorrido a tres.",
+      "test": "Intenta quitar otro paso y describe cuándo el resultado deja de servir.",
+      "artifact": "Flujo mínimo con entradas, salidas y límites.",
+      "criterion": "Cada paso tiene propósito y puedes explicar una función que no construirás."
+    },
+    {
+      "year": 1,
+      "week": 12,
+      "title": "Construir con papel primero",
+      "concept": "Un prototipo puede ser una secuencia de pantallas o un servicio manual.",
+      "build": "Haz un prototipo de papel o archivo local con datos sintéticos.",
+      "test": "Pide a un familiar ejecutar la tarea sin que tú expliques qué botón tocar.",
+      "artifact": "Prototipo y lista de confusiones.",
+      "criterion": "Registras al menos una confusión concreta y una corrección."
+    },
+    {
+      "year": 1,
+      "week": 13,
+      "title": "Dar instrucciones a la IA",
+      "concept": "La especificación es una herramienta para pensar y comprobar.",
+      "build": "Escribe objetivo, restricciones, ejemplo de entrada y resultado esperado para una función.",
+      "test": "Compara salida de la IA contra tres ejemplos, incluido uno vacío.",
+      "artifact": "Especificación y tabla de pruebas.",
+      "criterion": "Reconoces un fallo de la IA y puedes explicar la corrección."
+    },
+    {
+      "year": 1,
+      "week": 14,
+      "title": "Hacer una demo local",
+      "concept": "Una demo funcional puede existir sin hosting ni pagos.",
+      "build": "Construye una pantalla local o procedimiento manual para el recorrido mínimo.",
+      "test": "Prueba entrada normal, vacía e incorrecta sin datos reales de otras personas.",
+      "artifact": "Demo y lista de tres resultados esperados.",
+      "criterion": "El usuario puede terminar la tarea y el error no expone información."
+    },
+    {
+      "year": 1,
+      "week": 15,
+      "title": "Datos mínimos",
+      "concept": "Lo que no recopilas no necesitas protegerlo en tu proyecto.",
+      "build": "Haz un inventario de datos y reemplaza identidad real por información sintética.",
+      "test": "Borra un registro ficticio y comprueba qué rastros quedan en tus archivos.",
+      "artifact": "Mapa de datos y límites de uso.",
+      "criterion": "Explicas para qué sirve cada dato y eliminas uno innecesario."
+    },
+    {
+      "year": 1,
+      "week": 16,
+      "title": "Probar la experiencia",
+      "concept": "Que el constructor entienda una pantalla no demuestra que otra persona pueda usarla.",
+      "build": "Define una tarea y observa una prueba con familiar o roleplay.",
+      "test": "Registra dónde se detuvo la prueba y cambia una sola cosa.",
+      "artifact": "Notas de usabilidad y versión corregida.",
+      "criterion": "Distingues comentario de comportamiento y no generalizas desde una persona."
+    },
+    {
+      "year": 1,
+      "week": 17,
+      "title": "Explicar sin exagerar",
+      "concept": "Una página clara describe lo que ya funciona.",
+      "build": "Escribe título, ejemplo, alcance y llamada a una prueba privada.",
+      "test": "Subraya afirmaciones de resultado y elimina las que no tienen evidencia.",
+      "artifact": "Ficha de producto sin publicación obligatoria.",
+      "criterion": "No llamas garantizado a un resultado que depende del cliente."
+    },
+    {
+      "year": 1,
+      "week": 18,
+      "title": "Entrega y soporte",
+      "concept": "Vender incluye responder cuando algo no sale bien.",
+      "build": "Diseña instrucciones de uso, contacto gestionado por adulto y política de corrección.",
+      "test": "Simula una queja, un error y una solicitud fuera de alcance.",
+      "artifact": "Guía de entrega y tres respuestas de soporte.",
+      "criterion": "Cada caso tiene responsable y un remedio que puedes cumplir."
+    },
+    {
+      "year": 1,
+      "week": 19,
+      "title": "Límites de herramientas",
+      "concept": "Más agentes pueden aumentar costo y confusión.",
+      "build": "Compara hacer una tarea a mano, con un coach y con dos roles sucesivos.",
+      "test": "Mide minutos y calidad con la misma tarea ficticia sin crear bots permanentes.",
+      "artifact": "Comparación y presupuesto por sesión.",
+      "criterion": "Eliges el camino suficiente y explicas qué no se ejecuta en reposo."
+    },
+    {
+      "year": 1,
+      "week": 20,
+      "title": "Demo de producto",
+      "concept": "Una demo debe mostrar el recorrido y sus limitaciones.",
+      "build": "Presenta la tarea original, versión actual y dos fallos conocidos.",
+      "test": "Tu adulto o compañero repite una prueba y señala algo que aún no entiende.",
+      "artifact": "Demo de cinco minutos y registro de fallos.",
+      "criterion": "No ocultas limitaciones ni conviertes una simulación en tracción real."
+    },
+    {
+      "year": 1,
+      "week": 21,
+      "title": "Seleccionar una prueba de demanda",
+      "concept": "Clics, elogios y dinero son señales distintas.",
+      "build": "Define qué conducta indicaría interés y qué no lo demostraría.",
+      "test": "Construye una escalera de evidencia: opinión, intento, compromiso y cobro real.",
+      "artifact": "Plan de prueba y escalera de evidencia.",
+      "criterion": "Puedes describir un falso positivo de tu prueba."
+    },
+    {
+      "year": 1,
+      "week": 22,
+      "title": "Distribuir con permiso",
+      "concept": "Un canal pequeño y pertinente puede enseñar más que publicar masivamente.",
+      "build": "Prepara un borrador para dos contactos aprobados o una audiencia ficticia.",
+      "test": "Compara dos mensajes en roleplay y pide revisión del adulto antes de enviar alguno.",
+      "artifact": "Borradores y lista privada de permisos.",
+      "criterion": "No envías automáticamente ni insistes tras un rechazo."
+    },
+    {
+      "year": 1,
+      "week": 23,
+      "title": "Decidir con pocos datos",
+      "concept": "Una muestra pequeña orienta preguntas, no demuestra una ley.",
+      "build": "Organiza resultados, incluidos ceros y rechazos, en una tabla.",
+      "test": "Pide al coach proponer una explicación alternativa y diseña cómo distinguirla.",
+      "artifact": "Tabla de evidencia y próxima prueba.",
+      "criterion": "Nombras sesgo de selección y evitas afirmar significancia estadística sin base."
+    },
+    {
+      "year": 1,
+      "week": 24,
+      "title": "Revisar economía unitaria",
+      "concept": "Cada venta debe contribuir a cubrir los demás costos.",
+      "build": "Calcula ingreso neto de devolución, costo directo y contribución por entrega.",
+      "test": "Simula doble tiempo de trabajo y una devolución en cinco ventas.",
+      "artifact": "Modelo por unidad con sensibilidad.",
+      "criterion": "No llamas margen neto al margen de contribución."
+    },
+    {
+      "year": 1,
+      "week": 25,
+      "title": "Aprender de retención",
+      "concept": "La repetición puede indicar utilidad, pero no toda compra debe repetirse.",
+      "build": "Dibuja cómo un usuario obtiene valor y por qué volvería o no.",
+      "test": "Entrevista a familiar sobre un producto que dejó de usar o usa roleplay.",
+      "artifact": "Mapa de uso y dos hipótesis de abandono.",
+      "criterion": "No añades suscripción a una necesidad que no se repite."
+    },
+    {
+      "year": 1,
+      "week": 26,
+      "title": "Cambiar una variable",
+      "concept": "Si cambias todo a la vez no sabes qué produjo la diferencia.",
+      "build": "Elige una variable: mensaje, alcance o precio, y escribe qué mantendrás fijo.",
+      "test": "Prueba dos variantes simuladas o en grupo autorizado y conserva limitaciones.",
+      "artifact": "Comparación con una variable y decisión provisional.",
+      "criterion": "No presentas una prueba informal como experimento causal concluyente."
+    },
+    {
+      "year": 1,
+      "week": 27,
+      "title": "Cerrar un ciclo",
+      "concept": "Cerrar una idea preserva tiempo y deja aprendizaje.",
+      "build": "Revisa tres pruebas y decide continuar, reducir, pivotar o cerrar.",
+      "test": "Escribe el mejor argumento contra tu decisión y responde con evidencia.",
+      "artifact": "Memo de decisión de una página.",
+      "criterion": "La decisión incluye costo de seguir y condición futura para revisarla."
+    },
+    {
+      "year": 1,
+      "week": 28,
+      "title": "Contenido que ayuda",
+      "concept": "Puedes enseñar lo aprendido sin exponerte públicamente.",
+      "build": "Escribe una guía breve sobre un problema de tu dominio usando tu propio ejemplo.",
+      "test": "Un familiar intenta seguirla; registra dónde necesita ayuda.",
+      "artifact": "Guía privada y prueba de comprensión.",
+      "criterion": "Usas tus palabras, atribuyes referencias y no copias un libro o video."
+    },
+    {
+      "year": 1,
+      "week": 29,
+      "title": "Volver a probar",
+      "concept": "Una iteración útil responde a una observación concreta.",
+      "build": "Implementa una mejora basada en un fallo documentado.",
+      "test": "Repite la misma tarea y compara tiempos, errores y límites de la comparación.",
+      "artifact": "Antes y después medidos.",
+      "criterion": "La mejora responde a evidencia y no sólo a preferencia estética."
+    },
+    {
+      "year": 1,
+      "week": 30,
+      "title": "Revisión de demanda",
+      "concept": "La honestidad sobre ausencia de demanda permite una buena decisión.",
+      "build": "Presenta indicadores, rechazos, costos y aprendizajes del trimestre.",
+      "test": "Defiende por qué harías otra prueba o por qué cerrarías el proyecto.",
+      "artifact": "Defensa de tracción o cierre con evidencia.",
+      "criterion": "Puedes aprobar sin ingresos si el razonamiento y la evidencia son sólidos."
+    },
+    {
+      "year": 1,
+      "week": 31,
+      "title": "Documentar una entrega",
+      "concept": "Un proceso entendible reduce errores sin automatizar todo.",
+      "build": "Escribe un SOP de una tarea que ya repetiste.",
+      "test": "Otro familiar o compañero sigue el SOP con datos ficticios sin tu ayuda.",
+      "artifact": "Procedimiento y registro de dudas.",
+      "criterion": "Incluye entradas, pasos, calidad, responsable y manejo de errores."
+    },
+    {
+      "year": 1,
+      "week": 32,
+      "title": "Automatizar una vez",
+      "concept": "Automatiza una tarea entendida, con límites y retorno medible.",
+      "build": "Prepara un script local o instrucción reutilizable para una tarea pequeña.",
+      "test": "Ejecuta una vez con caso normal, vacío y fallo; no añadas recurrencia.",
+      "artifact": "Demo manual y comparación de tiempo y costo.",
+      "criterion": "Puedes detenerlo y demostrar que no hay tareas programadas."
+    },
+    {
+      "year": 1,
+      "week": 33,
+      "title": "Negociar el alcance",
+      "concept": "Acordar límites protege a ambas partes.",
+      "build": "Ensaya dos opciones de alcance con distintos plazos y precios ficticios.",
+      "test": "Un rol cliente solicita algo extra; practica decir qué cambia en el acuerdo.",
+      "artifact": "Acuerdo simulado con alcance y límites.",
+      "criterion": "No prometes resultados fuera de tu control para cerrar la conversación."
+    },
+    {
+      "year": 1,
+      "week": 34,
+      "title": "Caja y compromisos",
+      "concept": "Tener dinero en cuenta no significa poder gastarlo todo.",
+      "build": "Haz un calendario ficticio de cobros, pagos y reservas para devoluciones.",
+      "test": "Mueve un cobro una semana y observa si falta caja para entregar.",
+      "artifact": "Calendario de caja y reserva justificada.",
+      "criterion": "Distingues financiamiento, caja disponible y utilidad provisional."
+    },
+    {
+      "year": 1,
+      "week": 35,
+      "title": "Derechos y publicación",
+      "concept": "Poder ver un material no concede permiso de redistribuirlo.",
+      "build": "Inventaría imágenes, texto, código y datos de tu demo con su procedencia.",
+      "test": "Sustituye un recurso de derechos inciertos por uno propio o autorizado.",
+      "artifact": "Inventario de derechos y versión saneada.",
+      "criterion": "No incluyes contenido privado ni atribuyes respaldo a alguien por citarlo."
+    },
+    {
+      "year": 1,
+      "week": 36,
+      "title": "Trabajar en equipo",
+      "concept": "Colaborar exige explicar contribuciones y resolver desacuerdos.",
+      "build": "Define roles, entregas, horarios y qué pasa si alguien deja el equipo.",
+      "test": "Ensaya un desacuerdo sobre calidad o carga de trabajo con adulto moderador.",
+      "artifact": "Acuerdo educativo de colaboración.",
+      "criterion": "Cada persona puede explicar su trabajo y hay una salida respetuosa."
+    },
+    {
+      "year": 1,
+      "week": 37,
+      "title": "Auditar tus números",
+      "concept": "Un registro confiable incluye errores y correcciones visibles.",
+      "build": "Revisa duplicados, moneda, modo y referencias de tu ledger.",
+      "test": "Introduce un duplicado en una copia y comprueba que la herramienta lo rechaza.",
+      "artifact": "Ledger saneado y lista de costos faltantes.",
+      "criterion": "Nunca cuentas inversión ni simulaciones como utilidad real."
+    },
+    {
+      "year": 1,
+      "week": 38,
+      "title": "Evaluar riesgos de IA",
+      "concept": "Una salida convincente puede ser incorrecta o contener datos indebidos.",
+      "build": "Haz una tabla de tres maneras en que tu coach o producto podría fallar.",
+      "test": "Prueba un caso ficticio por riesgo y define revisión o reducción de alcance.",
+      "artifact": "Análisis de riesgos y mitigación comprobada.",
+      "criterion": "Distingues instrucciones al modelo de controles técnicos reales."
+    },
+    {
+      "year": 1,
+      "week": 39,
+      "title": "Defender el portafolio",
+      "concept": "La defensa comprueba comprensión, no sólo apariencia.",
+      "build": "Selecciona cinco evidencias y ensaya la presentación de quince minutos.",
+      "test": "Adulto o mentor cuestiona cifra principal, contribución de IA y decisión más débil.",
+      "artifact": "Portafolio y defensa con preguntas registradas.",
+      "criterion": "Explicas evidencia, incertidumbre y errores sin inventar resultados."
+    },
+    {
+      "year": 1,
+      "week": 40,
+      "title": "Elegir el siguiente año",
+      "concept": "Continuar, cambiar o cerrar son decisiones de fundador.",
+      "build": "Diseña un plan de diez semanas con una hipótesis, carga y presupuesto.",
+      "test": "Compara ese plan con cerrar el proyecto y empezar uno más pequeño.",
+      "artifact": "Plan de año 2 y checkpoint de cierre.",
+      "criterion": "El plan respeta escuela y descanso, y no depende de alcanzar el millón."
+    },
+    {
+      "year": 2,
+      "week": 1,
+      "title": "Foco de negocio: investigar",
+      "concept": "Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.",
+      "artifact": "Matriz de selección — hipótesis y línea base",
+      "criterion": "Justificas por qué no eliges las otras dos opciones."
+    },
+    {
+      "year": 2,
+      "week": 2,
+      "title": "Foco de negocio: diseñar",
+      "concept": "Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.",
+      "artifact": "Matriz de selección — versión de prueba",
+      "criterion": "Justificas por qué no eliges las otras dos opciones."
+    },
+    {
+      "year": 2,
+      "week": 3,
+      "title": "Foco de negocio: probar",
+      "concept": "Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.",
+      "artifact": "Matriz de selección — registro de prueba",
+      "criterion": "Justificas por qué no eliges las otras dos opciones."
+    },
+    {
+      "year": 2,
+      "week": 4,
+      "title": "Foco de negocio: decidir",
+      "concept": "Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.",
+      "artifact": "Matriz de selección — memo y checkpoint",
+      "criterion": "Justificas por qué no eliges las otras dos opciones."
+    },
+    {
+      "year": 2,
+      "week": 5,
+      "title": "Clientes repetidos: investigar",
+      "concept": "Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.",
+      "artifact": "Mapa de recurrencia — hipótesis y línea base",
+      "criterion": "No confundes una promesa de repetir con una compra repetida."
+    },
+    {
+      "year": 2,
+      "week": 6,
+      "title": "Clientes repetidos: diseñar",
+      "concept": "Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.",
+      "artifact": "Mapa de recurrencia — versión de prueba",
+      "criterion": "No confundes una promesa de repetir con una compra repetida."
+    },
+    {
+      "year": 2,
+      "week": 7,
+      "title": "Clientes repetidos: probar",
+      "concept": "Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.",
+      "artifact": "Mapa de recurrencia — registro de prueba",
+      "criterion": "No confundes una promesa de repetir con una compra repetida."
+    },
+    {
+      "year": 2,
+      "week": 8,
+      "title": "Clientes repetidos: decidir",
+      "concept": "Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.",
+      "artifact": "Mapa de recurrencia — memo y checkpoint",
+      "criterion": "No confundes una promesa de repetir con una compra repetida."
+    },
+    {
+      "year": 2,
+      "week": 9,
+      "title": "Oferta sostenible: investigar",
+      "concept": "Ajusta alcance y precio después de medir el costo real de cumplir.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.",
+      "artifact": "Oferta y modelo de contribución — hipótesis y línea base",
+      "criterion": "Incluyes devoluciones y capacidad semanal, además de materiales."
+    },
+    {
+      "year": 2,
+      "week": 10,
+      "title": "Oferta sostenible: diseñar",
+      "concept": "Ajusta alcance y precio después de medir el costo real de cumplir.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.",
+      "artifact": "Oferta y modelo de contribución — versión de prueba",
+      "criterion": "Incluyes devoluciones y capacidad semanal, además de materiales."
+    },
+    {
+      "year": 2,
+      "week": 11,
+      "title": "Oferta sostenible: probar",
+      "concept": "Ajusta alcance y precio después de medir el costo real de cumplir.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.",
+      "artifact": "Oferta y modelo de contribución — registro de prueba",
+      "criterion": "Incluyes devoluciones y capacidad semanal, además de materiales."
+    },
+    {
+      "year": 2,
+      "week": 12,
+      "title": "Oferta sostenible: decidir",
+      "concept": "Ajusta alcance y precio después de medir el costo real de cumplir.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.",
+      "artifact": "Oferta y modelo de contribución — memo y checkpoint",
+      "criterion": "Incluyes devoluciones y capacidad semanal, además de materiales."
+    },
+    {
+      "year": 2,
+      "week": 13,
+      "title": "Experiencia de inicio: investigar",
+      "concept": "Observa cómo una persona autorizada o ficticia comienza a usar el producto.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.",
+      "artifact": "Guía de inicio y lista de fricciones — hipótesis y línea base",
+      "criterion": "La tarea principal se completa sin tu explicación constante."
+    },
+    {
+      "year": 2,
+      "week": 14,
+      "title": "Experiencia de inicio: diseñar",
+      "concept": "Observa cómo una persona autorizada o ficticia comienza a usar el producto.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.",
+      "artifact": "Guía de inicio y lista de fricciones — versión de prueba",
+      "criterion": "La tarea principal se completa sin tu explicación constante."
+    },
+    {
+      "year": 2,
+      "week": 15,
+      "title": "Experiencia de inicio: probar",
+      "concept": "Observa cómo una persona autorizada o ficticia comienza a usar el producto.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.",
+      "artifact": "Guía de inicio y lista de fricciones — registro de prueba",
+      "criterion": "La tarea principal se completa sin tu explicación constante."
+    },
+    {
+      "year": 2,
+      "week": 16,
+      "title": "Experiencia de inicio: decidir",
+      "concept": "Observa cómo una persona autorizada o ficticia comienza a usar el producto.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.",
+      "artifact": "Guía de inicio y lista de fricciones — memo y checkpoint",
+      "criterion": "La tarea principal se completa sin tu explicación constante."
+    },
+    {
+      "year": 2,
+      "week": 17,
+      "title": "Canal pequeño: investigar",
+      "concept": "Prueba un canal autorizado con un límite de contactos y sin automatización.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.",
+      "artifact": "Registro de canal — hipótesis y línea base",
+      "criterion": "Separaste alcance, respuestas, pruebas y pagos."
+    },
+    {
+      "year": 2,
+      "week": 18,
+      "title": "Canal pequeño: diseñar",
+      "concept": "Prueba un canal autorizado con un límite de contactos y sin automatización.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.",
+      "artifact": "Registro de canal — versión de prueba",
+      "criterion": "Separaste alcance, respuestas, pruebas y pagos."
+    },
+    {
+      "year": 2,
+      "week": 19,
+      "title": "Canal pequeño: probar",
+      "concept": "Prueba un canal autorizado con un límite de contactos y sin automatización.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.",
+      "artifact": "Registro de canal — registro de prueba",
+      "criterion": "Separaste alcance, respuestas, pruebas y pagos."
+    },
+    {
+      "year": 2,
+      "week": 20,
+      "title": "Canal pequeño: decidir",
+      "concept": "Prueba un canal autorizado con un límite de contactos y sin automatización.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.",
+      "artifact": "Registro de canal — memo y checkpoint",
+      "criterion": "Separaste alcance, respuestas, pruebas y pagos."
+    },
+    {
+      "year": 2,
+      "week": 21,
+      "title": "Sistema de calidad: investigar",
+      "concept": "Define tres errores frecuentes y una comprobación antes de entregar.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.",
+      "artifact": "Checklist de calidad — hipótesis y línea base",
+      "criterion": "Otra persona detecta un error usando tu procedimiento."
+    },
+    {
+      "year": 2,
+      "week": 22,
+      "title": "Sistema de calidad: diseñar",
+      "concept": "Define tres errores frecuentes y una comprobación antes de entregar.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.",
+      "artifact": "Checklist de calidad — versión de prueba",
+      "criterion": "Otra persona detecta un error usando tu procedimiento."
+    },
+    {
+      "year": 2,
+      "week": 23,
+      "title": "Sistema de calidad: probar",
+      "concept": "Define tres errores frecuentes y una comprobación antes de entregar.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.",
+      "artifact": "Checklist de calidad — registro de prueba",
+      "criterion": "Otra persona detecta un error usando tu procedimiento."
+    },
+    {
+      "year": 2,
+      "week": 24,
+      "title": "Sistema de calidad: decidir",
+      "concept": "Define tres errores frecuentes y una comprobación antes de entregar.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.",
+      "artifact": "Checklist de calidad — memo y checkpoint",
+      "criterion": "Otra persona detecta un error usando tu procedimiento."
+    },
+    {
+      "year": 2,
+      "week": 25,
+      "title": "Cuenta completa: investigar",
+      "concept": "Reconcilia un mes de registro base caja con soportes privados anonimizados.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.",
+      "artifact": "Cierre mensual educativo — hipótesis y línea base",
+      "criterion": "Explicas partidas faltantes y no presentas el cierre como auditado."
+    },
+    {
+      "year": 2,
+      "week": 26,
+      "title": "Cuenta completa: diseñar",
+      "concept": "Reconcilia un mes de registro base caja con soportes privados anonimizados.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.",
+      "artifact": "Cierre mensual educativo — versión de prueba",
+      "criterion": "Explicas partidas faltantes y no presentas el cierre como auditado."
+    },
+    {
+      "year": 2,
+      "week": 27,
+      "title": "Cuenta completa: probar",
+      "concept": "Reconcilia un mes de registro base caja con soportes privados anonimizados.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.",
+      "artifact": "Cierre mensual educativo — registro de prueba",
+      "criterion": "Explicas partidas faltantes y no presentas el cierre como auditado."
+    },
+    {
+      "year": 2,
+      "week": 28,
+      "title": "Cuenta completa: decidir",
+      "concept": "Reconcilia un mes de registro base caja con soportes privados anonimizados.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.",
+      "artifact": "Cierre mensual educativo — memo y checkpoint",
+      "criterion": "Explicas partidas faltantes y no presentas el cierre como auditado."
+    },
+    {
+      "year": 2,
+      "week": 29,
+      "title": "Servicio y devoluciones: investigar",
+      "concept": "Prepara respuestas y reservas para fallos de entrega y cancelación.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.",
+      "artifact": "Manual de servicio — hipótesis y línea base",
+      "criterion": "El remedio es comprensible, cumplible y revisado por adulto."
+    },
+    {
+      "year": 2,
+      "week": 30,
+      "title": "Servicio y devoluciones: diseñar",
+      "concept": "Prepara respuestas y reservas para fallos de entrega y cancelación.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.",
+      "artifact": "Manual de servicio — versión de prueba",
+      "criterion": "El remedio es comprensible, cumplible y revisado por adulto."
+    },
+    {
+      "year": 2,
+      "week": 31,
+      "title": "Servicio y devoluciones: probar",
+      "concept": "Prepara respuestas y reservas para fallos de entrega y cancelación.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.",
+      "artifact": "Manual de servicio — registro de prueba",
+      "criterion": "El remedio es comprensible, cumplible y revisado por adulto."
+    },
+    {
+      "year": 2,
+      "week": 32,
+      "title": "Servicio y devoluciones: decidir",
+      "concept": "Prepara respuestas y reservas para fallos de entrega y cancelación.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.",
+      "artifact": "Manual de servicio — memo y checkpoint",
+      "criterion": "El remedio es comprensible, cumplible y revisado por adulto."
+    },
+    {
+      "year": 2,
+      "week": 33,
+      "title": "Capacidad y descanso: investigar",
+      "concept": "Mide horas por entrega y fija una cola máxima que preserve tus horarios.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.",
+      "artifact": "Plan de capacidad — hipótesis y línea base",
+      "criterion": "El plan sobrevive a una semana con la mitad del tiempo."
+    },
+    {
+      "year": 2,
+      "week": 34,
+      "title": "Capacidad y descanso: diseñar",
+      "concept": "Mide horas por entrega y fija una cola máxima que preserve tus horarios.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.",
+      "artifact": "Plan de capacidad — versión de prueba",
+      "criterion": "El plan sobrevive a una semana con la mitad del tiempo."
+    },
+    {
+      "year": 2,
+      "week": 35,
+      "title": "Capacidad y descanso: probar",
+      "concept": "Mide horas por entrega y fija una cola máxima que preserve tus horarios.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.",
+      "artifact": "Plan de capacidad — registro de prueba",
+      "criterion": "El plan sobrevive a una semana con la mitad del tiempo."
+    },
+    {
+      "year": 2,
+      "week": 36,
+      "title": "Capacidad y descanso: decidir",
+      "concept": "Mide horas por entrega y fija una cola máxima que preserve tus horarios.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.",
+      "artifact": "Plan de capacidad — memo y checkpoint",
+      "criterion": "El plan sobrevive a una semana con la mitad del tiempo."
+    },
+    {
+      "year": 2,
+      "week": 37,
+      "title": "Defensa de continuidad: investigar",
+      "concept": "Compara continuar, cambiar de oferta y cerrar con tus datos del año.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.",
+      "artifact": "Defensa de año 2 — hipótesis y línea base",
+      "criterion": "La recomendación incluye límites financieros y de bienestar."
+    },
+    {
+      "year": 2,
+      "week": 38,
+      "title": "Defensa de continuidad: diseñar",
+      "concept": "Compara continuar, cambiar de oferta y cerrar con tus datos del año.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.",
+      "artifact": "Defensa de año 2 — versión de prueba",
+      "criterion": "La recomendación incluye límites financieros y de bienestar."
+    },
+    {
+      "year": 2,
+      "week": 39,
+      "title": "Defensa de continuidad: probar",
+      "concept": "Compara continuar, cambiar de oferta y cerrar con tus datos del año.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.",
+      "artifact": "Defensa de año 2 — registro de prueba",
+      "criterion": "La recomendación incluye límites financieros y de bienestar."
+    },
+    {
+      "year": 2,
+      "week": 40,
+      "title": "Defensa de continuidad: decidir",
+      "concept": "Compara continuar, cambiar de oferta y cerrar con tus datos del año.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.",
+      "artifact": "Defensa de año 2 — memo y checkpoint",
+      "criterion": "La recomendación incluye límites financieros y de bienestar."
+    },
+    {
+      "year": 3,
+      "week": 1,
+      "title": "Elegir crecimiento: investigar",
+      "concept": "Formula una hipótesis de crecimiento que no requiera deuda ni anuncios.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: La hipótesis puede refutarse dentro de cuatro semanas.",
+      "artifact": "Tesis de crecimiento — hipótesis y línea base",
+      "criterion": "La hipótesis puede refutarse dentro de cuatro semanas."
+    },
+    {
+      "year": 3,
+      "week": 2,
+      "title": "Elegir crecimiento: diseñar",
+      "concept": "Formula una hipótesis de crecimiento que no requiera deuda ni anuncios.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: La hipótesis puede refutarse dentro de cuatro semanas.",
+      "artifact": "Tesis de crecimiento — versión de prueba",
+      "criterion": "La hipótesis puede refutarse dentro de cuatro semanas."
+    },
+    {
+      "year": 3,
+      "week": 3,
+      "title": "Elegir crecimiento: probar",
+      "concept": "Formula una hipótesis de crecimiento que no requiera deuda ni anuncios.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: La hipótesis puede refutarse dentro de cuatro semanas.",
+      "artifact": "Tesis de crecimiento — registro de prueba",
+      "criterion": "La hipótesis puede refutarse dentro de cuatro semanas."
+    },
+    {
+      "year": 3,
+      "week": 4,
+      "title": "Elegir crecimiento: decidir",
+      "concept": "Formula una hipótesis de crecimiento que no requiera deuda ni anuncios.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: La hipótesis puede refutarse dentro de cuatro semanas.",
+      "artifact": "Tesis de crecimiento — memo y checkpoint",
+      "criterion": "La hipótesis puede refutarse dentro de cuatro semanas."
+    },
+    {
+      "year": 3,
+      "week": 5,
+      "title": "Mejorar conversión: investigar",
+      "concept": "Identifica un punto de confusión del recorrido y modifica una sola variable.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No atribuyes causalidad fuerte a muestras pequeñas.",
+      "artifact": "Comparación de recorrido — hipótesis y línea base",
+      "criterion": "No atribuyes causalidad fuerte a muestras pequeñas."
+    },
+    {
+      "year": 3,
+      "week": 6,
+      "title": "Mejorar conversión: diseñar",
+      "concept": "Identifica un punto de confusión del recorrido y modifica una sola variable.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No atribuyes causalidad fuerte a muestras pequeñas.",
+      "artifact": "Comparación de recorrido — versión de prueba",
+      "criterion": "No atribuyes causalidad fuerte a muestras pequeñas."
+    },
+    {
+      "year": 3,
+      "week": 7,
+      "title": "Mejorar conversión: probar",
+      "concept": "Identifica un punto de confusión del recorrido y modifica una sola variable.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No atribuyes causalidad fuerte a muestras pequeñas.",
+      "artifact": "Comparación de recorrido — registro de prueba",
+      "criterion": "No atribuyes causalidad fuerte a muestras pequeñas."
+    },
+    {
+      "year": 3,
+      "week": 8,
+      "title": "Mejorar conversión: decidir",
+      "concept": "Identifica un punto de confusión del recorrido y modifica una sola variable.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No atribuyes causalidad fuerte a muestras pequeñas.",
+      "artifact": "Comparación de recorrido — memo y checkpoint",
+      "criterion": "No atribuyes causalidad fuerte a muestras pequeñas."
+    },
+    {
+      "year": 3,
+      "week": 9,
+      "title": "Calidad antes de volumen: investigar",
+      "concept": "Evalúa fallos que aumentarían al duplicar entregas.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: La solución se prueba en un fallo simulado y un caso normal.",
+      "artifact": "Plan de prevención — hipótesis y línea base",
+      "criterion": "La solución se prueba en un fallo simulado y un caso normal."
+    },
+    {
+      "year": 3,
+      "week": 10,
+      "title": "Calidad antes de volumen: diseñar",
+      "concept": "Evalúa fallos que aumentarían al duplicar entregas.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: La solución se prueba en un fallo simulado y un caso normal.",
+      "artifact": "Plan de prevención — versión de prueba",
+      "criterion": "La solución se prueba en un fallo simulado y un caso normal."
+    },
+    {
+      "year": 3,
+      "week": 11,
+      "title": "Calidad antes de volumen: probar",
+      "concept": "Evalúa fallos que aumentarían al duplicar entregas.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: La solución se prueba en un fallo simulado y un caso normal.",
+      "artifact": "Plan de prevención — registro de prueba",
+      "criterion": "La solución se prueba en un fallo simulado y un caso normal."
+    },
+    {
+      "year": 3,
+      "week": 12,
+      "title": "Calidad antes de volumen: decidir",
+      "concept": "Evalúa fallos que aumentarían al duplicar entregas.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: La solución se prueba en un fallo simulado y un caso normal.",
+      "artifact": "Plan de prevención — memo y checkpoint",
+      "criterion": "La solución se prueba en un fallo simulado y un caso normal."
+    },
+    {
+      "year": 3,
+      "week": 13,
+      "title": "Economía de adquisición: investigar",
+      "concept": "Calcula costo de conseguir una prueba y una venta sin ocultar herramientas.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Distingues gasto, ventas, contribución y tiempo del alumno.",
+      "artifact": "Tabla de adquisición — hipótesis y línea base",
+      "criterion": "Distingues gasto, ventas, contribución y tiempo del alumno."
+    },
+    {
+      "year": 3,
+      "week": 14,
+      "title": "Economía de adquisición: diseñar",
+      "concept": "Calcula costo de conseguir una prueba y una venta sin ocultar herramientas.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Distingues gasto, ventas, contribución y tiempo del alumno.",
+      "artifact": "Tabla de adquisición — versión de prueba",
+      "criterion": "Distingues gasto, ventas, contribución y tiempo del alumno."
+    },
+    {
+      "year": 3,
+      "week": 15,
+      "title": "Economía de adquisición: probar",
+      "concept": "Calcula costo de conseguir una prueba y una venta sin ocultar herramientas.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Distingues gasto, ventas, contribución y tiempo del alumno.",
+      "artifact": "Tabla de adquisición — registro de prueba",
+      "criterion": "Distingues gasto, ventas, contribución y tiempo del alumno."
+    },
+    {
+      "year": 3,
+      "week": 16,
+      "title": "Economía de adquisición: decidir",
+      "concept": "Calcula costo de conseguir una prueba y una venta sin ocultar herramientas.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Distingues gasto, ventas, contribución y tiempo del alumno.",
+      "artifact": "Tabla de adquisición — memo y checkpoint",
+      "criterion": "Distingues gasto, ventas, contribución y tiempo del alumno."
+    },
+    {
+      "year": 3,
+      "week": 17,
+      "title": "Retención con valor: investigar",
+      "concept": "Investiga por qué alguien sigue o deja de usar un producto sin manipular.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Puedes aceptar que un usuario no necesita volver.",
+      "artifact": "Experimento de retención — hipótesis y línea base",
+      "criterion": "Puedes aceptar que un usuario no necesita volver."
+    },
+    {
+      "year": 3,
+      "week": 18,
+      "title": "Retención con valor: diseñar",
+      "concept": "Investiga por qué alguien sigue o deja de usar un producto sin manipular.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Puedes aceptar que un usuario no necesita volver.",
+      "artifact": "Experimento de retención — versión de prueba",
+      "criterion": "Puedes aceptar que un usuario no necesita volver."
+    },
+    {
+      "year": 3,
+      "week": 19,
+      "title": "Retención con valor: probar",
+      "concept": "Investiga por qué alguien sigue o deja de usar un producto sin manipular.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Puedes aceptar que un usuario no necesita volver.",
+      "artifact": "Experimento de retención — registro de prueba",
+      "criterion": "Puedes aceptar que un usuario no necesita volver."
+    },
+    {
+      "year": 3,
+      "week": 20,
+      "title": "Retención con valor: decidir",
+      "concept": "Investiga por qué alguien sigue o deja de usar un producto sin manipular.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Puedes aceptar que un usuario no necesita volver.",
+      "artifact": "Experimento de retención — memo y checkpoint",
+      "criterion": "Puedes aceptar que un usuario no necesita volver."
+    },
+    {
+      "year": 3,
+      "week": 21,
+      "title": "Delegación acotada: investigar",
+      "concept": "Ensaya entregar una tarea documentada a un compañero o adulto.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: El receptor sabe qué hacer y cuándo pedir ayuda.",
+      "artifact": "SOP y criterios de aceptación — hipótesis y línea base",
+      "criterion": "El receptor sabe qué hacer y cuándo pedir ayuda."
+    },
+    {
+      "year": 3,
+      "week": 22,
+      "title": "Delegación acotada: diseñar",
+      "concept": "Ensaya entregar una tarea documentada a un compañero o adulto.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: El receptor sabe qué hacer y cuándo pedir ayuda.",
+      "artifact": "SOP y criterios de aceptación — versión de prueba",
+      "criterion": "El receptor sabe qué hacer y cuándo pedir ayuda."
+    },
+    {
+      "year": 3,
+      "week": 23,
+      "title": "Delegación acotada: probar",
+      "concept": "Ensaya entregar una tarea documentada a un compañero o adulto.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: El receptor sabe qué hacer y cuándo pedir ayuda.",
+      "artifact": "SOP y criterios de aceptación — registro de prueba",
+      "criterion": "El receptor sabe qué hacer y cuándo pedir ayuda."
+    },
+    {
+      "year": 3,
+      "week": 24,
+      "title": "Delegación acotada: decidir",
+      "concept": "Ensaya entregar una tarea documentada a un compañero o adulto.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: El receptor sabe qué hacer y cuándo pedir ayuda.",
+      "artifact": "SOP y criterios de aceptación — memo y checkpoint",
+      "criterion": "El receptor sabe qué hacer y cuándo pedir ayuda."
+    },
+    {
+      "year": 3,
+      "week": 25,
+      "title": "Automatización responsable: investigar",
+      "concept": "Reemplaza una tarea repetida por una ejecución manual controlada.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Mides costo y calidad; en reposo no realiza llamadas.",
+      "artifact": "Prototipo con apagado — hipótesis y línea base",
+      "criterion": "Mides costo y calidad; en reposo no realiza llamadas."
+    },
+    {
+      "year": 3,
+      "week": 26,
+      "title": "Automatización responsable: diseñar",
+      "concept": "Reemplaza una tarea repetida por una ejecución manual controlada.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Mides costo y calidad; en reposo no realiza llamadas.",
+      "artifact": "Prototipo con apagado — versión de prueba",
+      "criterion": "Mides costo y calidad; en reposo no realiza llamadas."
+    },
+    {
+      "year": 3,
+      "week": 27,
+      "title": "Automatización responsable: probar",
+      "concept": "Reemplaza una tarea repetida por una ejecución manual controlada.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Mides costo y calidad; en reposo no realiza llamadas.",
+      "artifact": "Prototipo con apagado — registro de prueba",
+      "criterion": "Mides costo y calidad; en reposo no realiza llamadas."
+    },
+    {
+      "year": 3,
+      "week": 28,
+      "title": "Automatización responsable: decidir",
+      "concept": "Reemplaza una tarea repetida por una ejecución manual controlada.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Mides costo y calidad; en reposo no realiza llamadas.",
+      "artifact": "Prototipo con apagado — memo y checkpoint",
+      "criterion": "Mides costo y calidad; en reposo no realiza llamadas."
+    },
+    {
+      "year": 3,
+      "week": 29,
+      "title": "Alianzas pequeñas: investigar",
+      "concept": "Diseña una colaboración con valor para ambas partes y sin promesas implícitas.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No anuncias alianza sin aceptación verificable.",
+      "artifact": "Propuesta de alianza privada — hipótesis y línea base",
+      "criterion": "No anuncias alianza sin aceptación verificable."
+    },
+    {
+      "year": 3,
+      "week": 30,
+      "title": "Alianzas pequeñas: diseñar",
+      "concept": "Diseña una colaboración con valor para ambas partes y sin promesas implícitas.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No anuncias alianza sin aceptación verificable.",
+      "artifact": "Propuesta de alianza privada — versión de prueba",
+      "criterion": "No anuncias alianza sin aceptación verificable."
+    },
+    {
+      "year": 3,
+      "week": 31,
+      "title": "Alianzas pequeñas: probar",
+      "concept": "Diseña una colaboración con valor para ambas partes y sin promesas implícitas.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No anuncias alianza sin aceptación verificable.",
+      "artifact": "Propuesta de alianza privada — registro de prueba",
+      "criterion": "No anuncias alianza sin aceptación verificable."
+    },
+    {
+      "year": 3,
+      "week": 32,
+      "title": "Alianzas pequeñas: decidir",
+      "concept": "Diseña una colaboración con valor para ambas partes y sin promesas implícitas.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No anuncias alianza sin aceptación verificable.",
+      "artifact": "Propuesta de alianza privada — memo y checkpoint",
+      "criterion": "No anuncias alianza sin aceptación verificable."
+    },
+    {
+      "year": 3,
+      "week": 33,
+      "title": "Resistencia operativa: investigar",
+      "concept": "Simula ausencia del alumno, fallo del proveedor y una devolución grande.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Puedes pausar y cumplir compromisos sin poner datos en riesgo.",
+      "artifact": "Plan de continuidad — hipótesis y línea base",
+      "criterion": "Puedes pausar y cumplir compromisos sin poner datos en riesgo."
+    },
+    {
+      "year": 3,
+      "week": 34,
+      "title": "Resistencia operativa: diseñar",
+      "concept": "Simula ausencia del alumno, fallo del proveedor y una devolución grande.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Puedes pausar y cumplir compromisos sin poner datos en riesgo.",
+      "artifact": "Plan de continuidad — versión de prueba",
+      "criterion": "Puedes pausar y cumplir compromisos sin poner datos en riesgo."
+    },
+    {
+      "year": 3,
+      "week": 35,
+      "title": "Resistencia operativa: probar",
+      "concept": "Simula ausencia del alumno, fallo del proveedor y una devolución grande.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Puedes pausar y cumplir compromisos sin poner datos en riesgo.",
+      "artifact": "Plan de continuidad — registro de prueba",
+      "criterion": "Puedes pausar y cumplir compromisos sin poner datos en riesgo."
+    },
+    {
+      "year": 3,
+      "week": 36,
+      "title": "Resistencia operativa: decidir",
+      "concept": "Simula ausencia del alumno, fallo del proveedor y una devolución grande.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Puedes pausar y cumplir compromisos sin poner datos en riesgo.",
+      "artifact": "Plan de continuidad — memo y checkpoint",
+      "criterion": "Puedes pausar y cumplir compromisos sin poner datos en riesgo."
+    },
+    {
+      "year": 3,
+      "week": 37,
+      "title": "Defensa de crecimiento: investigar",
+      "concept": "Explica qué mejoró, qué empeoró y qué no puedes concluir de tus pruebas.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No atribuyes todo cambio al crecimiento ni escondes pérdidas.",
+      "artifact": "Defensa de año 3 — hipótesis y línea base",
+      "criterion": "No atribuyes todo cambio al crecimiento ni escondes pérdidas."
+    },
+    {
+      "year": 3,
+      "week": 38,
+      "title": "Defensa de crecimiento: diseñar",
+      "concept": "Explica qué mejoró, qué empeoró y qué no puedes concluir de tus pruebas.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No atribuyes todo cambio al crecimiento ni escondes pérdidas.",
+      "artifact": "Defensa de año 3 — versión de prueba",
+      "criterion": "No atribuyes todo cambio al crecimiento ni escondes pérdidas."
+    },
+    {
+      "year": 3,
+      "week": 39,
+      "title": "Defensa de crecimiento: probar",
+      "concept": "Explica qué mejoró, qué empeoró y qué no puedes concluir de tus pruebas.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No atribuyes todo cambio al crecimiento ni escondes pérdidas.",
+      "artifact": "Defensa de año 3 — registro de prueba",
+      "criterion": "No atribuyes todo cambio al crecimiento ni escondes pérdidas."
+    },
+    {
+      "year": 3,
+      "week": 40,
+      "title": "Defensa de crecimiento: decidir",
+      "concept": "Explica qué mejoró, qué empeoró y qué no puedes concluir de tus pruebas.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No atribuyes todo cambio al crecimiento ni escondes pérdidas.",
+      "artifact": "Defensa de año 3 — memo y checkpoint",
+      "criterion": "No atribuyes todo cambio al crecimiento ni escondes pérdidas."
+    },
+    {
+      "year": 4,
+      "week": 1,
+      "title": "Inventario de evidencia: investigar",
+      "concept": "Ordena contratos revisados, registros y decisiones con referencias privadas.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.",
+      "artifact": "Índice de evidencias — hipótesis y línea base",
+      "criterion": "Puedes localizar el soporte de una cifra sin compartir datos sensibles."
+    },
+    {
+      "year": 4,
+      "week": 2,
+      "title": "Inventario de evidencia: diseñar",
+      "concept": "Ordena contratos revisados, registros y decisiones con referencias privadas.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.",
+      "artifact": "Índice de evidencias — versión de prueba",
+      "criterion": "Puedes localizar el soporte de una cifra sin compartir datos sensibles."
+    },
+    {
+      "year": 4,
+      "week": 3,
+      "title": "Inventario de evidencia: probar",
+      "concept": "Ordena contratos revisados, registros y decisiones con referencias privadas.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.",
+      "artifact": "Índice de evidencias — registro de prueba",
+      "criterion": "Puedes localizar el soporte de una cifra sin compartir datos sensibles."
+    },
+    {
+      "year": 4,
+      "week": 4,
+      "title": "Inventario de evidencia: decidir",
+      "concept": "Ordena contratos revisados, registros y decisiones con referencias privadas.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.",
+      "artifact": "Índice de evidencias — memo y checkpoint",
+      "criterion": "Puedes localizar el soporte de una cifra sin compartir datos sensibles."
+    },
+    {
+      "year": 4,
+      "week": 5,
+      "title": "Reconciliar resultados: investigar",
+      "concept": "Revisa duplicados, costos pendientes y monedas con tu adulto.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.",
+      "artifact": "Cierre provisional del programa — hipótesis y línea base",
+      "criterion": "Distingues indicador base caja y utilidad neta contable."
+    },
+    {
+      "year": 4,
+      "week": 6,
+      "title": "Reconciliar resultados: diseñar",
+      "concept": "Revisa duplicados, costos pendientes y monedas con tu adulto.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.",
+      "artifact": "Cierre provisional del programa — versión de prueba",
+      "criterion": "Distingues indicador base caja y utilidad neta contable."
+    },
+    {
+      "year": 4,
+      "week": 7,
+      "title": "Reconciliar resultados: probar",
+      "concept": "Revisa duplicados, costos pendientes y monedas con tu adulto.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.",
+      "artifact": "Cierre provisional del programa — registro de prueba",
+      "criterion": "Distingues indicador base caja y utilidad neta contable."
+    },
+    {
+      "year": 4,
+      "week": 8,
+      "title": "Reconciliar resultados: decidir",
+      "concept": "Revisa duplicados, costos pendientes y monedas con tu adulto.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.",
+      "artifact": "Cierre provisional del programa — memo y checkpoint",
+      "criterion": "Distingues indicador base caja y utilidad neta contable."
+    },
+    {
+      "year": 4,
+      "week": 9,
+      "title": "Calidad y derechos: investigar",
+      "concept": "Revisa acceso, licencias, privacidad y promesas de tu producto.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.",
+      "artifact": "Auditoría educativa de publicación — hipótesis y línea base",
+      "criterion": "Toda afirmación material tiene evidencia o se retira."
+    },
+    {
+      "year": 4,
+      "week": 10,
+      "title": "Calidad y derechos: diseñar",
+      "concept": "Revisa acceso, licencias, privacidad y promesas de tu producto.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.",
+      "artifact": "Auditoría educativa de publicación — versión de prueba",
+      "criterion": "Toda afirmación material tiene evidencia o se retira."
+    },
+    {
+      "year": 4,
+      "week": 11,
+      "title": "Calidad y derechos: probar",
+      "concept": "Revisa acceso, licencias, privacidad y promesas de tu producto.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.",
+      "artifact": "Auditoría educativa de publicación — registro de prueba",
+      "criterion": "Toda afirmación material tiene evidencia o se retira."
+    },
+    {
+      "year": 4,
+      "week": 12,
+      "title": "Calidad y derechos: decidir",
+      "concept": "Revisa acceso, licencias, privacidad y promesas de tu producto.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.",
+      "artifact": "Auditoría educativa de publicación — memo y checkpoint",
+      "criterion": "Toda afirmación material tiene evidencia o se retira."
+    },
+    {
+      "year": 4,
+      "week": 13,
+      "title": "Continuidad del servicio: investigar",
+      "concept": "Documenta cómo entregar, responder y pausar sin depender de tu memoria.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.",
+      "artifact": "Manual de operación — hipótesis y línea base",
+      "criterion": "Otra persona sigue una tarea completa y encuentra ayuda si falla."
+    },
+    {
+      "year": 4,
+      "week": 14,
+      "title": "Continuidad del servicio: diseñar",
+      "concept": "Documenta cómo entregar, responder y pausar sin depender de tu memoria.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.",
+      "artifact": "Manual de operación — versión de prueba",
+      "criterion": "Otra persona sigue una tarea completa y encuentra ayuda si falla."
+    },
+    {
+      "year": 4,
+      "week": 15,
+      "title": "Continuidad del servicio: probar",
+      "concept": "Documenta cómo entregar, responder y pausar sin depender de tu memoria.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.",
+      "artifact": "Manual de operación — registro de prueba",
+      "criterion": "Otra persona sigue una tarea completa y encuentra ayuda si falla."
+    },
+    {
+      "year": 4,
+      "week": 16,
+      "title": "Continuidad del servicio: decidir",
+      "concept": "Documenta cómo entregar, responder y pausar sin depender de tu memoria.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.",
+      "artifact": "Manual de operación — memo y checkpoint",
+      "criterion": "Otra persona sigue una tarea completa y encuentra ayuda si falla."
+    },
+    {
+      "year": 4,
+      "week": 17,
+      "title": "Escenarios futuros: investigar",
+      "concept": "Modela cierre, continuidad y crecimiento con supuestos explícitos.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.",
+      "artifact": "Tres escenarios comparables — hipótesis y línea base",
+      "criterion": "No conviertes una proyección en ingreso ya ganado."
+    },
+    {
+      "year": 4,
+      "week": 18,
+      "title": "Escenarios futuros: diseñar",
+      "concept": "Modela cierre, continuidad y crecimiento con supuestos explícitos.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.",
+      "artifact": "Tres escenarios comparables — versión de prueba",
+      "criterion": "No conviertes una proyección en ingreso ya ganado."
+    },
+    {
+      "year": 4,
+      "week": 19,
+      "title": "Escenarios futuros: probar",
+      "concept": "Modela cierre, continuidad y crecimiento con supuestos explícitos.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.",
+      "artifact": "Tres escenarios comparables — registro de prueba",
+      "criterion": "No conviertes una proyección en ingreso ya ganado."
+    },
+    {
+      "year": 4,
+      "week": 20,
+      "title": "Escenarios futuros: decidir",
+      "concept": "Modela cierre, continuidad y crecimiento con supuestos explícitos.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.",
+      "artifact": "Tres escenarios comparables — memo y checkpoint",
+      "criterion": "No conviertes una proyección en ingreso ya ganado."
+    },
+    {
+      "year": 4,
+      "week": 21,
+      "title": "Uso responsable de capital: investigar",
+      "concept": "Compara reinversión, reserva y no gastar con un presupuesto acotado.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.",
+      "artifact": "Memo de decisión — hipótesis y línea base",
+      "criterion": "No se requiere préstamo ni inversión real para cerrar la unidad."
+    },
+    {
+      "year": 4,
+      "week": 22,
+      "title": "Uso responsable de capital: diseñar",
+      "concept": "Compara reinversión, reserva y no gastar con un presupuesto acotado.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.",
+      "artifact": "Memo de decisión — versión de prueba",
+      "criterion": "No se requiere préstamo ni inversión real para cerrar la unidad."
+    },
+    {
+      "year": 4,
+      "week": 23,
+      "title": "Uso responsable de capital: probar",
+      "concept": "Compara reinversión, reserva y no gastar con un presupuesto acotado.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.",
+      "artifact": "Memo de decisión — registro de prueba",
+      "criterion": "No se requiere préstamo ni inversión real para cerrar la unidad."
+    },
+    {
+      "year": 4,
+      "week": 24,
+      "title": "Uso responsable de capital: decidir",
+      "concept": "Compara reinversión, reserva y no gastar con un presupuesto acotado.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.",
+      "artifact": "Memo de decisión — memo y checkpoint",
+      "criterion": "No se requiere préstamo ni inversión real para cerrar la unidad."
+    },
+    {
+      "year": 4,
+      "week": 25,
+      "title": "Aprender y colaborar: investigar",
+      "concept": "Prepara una guía para alguien que empieza y revisa la atribución.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.",
+      "artifact": "Guía original y sesión de apoyo — hipótesis y línea base",
+      "criterion": "La otra persona explica lo que entendió con sus palabras."
+    },
+    {
+      "year": 4,
+      "week": 26,
+      "title": "Aprender y colaborar: diseñar",
+      "concept": "Prepara una guía para alguien que empieza y revisa la atribución.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.",
+      "artifact": "Guía original y sesión de apoyo — versión de prueba",
+      "criterion": "La otra persona explica lo que entendió con sus palabras."
+    },
+    {
+      "year": 4,
+      "week": 27,
+      "title": "Aprender y colaborar: probar",
+      "concept": "Prepara una guía para alguien que empieza y revisa la atribución.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.",
+      "artifact": "Guía original y sesión de apoyo — registro de prueba",
+      "criterion": "La otra persona explica lo que entendió con sus palabras."
+    },
+    {
+      "year": 4,
+      "week": 28,
+      "title": "Aprender y colaborar: decidir",
+      "concept": "Prepara una guía para alguien que empieza y revisa la atribución.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.",
+      "artifact": "Guía original y sesión de apoyo — memo y checkpoint",
+      "criterion": "La otra persona explica lo que entendió con sus palabras."
+    },
+    {
+      "year": 4,
+      "week": 29,
+      "title": "Portafolio público opcional: investigar",
+      "concept": "Construye una versión saneada de tus evidencias que puedas mostrar.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.",
+      "artifact": "Portafolio sin datos sensibles — hipótesis y línea base",
+      "criterion": "Incluyes fracasos y distingues metas, simulaciones y resultados."
+    },
+    {
+      "year": 4,
+      "week": 30,
+      "title": "Portafolio público opcional: diseñar",
+      "concept": "Construye una versión saneada de tus evidencias que puedas mostrar.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.",
+      "artifact": "Portafolio sin datos sensibles — versión de prueba",
+      "criterion": "Incluyes fracasos y distingues metas, simulaciones y resultados."
+    },
+    {
+      "year": 4,
+      "week": 31,
+      "title": "Portafolio público opcional: probar",
+      "concept": "Construye una versión saneada de tus evidencias que puedas mostrar.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.",
+      "artifact": "Portafolio sin datos sensibles — registro de prueba",
+      "criterion": "Incluyes fracasos y distingues metas, simulaciones y resultados."
+    },
+    {
+      "year": 4,
+      "week": 32,
+      "title": "Portafolio público opcional: decidir",
+      "concept": "Construye una versión saneada de tus evidencias que puedas mostrar.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.",
+      "artifact": "Portafolio sin datos sensibles — memo y checkpoint",
+      "criterion": "Incluyes fracasos y distingues metas, simulaciones y resultados."
+    },
+    {
+      "year": 4,
+      "week": 33,
+      "title": "Defensa final: investigar",
+      "concept": "Ensaya demo, métricas, historia de decisiones y preguntas difíciles.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.",
+      "artifact": "Defensa de quince minutos — hipótesis y línea base",
+      "criterion": "Explicas tu aporte, límites de IA y principal incertidumbre."
+    },
+    {
+      "year": 4,
+      "week": 34,
+      "title": "Defensa final: diseñar",
+      "concept": "Ensaya demo, métricas, historia de decisiones y preguntas difíciles.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.",
+      "artifact": "Defensa de quince minutos — versión de prueba",
+      "criterion": "Explicas tu aporte, límites de IA y principal incertidumbre."
+    },
+    {
+      "year": 4,
+      "week": 35,
+      "title": "Defensa final: probar",
+      "concept": "Ensaya demo, métricas, historia de decisiones y preguntas difíciles.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.",
+      "artifact": "Defensa de quince minutos — registro de prueba",
+      "criterion": "Explicas tu aporte, límites de IA y principal incertidumbre."
+    },
+    {
+      "year": 4,
+      "week": 36,
+      "title": "Defensa final: decidir",
+      "concept": "Ensaya demo, métricas, historia de decisiones y preguntas difíciles.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.",
+      "artifact": "Defensa de quince minutos — memo y checkpoint",
+      "criterion": "Explicas tu aporte, límites de IA y principal incertidumbre."
+    },
+    {
+      "year": 4,
+      "week": 37,
+      "title": "Cierre y siguiente etapa: investigar",
+      "concept": "Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.",
+      "build": "Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.",
+      "test": "Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.",
+      "artifact": "Plan de transición y checkpoint — hipótesis y línea base",
+      "criterion": "No quedan compromisos ignorados ni rutinas activadas por el programa."
+    },
+    {
+      "year": 4,
+      "week": 38,
+      "title": "Cierre y siguiente etapa: diseñar",
+      "concept": "Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.",
+      "build": "Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.",
+      "test": "Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.",
+      "artifact": "Plan de transición y checkpoint — versión de prueba",
+      "criterion": "No quedan compromisos ignorados ni rutinas activadas por el programa."
+    },
+    {
+      "year": 4,
+      "week": 39,
+      "title": "Cierre y siguiente etapa: probar",
+      "concept": "Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.",
+      "build": "Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.",
+      "test": "Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.",
+      "artifact": "Plan de transición y checkpoint — registro de prueba",
+      "criterion": "No quedan compromisos ignorados ni rutinas activadas por el programa."
+    },
+    {
+      "year": 4,
+      "week": 40,
+      "title": "Cierre y siguiente etapa: decidir",
+      "concept": "Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.",
+      "build": "Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.",
+      "test": "Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.",
+      "artifact": "Plan de transición y checkpoint — memo y checkpoint",
+      "criterion": "No quedan compromisos ignorados ni rutinas activadas por el programa."
+    }
+  ]
+}
