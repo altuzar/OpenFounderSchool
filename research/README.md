@@ -1,32 +1,32 @@
-# Investigación y límites de cobertura
+# Research and coverage limitations
 
-Fecha de corte: **28 de octubre de 2026**, Ciudad de México. Esta es una investigación de materiales públicos, no acceso al currículo interno ni una auditoría de la escuela. Los precios, plazas, fechas y productos pueden cambiar.
+Cutoff: **October 28, 2026**, Mexico City time. This is public-material research, not access to the internal curriculum or an audit of the school. Prices, places, dates, and products can change.
 
-- [Fuentes del sitio y observaciones](website-notes.md).
-- [Mentores e invitados mencionados por la fuente](mentors-reference.md).
-- [Notas de las 21 publicaciones de YouTube](youtube-notes.md).
-- [Inventario estructurado del canal](youtube-catalog.json).
-- [Inventario de páginas recuperadas](website-catalog.json).
-- [Decisiones de adaptación](design-decisions.md).
+- [Website sources and observations](website-notes.md).
+- [Mentors and guests mentioned by sources](mentors-reference.md).
+- [Notes on 21 YouTube publications](youtube-notes.md).
+- [Structured channel inventory](youtube-catalog.json).
+- [Website retrieval inventory](website-catalog.json).
+- [Adaptation decisions](design-decisions.md).
 
-## Método
+## Method
 
-Se resolvió founder.school hacia founders.school, se consultó su sitemap y se recuperaron páginas públicas enumeradas allí. Se leyó el contenido curricular público, las FAQ y materiales editoriales; el primer año también expone contenido de acordeones en la respuesta HTML, revisado para no depender sólo de texto inicialmente visible. Las vacantes se examinaron por su información de operación y alcance; no se usaron para reproducir una organización privada ni se aplicó a empleos.
+We resolved founder.school to founders.school, consulted its sitemap, and retrieved listed public pages. We read public curricular content, FAQs, and editorial material. First-year accordion content exposed in the HTML response was also inspected rather than relying only on initially visible text. Job listings were examined for operational information and scope, not to reproduce a private organization; no job applications were submitted.
 
-Se intentaron las **29 URLs del sitemap**: veinte capturas HTTP completas terminaron correctamente; nueve agotaron el tiempo de captura. Se examinó el texto disponible en respuestas parciales o mediante el lector web, según registra el catálogo. Esto no equivale a conservar una copia íntegra verificable de cada respuesta ni a leer cada formulario y ficha de empleo palabra por palabra.
+All **29 sitemap URLs** were attempted. Twenty complete HTTP captures succeeded; nine timed out. Available text was inspected through partial responses or the web reader, as recorded in the catalog. This is not a complete verifiable copy of every response or a word-for-word review of every form and job listing.
 
-El canal público devolvió seis videos largos y quince Shorts. Se revisó **el texto completo de sus subtítulos automáticos en inglés**, con metadatos y un **muestreo de tres imágenes por publicación**. Para trece Shorts se pudieron extraer fotogramas; para los demás se usaron imágenes de storyboard de YouTube por fallos de descarga de video. No fue una reproducción audiovisual continua ni una verificación de cada palabra o pantalla. Los subtítulos pueden equivocar nombres, cantidades y marcas.
+The public channel returned six long videos and fifteen Shorts. We reviewed **the complete text of their automatic English subtitles**, metadata, and **three sampled images per publication**. Frames were extracted from thirteen Shorts; the remaining publications used YouTube storyboard images after video downloads failed. This was not continuous audiovisual playback or verification of every word or screen. Automatic subtitles can misrecognize names, amounts, and brands.
 
-Las traducciones automáticas al español devolvieron HTTP 429; algunas descargas de video devolvieron HTTP 403. Esto no impidió leer los subtítulos ingleses de las 21 publicaciones. Se conservaron hashes de las fuentes consultadas para trazabilidad, sin redistribuir textos o medios completos. Los archivos de investigación de terceros quedaron fuera del repo público y de los paquetes.
+Automatic Spanish subtitle downloads returned HTTP 429, and some video downloads returned HTTP 403. The complete English subtitles remained available for all 21 publications. Source hashes support traceability without redistributing complete third-party text or media. Third-party research files were kept outside the public repository and kits.
 
-## Qué no se afirma
+## What is not claimed
 
-No se auditó el resultado académico, ingresos, utilidad o patrimonio de alumnos, fundadores o invitados. Los números en un título, entrevista o demostración son **afirmaciones de esa fuente**, no resultados verificados. No se accedió a FounderOS, cuentas de alumnos, plataforma académica, contrato privado de inscripción o contenido tras login. No se completaron formularios ni se solicitó información en nombre de una familia.
+We did not audit academic outcomes, revenue, profit, or wealth of students, founders, or guests. Figures in titles, interviews, or demonstrations are **claims by those sources**, not verified results. We did not access FounderOS, student accounts, the academic platform, private enrollment agreements, or content behind login. No forms were completed or inquiries sent on behalf of a family.
 
-No se verificaron exhaustivamente artículos o videos externos enlazados en prensa: son otro corpus. El inventario corresponde a la superficie pública y al momento de consulta; no prueba que no existan publicaciones privadas, retiradas o futuras. Las imágenes muestreadas permiten revisar contexto visual, no certificar toda la ejecución mostrada.
+External articles and videos linked from the press page were not exhaustively reviewed; they are a separate corpus. The inventory covers the public surface at consultation time, not private, removed, or future publications. Sampled images provide visual context, not certification of everything demonstrated.
 
-## Reproducibilidad y derechos
+## Reproducibility and rights
 
-El catálogo registra URL, estado de recuperación, fecha y hash cuando hay bytes descargados. Un hash no demuestra que una afirmación sea cierta. Una nueva captura puede variar por contenido dinámico. Cualquier actualización debe ser manual, acotada y respetar acceso del proveedor; no se instala un scraper recurrente.
+The catalog records URL, retrieval status, date, and hashes where source bytes were captured. A hash does not establish truth. A later capture may differ because content is dynamic. Updates should be manual, bounded, and respect provider access; no recurring scraper is installed.
 
-El currículo, ejercicios, lectura breve, coach y plantillas son originales de OpenFounderSchool. Las referencias no otorgan licencia sobre los materiales de Founders School. Se enlaza al original y se incluyen paráfrasis breves, sin vender acceso a sus mentores ni atribuirles participación aquí.
+The curriculum, exercises, short readings, coach, and templates are original OpenFounderSchool work. References grant no license to Founders School material. We link to originals and provide brief paraphrases without selling mentor access or claiming their participation.

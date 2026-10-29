@@ -1,23 +1,23 @@
-# Mentoría humana de comunidad
+# Community human mentoring
 
-Busca primero una persona cercana que haya entregado un producto o servicio a clientes: comerciante, profesional independiente, desarrollador, diseñador, operador o egresado. Fama y patrimonio no demuestran capacidad de enseñar o cuidar a menores.
+Start with someone nearby who has delivered a product or service to customers: a shop owner, freelancer, developer, designer, operator, or graduate. Fame and wealth do not demonstrate teaching ability or suitability to work with minors.
 
-## Selección por el adulto
+## Adult-led selection
 
-Comprueba experiencia pertinente, referencias, disponibilidad y disposición a respetar límites. Declara posibles conflictos: venta de cursos, interés en contratar, comisiones o inversión. No concedas acceso directo al alumno o a sus cuentas por ser “mentor”. Una colaboración empieza sólo cuando ambas partes acuerdan rol, tiempo y condiciones. No anuncies nombres antes de su aceptación.
+Check relevant experience, references, availability, and willingness to respect boundaries. Declare possible conflicts: courses for sale, hiring interest, commissions, or investment. A mentor title does not grant direct access to a student or their accounts. Collaboration begins only when both sides agree on role, time, and conditions. Do not announce names before acceptance.
 
-Para un club, usa los procesos de selección y protección de su institución y jurisdicción. Este archivo no sustituye esas verificaciones.
+For a club, follow its institution's and jurisdiction's selection and safeguarding processes. This file does not replace those checks.
 
-## Invitación de ejemplo — borrador, no enviar automáticamente
+## Example invitation — draft, never send automatically
 
-“Organizamos un club gratuito de emprendimiento después de clases. Buscamos una sesión de 30 minutos para comentar una oferta o demo pequeña. Un adulto estará presente. No pedimos inversión ni promoción. ¿Te interesaría revisar una ficha anónima y tres preguntas? No grabaremos ni publicaremos tu nombre sin acuerdo.”
+“We run a free after-school entrepreneurship club. We are looking for a 30-minute session to discuss a small offer or demo, with an adult present. We are not requesting investment or promotion. Would you review an anonymous brief and three questions? We will not record or publish your name without agreement.”
 
-## Sesión de 30 minutos
+## A 30-minute session
 
-5 min de contexto y límites, 5 de demo del alumno, 15 de preguntas y 5 de compromisos. El adulto modera. El mentor no necesita ver documentos personales, datos bancarios ni listas de clientes. No hay mensajes privados posteriores entre mentor y menor; el seguimiento pasa por el adulto.
+Five minutes of context and boundaries, five of student demo, fifteen of questions, and five of commitments. An adult moderates. The mentor does not need personal documents, bank information, or customer lists. No subsequent private mentor/minor messages; follow-up goes through the adult.
 
-Preguntas útiles: ¿qué parte de la promesa no es creíble?, ¿qué evidencia faltaría para probarla?, ¿qué costo olvidamos?, ¿qué harías en una semana con presupuesto cero? Evita transformar la sesión en una recomendación de abandonar la escuela, tomar deuda o comprar servicios.
+Useful questions: what part of the promise is not credible, what evidence would test it, what cost did we miss, and what would you do in one week with no budget? Do not turn the session into advice to leave school, take debt, or buy services.
 
-## Después
+## Afterwards
 
-El alumno resume el consejo y decide qué probar, sin tratarlo como verdad por autoridad. El adulto registra fecha, tema y condiciones de seguimiento. Para publicar un agradecimiento o testimonio pide autorización específica. Un mentor invitado no es automáticamente colaborador, inversionista ni patrocinador del proyecto.
+The student summarizes the advice and chooses what to test instead of accepting it on authority. The adult records date, topic, and follow-up conditions. Obtain specific authorization to publish thanks or a testimonial. A guest mentor is not automatically a contributor, investor, or sponsor.

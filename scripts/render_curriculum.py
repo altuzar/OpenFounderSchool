@@ -1,4 +1,4 @@
-"""Render original curricular data into human-readable guides (offline)."""
+"""Render original curricular data into English guides (offline)."""
 import json
 from pathlib import Path
 
@@ -9,72 +9,72 @@ def render():
     data = json.loads((ROOT / 'curriculum/plan.json').read_text(encoding='utf-8'))
     for year in range(1, 5):
         weeks = [e for e in data['entries'] if e['year'] == year]
-        parts = [f'# Año {year} — guía semanal', '',
-                 '40 semanas activas × 6 horas = 240 horas. Ajusta fechas, descansos y accesibilidad con tu familia.', '',
-                 'Material original de OpenFounderSchool. Las simulaciones nunca cuentan como clientes o utilidad real.', '',
-                 'Lee [el overview](../OVERVIEW.md) y [la rúbrica](../../docs/ASSESSMENT.md).', '']
+        parts = [f'# Year {year} — weekly guide', '',
+                 '40 active weeks × 6 hours = 240 hours. Adjust dates, breaks, and accessibility with your family.', '',
+                 'Original OpenFounderSchool material. Simulations never count as real customers or profit.', '',
+                 'Read [the overview](../OVERVIEW.md) and [the rubric](../../docs/ASSESSMENT.md).', '']
         for e in weeks:
             w = e['week']
-            parts += [f'## Semana {w}: {e["title"]}', '', e['concept'], '',
-                      f'- **Construir:** {e["build"]}', f'- **Probar:** {e["test"]}',
-                      f'- **Entregar:** {e["artifact"]}', f'- **Criterio:** {e["criterion"]}', '']
+            parts += [f'## Week {w}: {e["title"]}', '', e['concept'], '',
+                      f'- **Build:** {e["build"]}', f'- **Test:** {e["test"]}',
+                      f'- **Deliver:** {e["artifact"]}', f'- **Criterion:** {e["criterion"]}', '']
             if year == 1:
-                parts += [f'[Abrir la lección completa](../lessons/y1-w{w:02d}.md).', '']
+                parts += [f'[Open the full lesson](../lessons/y1-w{w:02d}.md).', '']
                 reading = ['A','A','A','A','C','D','C','B','B','H',
                            'E','E','E','E','E','B','C','C','E','H',
                            'B','F','B','D','B','B','H','F','E','H',
                            'G','G','C','D','F','H','D','E','H','H'][w - 1]
-                text = f'''# Año 1 · Semana {w}: {e['title']}
+                text = f'''# Year 1 · Week {w}: {e['title']}
 
-**Tiempo total: 6 horas**. Tres bloques de 90 minutos y una revisión familiar de 90. Divide cada bloque si lo necesitas. Presupuesto inicial US$0; modo simulación salvo actividades concretas autorizadas por el adulto.
+**Total time: 6 hours**. Three 90-minute blocks and one 90-minute family review. Split blocks if needed. Initial budget US$0; simulation mode unless an adult authorizes specific activities.
 
-## Idea de esta semana
+## This week's idea
 
 {e['concept']}
 
-Lee la unidad **{reading}** de [lecturas originales](../READINGS.md). Explícala con un ejemplo distinto al texto. La lectura y la conversación ocurren dentro del primer bloque, no son tarea adicional.
+Read unit **{reading}** of the [original readings](../READINGS.md). Explain it using an example different from the text. Reading and discussion happen inside the first block, not as additional homework.
 
-## Bloque 1: comprender y hacer tu primer intento
+## Block 1: understand and make your first attempt
 
-10 min para revisar energía y evidencia anterior; 20 para leer y discutir; 20 para tu primer borrador; 10 de pausa; 25 para practicar con apoyo del coach y 5 para anotar qué cambió. Pregunta: ¿qué sé por experiencia y qué estoy suponiendo? El coach pide tu intento antes de proponer una solución completa.
+Spend 10 minutes checking energy and previous evidence; 20 reading and discussing; 20 on your first draft; 10 on a break; 25 practicing with coach support; and 5 recording what changed. Ask: what do I know from experience, and what am I assuming? The coach requests your attempt before proposing a complete solution.
 
-## Bloque 2: construir
+## Block 2: build
 
 {e['build']}
 
-Usa 10 min para elegir alcance, 30 para trabajar tú, 10 de pausa, 30 para mejorar con ayuda y 10 para comprobar el entregable. Si te bloqueas, reduce el resultado a una versión que puedas explicar en 20 minutos. Documenta qué hizo la IA y qué comprendiste tú.
+Use 10 minutes to set scope, 30 to work independently, 10 for a break, 30 to improve with help, and 10 to check the deliverable. If stuck, reduce the outcome to something you can explain in 20 minutes. Document what the AI did and what you understood yourself.
 
-## Bloque 3: probar y registrar
+## Block 3: test and record
 
 {e['test']}
 
-Dedica 15 min a preparar prueba y permisos, 30 a probar, 10 a pausar, 25 a analizar y 10 a registrar. Si requiere acciones externas sin permiso, usa roleplay etiquetado SIMULACIÓN. Guarda un resultado que contradiga tu idea o explica honestamente que todavía no lo encontraste. No inventes evidencia para completar la tabla.
+Allow 15 minutes for test preparation and permissions, 30 for testing, 10 for a break, 25 for analysis, and 10 for recording evidence. If external action lacks permission, use roleplay labeled SIMULATION. Keep a result that contradicts your idea, or honestly explain that you have not found one yet. Do not invent evidence to fill a table.
 
-## Bloque 4: revisión con adulto o mentor
+## Block 4: review with an adult or mentor
 
-Muestra **{e['artifact'].rstrip('.')}**. Revisa la [rúbrica](../../docs/ASSESSMENT.md): problema, construcción, comunicación, números y criterio. El adulto escucha tu explicación y hace estas preguntas:
+Show **{e['artifact'].rstrip('.')}**. Use the [rubric](../../docs/ASSESSMENT.md): problem, construction, communication, numbers, and judgment. The adult listens to your explanation and asks:
 
-1. ¿Qué parte observaste y qué parte supones?
-2. ¿Cómo podría comprobar otra persona tu afirmación principal?
-3. ¿Qué cambiarías si tuvieras la mitad del tiempo o presupuesto cero?
+1. What did you observe, and what are you assuming?
+2. How could someone else verify your main claim?
+3. What would you change with half the time or a zero-dollar budget?
 
-**Criterio de esta semana:** {e['criterion']}
+**This week's criterion:** {e['criterion']}
 
-Si falta evidencia, acuerden una práctica más pequeña antes de avanzar externamente. No se exige una venta. Completa [la revisión semanal](../../templates/weekly-review.md) y [el checkpoint](../../templates/checkpoint.md) en tu carpeta privada. Nunca publiques datos de menores ni de clientes.
+If evidence is missing, agree on a smaller practice before taking further external action. A sale is not required. Complete the [weekly review](../../templates/weekly-review.md) and [checkpoint](../../templates/checkpoint.md) in your private folder. Never publish children's or customers' private data.
 
-## Adaptación y ampliación
+## Adapt and extend
 
-Para menor carga: cumple el mismo criterio con una conversación, dibujo o ejemplo sintético y reparte la semana en dos. Para más experiencia: busca un contraejemplo o pide que otra persona pruebe el entregable; no añadas gastos, contactos ni herramientas automáticamente.
+For a lighter workload, meet the same criterion through a conversation, drawing, or synthetic example and split the week across two calendar weeks. For more experience, seek a counterexample or ask another person to test the deliverable; do not automatically add spending, contacts, or tools.
 
-[Volver al año 1](../years/year-1.md) · [Plantillas](../../templates/README.md)
+[Back to year 1](../years/year-1.md) · [Templates](../../templates/README.md)
 '''
                 (ROOT / f'curriculum/lessons/y1-w{w:02d}.md').write_text(text, encoding='utf-8')
         if year > 1:
-            parts += ['## Cómo ejecutar cada semana', '',
-                      'Bloque 1: revisa evidencia y explica el concepto (90 min). Bloque 2: construye la entrega indicada (90 min). '
-                      'Bloque 3: ejecuta la prueba propuesta con límites y permisos (90 min). Bloque 4: autoevalúa, revisa con adulto y guarda checkpoint (90 min). '
-                      'Cada ciclo de cuatro semanas produce una decisión, no una cuota obligatoria de ingresos. '
-                      'Vuelve a las lecturas y plantillas según la necesidad; el coach puede explicar y adaptar, sin inventar evidencia.', '']
+            parts += ['## How to run each week', '',
+                      'Block 1: review evidence and explain the concept (90 minutes). Block 2: build the specified deliverable (90 minutes). '
+                      'Block 3: run the proposed test within limits and permissions (90 minutes). Block 4: self-assess, review with an adult, and save a checkpoint (90 minutes). '
+                      'Each four-week cycle produces a decision, not a mandatory revenue quota. '
+                      'Return to readings and templates as needed; the coach may explain and adapt without inventing evidence.', '']
         (ROOT / f'curriculum/years/year-{year}.md').write_text('\n'.join(parts), encoding='utf-8')
 
 

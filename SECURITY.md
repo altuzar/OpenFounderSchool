@@ -1,19 +1,18 @@
-# Seguridad y privacidad
+# Security and privacy
 
-No incluyas datos personales, claves, credenciales o información de menores en
-issues, pull requests, capturas ni ejemplos. Conserva evidencia mínima saneada.
-Los datos del alumno pertenecen a la carpeta privada de la familia y no a este
-repositorio público.
+Do not include personal data, keys, credentials, or children's information in
+issues, pull requests, screenshots, or examples. Retain minimal sanitized evidence.
+Student information belongs in the family's private folder, not this public repo.
 
-Si detectas una exposición, detén el uso afectado y avisa al adulto responsable.
-Revoca claves con su proveedor cuando corresponda. Borrar un archivo del último
-commit no borra su historial, forks, cachés ni copias. Revisa las herramientas
-del proveedor para gestionar el incidente.
+If you discover exposure, stop affected use and notify the responsible adult.
+Revoke keys with their provider when appropriate. Removing a file from the latest
+commit does not remove history, forks, caches, or copies. Review provider tools
+for incident management.
 
-Para un fallo del código, revisa primero si el repositorio ofrece reporte
-privado de vulnerabilidades en GitHub. Si no existe, abre sólo un aviso mínimo
-sin detalles explotables ni datos y solicita un canal privado al mantenedor.
-No se publica un correo o equipo de seguridad ficticio.
+For a code vulnerability, first check whether GitHub private vulnerability
+reporting is available. Otherwise open only a minimal notice without exploitable
+details or data and request a private channel from the maintainer. No fictional
+security email address or team is published.
 
-Los prompts no son una barrera de seguridad. Los agentes deben ejecutarse con
-permisos y alcance adecuados, supervisión adulta y presupuesto limitado.
+Prompts are not a security barrier. Run agents with appropriate permissions,
+bounded scope, adult supervision, and spending limits.

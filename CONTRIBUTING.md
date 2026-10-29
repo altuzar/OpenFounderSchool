@@ -1,27 +1,27 @@
-# Contribuir
+# Contributing
 
-Aceptamos mejoras al currículo original, accesibilidad, traducciones, pruebas y
-adaptaciones verificadas. Usa ejemplos sintéticos y no publiques información de
-menores o clientes. Contribuir contenido implica ofrecerlo bajo MIT y tener los
-derechos necesarios para hacerlo.
+We welcome original curriculum improvements, accessibility, translations, tests,
+and verified platform adaptations. Use synthetic examples; never publish student
+or customer information. Contributions are offered under MIT and must be yours
+to license. The current public edition and all generated output are in English.
 
-Para modificar una semana, edita curriculum/plan.json y regenera con
-`python3 scripts/render_curriculum.py`. Las cuatro guías y primeras 40 lecciones
-son salidas de ese archivo. Para cambiar estructura, edita también el renderer.
+To change a week, edit curriculum/plan.json and regenerate with
+`python3 scripts/render_curriculum.py`. The four annual guides and first 40
+lessons are generated from that file. For structural changes, edit the renderer too.
 
-Antes de enviar un cambio:
+Before submitting:
 
-1. Conserva el propósito after school y una actividad posible con presupuesto cero.
-2. Incluye objetivo, tarea, evidencia y criterio que otra persona pueda revisar.
-3. Distingue datos verificados, autorreportes, inferencias y simulaciones.
-4. Para cambios de proveedor, cita documentación oficial, fecha y lo que probaste.
-5. Ejecuta `python3 -m unittest discover -s tests -v`, regenera paquetes y ejecuta
+1. Keep the after-school purpose and an activity possible with no budget.
+2. Include an objective, task, evidence, and criterion someone else can review.
+3. Distinguish verified facts, self-reports, inferences, and simulations.
+4. For provider changes, cite official documentation, date, and actual testing.
+5. Run `python3 -m unittest discover -s tests -v`, regenerate kits, and run
    `python3 scripts/ofs.py check`.
 
-No aceptamos promesas de ingresos, mentores inventados, copias de currículo
-privado, medios ajenos sin derechos ni tareas recurrentes activadas por defecto.
-Una mejora de marketing no debe esconder tuition cero o el máximo reembolsable.
+We do not accept earnings promises, invented mentors, copies of private
+curriculum, unauthorized media, or recurring tasks enabled by default.
+Marketing changes must not obscure zero tuition or the maximum refund.
 
-Usa issues para errores del material y propuestas; nunca para subir datos
-privados. Para un problema de seguridad sigue SECURITY.md. La primera edición
-no promete plazos de respuesta, mentoría personal ni soporte profesional.
+Use issues for material errors and proposals, never private data. Follow
+SECURITY.md for security concerns. This edition promises no response time,
+personal mentoring, or professional support.

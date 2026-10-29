@@ -1,44 +1,44 @@
-# Del ejercicio al negocio real
+# From an exercise to a real business
 
-Este plan es una opción para familias que deciden operar un negocio con supervisión apropiada. No sustituye verificar requisitos locales o de proveedores. Ninguna venta es requisito para permanecer en el currículo. Empieza con un alcance que puedas cumplir sin deuda, datos sensibles ni compromisos incompatibles con la escuela.
+This path is optional for families choosing to operate a business with appropriate supervision. It does not replace checking local or provider requirements. Sales are never required to remain in the curriculum. Start with a scope you can fulfill without debt, sensitive data, or commitments incompatible with school.
 
-## Elegir una primera vía
+## Choose a first path
 
-Puntúa de 0 a 2: acceso a alguien con el problema, frecuencia del problema, evidencia de gasto actual, capacidad de entregar, costo inicial bajo, riesgo bajo y compatibilidad con horario. Una idea llamativa no compensa ausencia de acceso o capacidad.
+Score each factor from 0 to 2: access to someone with the problem, recurrence, evidence of existing spending, delivery ability, low starting cost, low risk, and schedule fit. An exciting idea does not compensate for missing access or delivery capacity.
 
-| Vía | Primer experimento con costo cero | Qué comprobar antes de cobrar | Riesgo a limitar |
+| Path | First zero-cost experiment | Check before charging | Risk to limit |
 | --- | --- | --- | --- |
-| Servicio digital acotado | Ordenar catálogo sintético para comercio conocido | Exactitud, tiempo y responsable de aprobación | Acceso a información privada y alcance infinito |
-| Herramienta local | Resolver una tarea con archivo o app local | Que otra persona complete el recorrido | Exposición de datos, hosting y soporte no previstos |
-| Material original | Enseñar una tarea de un hobby seguro | Comprensión y utilidad de quien lo prueba | Derechos de terceros y promesas exageradas |
-| Producto físico simple | Prototipo con materiales ya disponibles | Costo, calidad, seguridad y entrega con adulto | Inventario, logística, seguridad y devoluciones |
+| Bounded digital service | Organize a synthetic catalog for a known shop | Accuracy, time, and approval owner | Private information and unlimited scope |
+| Local tool | Solve one task using a file or local app | Someone else completes the journey | Data exposure, hosting, and unplanned support |
+| Original educational material | Teach a task from a safe hobby | Learner understanding and usefulness | Third-party rights and exaggerated claims |
+| Simple physical product | Prototype with existing materials | Cost, quality, safety, and adult-supported delivery | Inventory, logistics, safety, and refunds |
 
-Evita empezar con salud, finanzas, seguridad de terceros o actividades físicas peligrosas. Si una idea necesita habilidades o supervisión que hoy no tienes, convierte la exploración en una maqueta con datos sintéticos.
+Avoid beginning with health, finance, third-party cybersecurity, or dangerous physical activities. If an idea requires unavailable skills or supervision, explore it only through a mockup with synthetic data.
 
-## Siete puertas para crecer
+## Seven gates for growth
 
-1. **Problema:** tres relatos o pruebas pertinentes pueden orientar la siguiente pregunta; no prueban un mercado completo. Busca también evidencia contraria.
-2. **Entrega:** una persona autorizada puede usar el resultado. Documenta calidad y qué necesita intervención humana.
-3. **Compromiso:** el comprador entiende exactamente qué recibe y quién gestiona la operación. No uses reservas o promesas de pago como ventas cobradas.
-4. **Economía:** cada entrega tiene contribución positiva después de costos directos, sin omitir IA, materiales, comisiones o devoluciones. Añade costos operativos y revisa obligaciones pendientes con el adulto.
-5. **Repetición:** varias entregas no destruyen calidad, horario o caja. Define capacidad máxima y lista de espera antes de aceptar más.
-6. **Distribución:** un canal pertinente produce oportunidades sin spam. Mantén registro de contactos autorizados, respuestas, pruebas, pagos y bajas; no automatices alcance por defecto.
-7. **Sistema:** otra persona puede seguir un procedimiento y se puede pausar el servicio. Automatiza sólo tareas entendidas y medidas. Si no pasan estas puertas, reduce alcance o no crezcas todavía.
+1. **Problem:** three relevant stories or tests can guide the next question, not prove a whole market. Seek contrary evidence too.
+2. **Delivery:** an authorized person can use the result. Document quality and where human intervention is needed.
+3. **Commitment:** the buyer understands exactly what they receive and who manages operations. Do not count bookings or payment promises as collected sales.
+4. **Economics:** each delivery has positive contribution after direct costs, including AI, materials, fees, and refunds. Add operating costs and review outstanding obligations with the adult.
+5. **Repeatability:** several deliveries preserve quality, schedule, and cash. Set maximum capacity and a waitlist before accepting more.
+6. **Distribution:** a relevant channel produces opportunities without spam. Track authorized contacts, replies, trials, payments, and opt-outs. Do not automate outreach by default.
+7. **System:** another person can follow a procedure and the service can pause. Automate only understood, measured tasks. If these gates fail, reduce scope or postpone growth.
 
-Los números de muestra no son umbrales científicos ni una validación universal. El mentor revisa contexto y qué falta comprobar. No conviertas un único cliente entusiasta en certeza de demanda.
+Sample counts are not scientific thresholds or universal validation. The mentor reviews context and missing evidence. Do not turn one enthusiastic customer into certainty of demand.
 
-## Ejemplo económico ficticio
+## Fictional economics example
 
-Un servicio cobra US$150 por entrega y cuesta US$50 de costos directos. Con veinte entregas en un mes: ventas US$3,000, costos directos US$1,000 y contribución US$2,000. Si herramientas cuestan US$40, quedan US$1,960 antes de otros gastos e impuestos. Eso **no** es utilidad neta final: faltan trabajo pagado, devoluciones, obligaciones y posibles costos aún no registrados.
+A service charges US$150 per delivery with US$50 in direct costs. Twenty deliveries in one month produce US$3,000 sales, US$1,000 direct costs, and US$2,000 contribution. With US$40 tool costs, US$1,960 remains before other expenses and taxes. This is **not** final net profit: paid labor, refunds, obligations, and unrecorded costs may still be missing.
 
-Si cada entrega ocupa tres horas del alumno, veinte entregas implican sesenta horas adicionales: no cabe en un programa de seis horas semanales. Hay que bajar volumen, mejorar el procedimiento, cambiar el alcance o decidir que no es una buena vía. No escondas horas de trabajo fuera de clase para hacer atractivo el margen.
+At three student hours per delivery, twenty deliveries require sixty additional hours: that does not fit a six-hour weekly program. Reduce volume, improve the procedure, change scope, or decide the path is unsuitable. Do not hide work outside class to make margins attractive.
 
-## Revisión comercial mensual
+## Monthly business review
 
-Prepara un cierre manual, sin panel conectado permanentemente: ventas cobradas, devoluciones, costos directos, operación, impuestos registrados, resultado provisional, caja comprometida, horas, calidad y cancelaciones. Compara con el mes anterior sólo si la definición de indicadores es la misma.
+Prepare a manual close without a permanently connected dashboard: collected sales, refunds, direct costs, operations, recorded taxes, provisional result, committed cash, hours, quality, and cancellations. Compare months only when metric definitions match.
 
-Pregunta qué está funcionando, qué depende de una sola persona, qué costo faltó y qué obligación sigue viva si pausas. No persigas el millón con deuda o inventando contratos: vuelve a docs/GUARANTEE.md para interpretar esa meta.
+Ask what works, what relies on one person, what cost was missed, and what obligation survives a pause. Do not chase the million through debt or fabricated contracts; return to docs/GUARANTEE.md for the target's meaning.
 
-## Cómo pedir ayuda
+## Asking for help
 
-Al mentor de clientes, lleva un ejemplo y una duda de demanda. Al de números, un registro saneado y costos faltantes. Al constructor, un recorrido y un fallo reproducible. Al operador, una tarea repetida y su tiempo real. Una petición pequeña con evidencia suele producir ayuda mejor que “dime cómo hago un millón”.
+Bring the customer mentor an example and a demand question. Bring the numbers reviewer a sanitized record and missing costs. Bring the builder a journey and reproducible failure. Bring the operator a repeated task and its actual time. A small request with evidence usually produces better help than “tell me how to make a million.”

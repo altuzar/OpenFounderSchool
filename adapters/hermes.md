@@ -1,15 +1,15 @@
 # Hermes Agent
 
-Fuentes oficiales: [documentación](https://hermes-agent.nousresearch.com/docs) y [archivos de contexto](https://hermes-agent.nousresearch.com/docs/user-guide/features/context-files). Hermes documenta descubrimiento de AGENTS.md. Esta adaptación usa contexto local y no cambia tu personalidad global o memoria.
+Official sources: [documentation](https://hermes-agent.nousresearch.com/docs) and [context files](https://hermes-agent.nousresearch.com/docs/user-guide/features/context-files). Hermes documents AGENTS.md discovery. This adaptation uses local context without changing your global personality or memory.
 
-1. El adulto instala Hermes siguiendo la guía oficial y configura acceso a un modelo y límites apropiados. No necesita un VPS ni activar un gateway para este currículo.
-2. Clona o descomprime OpenFounderSchool en una carpeta dedicada y abre una sesión de Hermes desde esa carpeta (`hermes`, según instalación). En escritorio, selecciona explícitamente los archivos que usarás si no hay directorio de trabajo configurable.
-3. Pide confirmar si cargó AGENTS.md. Si otra configuración de contexto tiene prioridad, adjunta COACH.md y el overview manualmente, sin modificar archivos globales a ciegas.
-4. Agrega la semana actual y checkpoint saneado. Ejecuta la prueba común de recepción.
-5. Trabaja en modo simulación con archivos locales autorizados. Guarda checkpoint al terminar y cierra la sesión cuando no se use.
+1. The adult installs Hermes following its official guide and configures model access and appropriate limits. No VPS or gateway is needed for this curriculum.
+2. Clone or unzip OpenFounderSchool into a dedicated folder and open a Hermes session there (`hermes`, depending on installation). In desktop, explicitly select files if a working directory cannot be configured.
+3. Ask whether AGENTS.md loaded. If another context configuration has priority, attach COACH.md and the overview manually instead of blindly editing global files.
+4. Add the current week and sanitized checkpoint. Run the shared acceptance check.
+5. Work in simulation with authorized local files. Save the final checkpoint and close the session when unused.
 
-No copies un `SOUL.md` a tu carpeta esperando que funcione como contexto local: consulta cómo lo maneja tu versión. No necesitas Telegram, Discord, WhatsApp, cloud hosting, rutinas, memoria entre familias ni autoaprendizaje de información privada del alumno para comenzar.
+Do not copy `SOUL.md` into the project expecting local context discovery; check how your version handles it. Telegram, Discord, WhatsApp, cloud hosting, routines, cross-family memory, and automatic learning of private student information are not needed to start.
 
-Los roles de coach son texto reutilizable y se usan uno a uno. No hemos instalado un skill de Hermes ni probado conectores reales. Si la app no ve una ruta, adjunta el archivo o pega su contenido; no asumas acceso por mencionar el nombre.
+Coaching roles are reusable text, used one at a time. We have not installed a Hermes skill or tested actual connectors. If the app cannot see a path, attach or paste the file; mentioning its name does not grant access.
 
-Antes de cambiar memoria, herramientas o datos compartidos de una instancia ya usada por la familia, revisa la configuración con el adulto. Para privacidad estricta puede ser preferible una instancia o perfil dedicado según las capacidades documentadas del producto.
+Before changing memory, tools, or shared data in a family-used instance, review configuration with the adult. For stricter privacy, a dedicated instance or profile may be preferable depending on documented product capabilities.

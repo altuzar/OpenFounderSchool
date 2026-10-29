@@ -1,14 +1,14 @@
-# Oferta de una página
+# One-page offer
 
-- Comprador y situación concreta:
-- Problema observado / evidencia:
-- Resultado que sí podemos entregar:
-- Alcance y exclusiones:
-- Fecha de entrega / capacidad semanal:
-- Precio y moneda / condiciones de pago:
-- Costos, margen provisional y supuestos:
-- Qué prueba respalda la promesa:
-- Remedio ante incumplimiento, límite y costo máximo de cumplirlo:
-- Lo que todavía NO debemos prometer:
-- Revisión adulta antes de enviar o cobrar:
-- Versión de 30 segundos:
+- Buyer and specific situation:
+- Observed problem / evidence:
+- Outcome we can actually deliver:
+- Scope and exclusions:
+- Delivery date / weekly capacity:
+- Price and currency / payment terms:
+- Costs, provisional margin, and assumptions:
+- Evidence supporting the promise:
+- Remedy for nonperformance, its limit, and maximum fulfillment cost:
+- What we must NOT promise yet:
+- Adult review before sending or charging:
+- Thirty-second version:

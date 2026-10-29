@@ -1,30 +1,30 @@
-# Elige una plataforma
+# Choose one platform
 
-No necesitas instalar las cinco. El contenido educativo es el mismo; cambian las capacidades para leer y guardar archivos. Las guías se revisaron contra documentación pública el **28 de octubre de 2026**, hora de Ciudad de México. Las interfaces, planes, términos y acceso pueden cambiar.
+You do not need all five. The educational content is the same; file reading and saving capabilities differ. Guides were checked against public documentation on **October 28, 2026**, Mexico City time. Interfaces, plans, terms, and access can change.
 
-| Plataforma | Tipo de adaptación incluida | Qué NO hemos probado |
+| Platform | Included adaptation | What has NOT been tested |
 | --- | --- | --- |
-| [Grok Bot](grok-bot.md) | Instrucciones y archivos para un bot, carga manual | Importación nativa de plantilla o cuenta conectada |
-| [Claude Project](claude-project.md) | Instrucciones del proyecto y documentos de conocimiento | Límites de tu plan y persistencia de tus chats |
-| [ChatGPT Work](chatgpt-work.md) | Proyecto con fuentes o carpeta local disponible | Tu cuenta, permisos, disponibilidad de modos |
-| [Pi](pi.md) | AGENTS.md y prompt local de sesión | Ejecución de un modelo/proveedor real |
-| [Hermes](hermes.md) | Contexto AGENTS.md desde la carpeta del repo | Runtime, conectores, modelos o gateway reales |
+| [Grok Bot](grok-bot.md) | Instructions and files for one bot, manually loaded | Native template import or a connected account |
+| [Claude Project](claude-project.md) | Project instructions and knowledge documents | Your plan limits or chat persistence |
+| [ChatGPT Work](chatgpt-work.md) | Project sources or an available local folder | Your account, permissions, or mode availability |
+| [Pi](pi.md) | AGENTS.md and a local session prompt | An actual model/provider run |
+| [Hermes](hermes.md) | AGENTS.md context from the repository folder | Actual runtime, connectors, models, or gateway |
 
-Los paquetes son carpetas y Markdown, **no plugins, integraciones API ni importadores oficiales**. El repositorio genera bundles verificables; no promete instalarse automáticamente en ninguna cuenta. Antes de uso con un menor, un adulto verifica elegibilidad, permisos y tratamiento de datos del proveedor.
+Kits are folders and Markdown, **not plugins, API integrations, or official importers**. The repository builds verifiable bundles; it does not promise automatic account installation. Before use with a minor, an adult verifies provider eligibility, permissions, and data handling.
 
-## Prueba común de recepción
+## Shared acceptance check
 
-Después de cargar el material, pide:
+After loading the material, ask:
 
 ```text
-Enumera los archivos que realmente puedes leer. Resume el criterio del año 1,
-semana 1. Dime qué significa la meta del millón y cuál es la devolución máxima.
-Después pregunta por mi contexto de una en una. No envíes mensajes, conectes
-cuentas ni crees rutinas. Si falta un archivo, dilo antes de asumir su contenido.
+List the files you can actually read. Summarize the year 1, week 1 criterion.
+Explain the million-dollar goal and maximum tuition refund. Then ask about my
+context one question at a time. Do not send messages, connect accounts, or
+create routines. If a file is missing, say so instead of assuming its contents.
 ```
 
-Debe reconocer tuition US$0, máximo reembolsable US$0, ausencia de garantía de ingresos y modo inicial de simulación. Revisa [pruebas de comportamiento](../tests/behavioral-evals.md). Un resultado correcto una vez no garantiza todos los comportamientos futuros.
+The coach should recognize tuition US$0, maximum refund US$0, no earnings guarantee, and initial simulation mode. Review [behavioral checks](../tests/behavioral-evals.md). One correct response does not guarantee future behavior.
 
-## Portabilidad
+## Portability
 
-Guarda el checkpoint fuera del historial del modelo. Al migrar, carga COACH.md, el overview, la semana actual y el checkpoint saneado. Nunca asumas que una nueva plataforma conserva permisos previos: vuelve a establecer su alcance y vigencia. Si sólo admite texto, usa `STARTER.md` del paquete y agrega la lección siguiente cuando corresponda.
+Save the checkpoint outside model history. When switching, load COACH.md, the overview, current week, and sanitized checkpoint. Never assume a new platform preserves earlier permissions: reestablish scope and expiration. For text-only interfaces, use the kit's `STARTER.md` and add each next lesson when needed.

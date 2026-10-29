@@ -1,12 +1,12 @@
-# Ficha de proyecto
+# Project profile
 
-- Alias del proyecto / versión:
-- A quién ayuda y en qué situación:
-- Alternativa actual y por qué cambiarían:
-- Producto o servicio mínimo:
-- Experiencia e intereses del alumno:
-- Evidencia disponible y faltante:
-- Canal autorizado para probar:
-- Costos para cumplir una vez:
-- Mayor riesgo y cómo limitarlo:
-- Qué haríamos si nadie compra:
+- Project alias / version:
+- Who it helps and in what situation:
+- Current alternative and why they would switch:
+- Minimum product or service:
+- Student experience and interests:
+- Available and missing evidence:
+- Authorized testing channel:
+- Cost to fulfill once:
+- Biggest risk and how to limit it:
+- What we would do if nobody buys:

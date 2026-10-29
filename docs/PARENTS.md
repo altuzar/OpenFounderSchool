@@ -1,42 +1,42 @@
-# Manual para madres, padres y adultos responsables
+# Handbook for parents and responsible adults
 
-El objetivo es que el alumno aprenda a tomar decisiones con evidencia. Tu papel es cuidar condiciones, escuchar y autorizar acciones que tengan consecuencias. La IA ofrece apoyo pedagógico; no reemplaza tu presencia.
+The goal is for the student to learn evidence-based decisions. Your role is to establish conditions, listen, and authorize consequential actions. AI offers educational support; it does not replace your presence.
 
-## Antes de empezar
+## Before starting
 
-Acuerden seis horas semanales o una versión reducida, presupuesto máximo por experimento y un horario de cierre. La opción inicial es US$0. El alumno puede salir o pausar sin castigo. Selecciona servicios con acceso apropiado para su edad y región; no abras cuentas falseando información ni entregues tu contraseña al alumno o al agente.
+Agree on six hours a week or a reduced schedule, a maximum budget per experiment, and a finishing time. Start with US$0. The student may leave or pause without punishment. Select services appropriate to their age and region; do not open accounts with false information or give your password to the student or agent.
 
-Crea un espacio privado por alumno. Revisa qué datos puede ver el proveedor y qué opciones de historial, memoria y uso de datos tiene la cuenta antes de cargar información. Usa datos inventados para practicar. Nunca subas expedientes, listas de clientes con datos personales, tarjetas, documentos de identidad ni fotos que identifiquen al alumno y su ubicación.
+Create a private space for each student. Before uploading information, review what the provider can access and its history, memory, and data-use settings. Practice with fictional data. Never upload personal records, identifiable customer lists, cards, identity documents, or images identifying the student and their location.
 
-## Revisión semanal de 90 minutos
+## Weekly 90-minute review
 
-| Minutos | Conversación |
+| Minutes | Conversation |
 | --- | --- |
-| 0–10 | ¿Cómo estás? ¿El programa está afectando escuela, descanso o convivencia? |
-| 10–30 | El alumno muestra su entregable y explica decisiones sin leer a la IA. |
-| 30–45 | Revisan evidencia: observación, simulación y resultados reales separados. |
-| 45–60 | Revisan gastos, devoluciones y compromisos pendientes. |
-| 60–75 | Ensayan preguntas difíciles y aplican la rúbrica. |
-| 75–90 | Eligen una mejora y guardan un checkpoint portable. |
+| 0–10 | How are you? Is the program affecting school, rest, or relationships? |
+| 10–30 | The student shows their work and explains decisions without reading the AI's answer. |
+| 30–45 | Review evidence: separate observations, simulations, and actual results. |
+| 45–60 | Review expenses, refunds, and outstanding commitments. |
+| 60–75 | Rehearse difficult questions and apply the rubric. |
+| 75–90 | Choose one improvement and save a portable checkpoint. |
 
-En semanas de exposición pública usa parte de este tiempo para revisar el material antes de compartirlo. No acumules horas extra para recuperar semanas perdidas.
+In public-presentation weeks, use some of this time to review material before sharing. Do not add extra hours to catch up on missed weeks.
 
-## Permisos concretos
+## Specific permissions
 
-Una autorización debe indicar acción, destinatario o sitio, alcance, monto máximo, fecha de expiración y adulto que la concede. Ejemplo: “Autorizo enviar este borrador a estos dos contactos que conozco, esta semana, sin adjuntos ni seguimiento automático”. El agente debe preparar el texto antes de pedir aprobación. Un permiso para entrevistar no autoriza cobrar, publicar fotos ni enviar campañas.
+Authorization should specify the action, recipient or site, scope, spending limit, expiration, and authorizing adult. For example: “I authorize sending this draft to these two people I know, this week, with no attachments or automatic follow-up.” The agent prepares the text before seeking approval. Permission to interview does not authorize charging, publishing photos, or sending campaigns.
 
-El registro de aprobación es una herramienta de coordinación, no una verificación de identidad ni una autorización legal. En chats sin capacidad de distinguir adultos y alumnos, el adulto ejecuta directamente las acciones externas. Configura permisos técnicos y límites de gasto reales en cada plataforma.
+A permission log coordinates work; it does not verify identity or constitute legal authorization. In chats unable to distinguish adults from students, the adult performs external actions directly. Configure actual technical permissions and spending limits in each platform.
 
-## Clientes y dinero
+## Customers and money
 
-Empiecen con un adulto conocido y un problema pequeño. Mantén presencia o visibilidad en conversaciones. Evita encuentros a solas, direcciones personales, visitas a desconocidos y tareas físicas peligrosas. Los cobros, contratos, impuestos y requisitos locales deben revisarse por el adulto con servicios apropiados; el repo no decide quién puede abrir una cuenta o firmar un acuerdo.
+Start with a known adult and a small problem. Remain present or able to oversee conversations. Avoid one-on-one meetings, home addresses, visits to strangers, and dangerous physical work. An adult should review payments, agreements, taxes, and local requirements using appropriate services; this repository does not decide who may open an account or sign an agreement.
 
-No financies crecimiento con deuda para sostener la meta. Las primeras pruebas pueden ser sin cobro o con datos ficticios. Si hay dinero real, el alumno debe entender qué prometió, cuánto cuesta cumplirlo y cómo atender una devolución.
+Do not finance growth with debt to sustain the target. Early tests can be unpaid or use fictional data. With actual money, the student must understand the promise, fulfillment costs, and refund handling.
 
-## Señales para ajustar
+## When to adjust
 
-Si hay agotamiento, ansiedad por números, secretos sobre gastos, caída escolar o conflicto persistente, baja la carga y habla con el alumno. Una pausa o cerrar un negocio puede ser una buena decisión. No compares públicamente sus ingresos con los de otros jóvenes. Pide ayuda humana apropiada si una situación excede el acompañamiento educativo.
+If there is exhaustion, anxiety about numbers, hidden spending, declining schoolwork, or persistent conflict, reduce the workload and talk with the student. Pausing or closing a business can be a good decision. Do not publicly compare their earnings with other young people's. Seek appropriate human help when a situation exceeds educational support.
 
-## Al cambiar de plataforma
+## Changing platforms
 
-Exporten sólo el checkpoint y evidencias necesarias, con datos minimizados. Comprueben qué archivos conserva el proveedor anterior y cómo gestionar su historial. No asumas que borrar una carpeta local borra conversaciones remotas o respaldos. Prueben la nueva plataforma con una simulación antes de usar datos del negocio.
+Export only the checkpoint and necessary evidence with minimized data. Check what the previous provider retains and how to manage its history. Do not assume deleting a local folder deletes remote conversations or backups. Try the new platform with a simulation before using business information.

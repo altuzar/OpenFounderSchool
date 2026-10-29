@@ -1,52 +1,52 @@
 # OpenFounderSchool
 
-**Tu escuela de founders después de la escuela. Abierta, gratis y en tu propio agente de IA.**
+**Your founder school after school. Open, free, and powered by your own AI agent.**
 
-Construye algo útil, habla con clientes, aprende a vender y lleva cuentas de verdad. Para familias, alumnos y clubes after school. Español primero; puedes pedir las sesiones en inglés.
+Build something useful, talk to customers, learn to sell, and keep honest books. For families, students, and after-school clubs. All curriculum, guides, prompts, and tools are in English.
 
-> **“Gradúate con US$1M de profit o te devolvemos el tuition. El tuition es US$0.”**
+> **“Graduate with US$1M in profit or get your tuition back. Tuition is US$0.”**
 >
-> Esta es nuestra garantía con humor: la devolución máxima es **US$0**. US$1M de utilidad acumulada es una meta extraordinariamente ambiciosa, **no un resultado asegurado ni una probabilidad estimada**. Las herramientas, materiales y gastos del negocio pueden costar y no se reembolsan. Consulta [la explicación completa](docs/GUARANTEE.md).
+> This is our tuition promise with a sense of humor: the maximum refund is **US$0**. US$1M in cumulative profit is an extraordinarily ambitious goal, **not an assured outcome or an estimated probability of success**. Tools, materials, and business expenses may cost money and are not reimbursed. Read [the full explanation](docs/GUARANTEE.md).
 
-## Empieza hoy
+## Start today
 
-1. Lee [START HERE](START-HERE.md) con tu madre, padre o adulto responsable.
-2. Elige [Grok Bot](adapters/grok-bot.md), [Claude Project](adapters/claude-project.md), [ChatGPT Work](adapters/chatgpt-work.md), [Pi](adapters/pi.md) o [Hermes](adapters/hermes.md).
-3. Usa las [instrucciones del coach](prompts/COACH.md) y el [currículo](curriculum/OVERVIEW.md). Los paquetes de [release](release/README.md) reúnen el material para cargarlo sin programar.
-4. Escribe: **“Inicia OpenFounderSchool. Hazme el onboarding de una pregunta a la vez. Quiero comenzar el año 1, semana 1, en modo simulación y con presupuesto cero.”**
+1. Read [START HERE](START-HERE.md) with a parent or responsible adult.
+2. Choose [Grok Bot](adapters/grok-bot.md), [Claude Project](adapters/claude-project.md), [ChatGPT Work](adapters/chatgpt-work.md), [Pi](adapters/pi.md), or [Hermes](adapters/hermes.md).
+3. Use the [coach instructions](prompts/COACH.md) and [curriculum](curriculum/OVERVIEW.md). The [release](release/README.md) kits collect everything for upload without coding.
+4. Say: **“Start OpenFounderSchool. Ask onboarding questions one at a time. Begin year 1, week 1 in simulation mode with a zero-dollar budget.”**
 
-Para agentes con acceso a archivos, abre este repositorio como carpeta de trabajo. Lee [AGENTS.md](AGENTS.md); las guías de plataforma explican qué se carga automáticamente y qué requiere adjuntar archivos.
+For agents with file access, open this repository as the working folder. Read [AGENTS.md](AGENTS.md); the platform guides explain what loads automatically and what you need to attach.
 
-## Lo que hay dentro
+## What's included
 
-| Material | Uso |
+| Material | Purpose |
 | --- | --- |
-| [Ruta de cuatro años](curriculum/OVERVIEW.md) | 160 semanas, 6 h/semana; 960 h en total |
-| [Año 1](curriculum/years/year-1.md) | 40 lecciones con ejercicios, evidencia, preguntas y criterio de avance |
-| [Años 2–4](curriculum/years/year-2.md) | Un plan semanal por año para operar, crecer y preparar el relevo |
-| [Manual de familias](docs/PARENTS.md) / [alumnos](docs/STUDENTS.md) | Organización, permisos y hábitos |
-| [Mentores](mentors/README.md) | Ocho roles de coach IA y protocolo de mentor humano |
-| [Plantillas](templates/README.md) | Entrevistas, oferta, experimentos, números, decisiones y pitch |
-| [Investigación](research/README.md) | Fuentes, inventario de YouTube, notas y límites de cobertura |
-| [Herramienta local](docs/CLI.md) | Preparar tu carpeta privada, consultar lecciones y calcular utilidad |
-| [Del ejercicio al negocio](docs/VENTURE-PLAYBOOK.md) | Selección, pruebas, precio, capacidad y crecimiento con evidencia |
+| [Four-year path](curriculum/OVERVIEW.md) | 160 weeks, 6 hours a week; 960 hours total |
+| [Year 1](curriculum/years/year-1.md) | 40 lessons with exercises, evidence, questions, and completion criteria |
+| [Years 2–4](curriculum/years/year-2.md) | Weekly plans for operating, growing, and preparing a handoff |
+| [Parent handbook](docs/PARENTS.md) / [student handbook](docs/STUDENTS.md) | Organization, permissions, and habits |
+| [Mentors](mentors/README.md) | Eight AI coaching roles and a human mentor protocol |
+| [Templates](templates/README.md) | Interviews, offers, experiments, numbers, decisions, and pitches |
+| [Research](research/README.md) | Sources, YouTube inventory, notes, and coverage limitations |
+| [Local tool](docs/CLI.md) | Create a private student folder, look up lessons, and calculate a profit indicator |
+| [From exercise to business](docs/VENTURE-PLAYBOOK.md) | Selection, tests, pricing, capacity, and evidence-based growth |
 
-## Diseño after school
+## Designed for after school
 
-Tres sesiones de 90 minutos y una revisión de 90 minutos: **6 horas por semana**, 40 semanas por año. Ajusta el calendario alrededor de tu escuela, descanso y actividades. Puedes recorrerlo más lento. Ruta sugerida para 14–18 años; los menores de esa edad trabajan mediante un adulto y con actividades adaptadas. Antes de usar cualquier proveedor, el adulto verifica edad mínima, acceso autorizado y condiciones actuales; este repo no concede acceso a sus servicios.
+Three 90-minute sessions and one 90-minute review: **6 hours a week**, 40 weeks a year. Fit the calendar around school, rest, and other activities. Move more slowly if needed. Suggested path for ages 14–18; younger students work through an adult with adapted activities. Before using any provider, the adult checks its current age requirements, authorized access, and terms. This repository does not grant access to third-party services.
 
-No sustituye una escuela acreditada ni emite títulos oficiales. Se puede completar con papel, archivos locales y simulaciones. Las ventas reales son opcionales y requieren organización y supervisión apropiadas. La evaluación reconoce evidencia y habilidades, incluso cuando el negocio no vende.
+This does not replace an accredited school or issue official diplomas. You can complete it with paper, local files, and simulations. Real sales are optional and require suitable organization and supervision. Assessment recognizes evidence and skills even when the business makes no sales.
 
-## Costo e independencia
+## Cost and independence
 
-- Currículo y código originales: **MIT**. Puedes copiar, modificar y redistribuirlos, también comercialmente, conservando la licencia.
-- Sin backend, cuenta central, telemetría, cron, newsletter obligatoria ni suscripciones del proyecto. En reposo: **0 llamadas de IA y 0 escrituras de base de datos**.
-- Los proveedores de IA, hosting y cobros tienen sus propios términos y precios. No necesitas contratar todos: elige uno o trabaja offline. [Presupuesto](docs/COSTS.md).
-- Proyecto independiente, inspirado por materiales públicos de [Founders School](https://founders.school/). No está afiliado a Founders School, Alpha School ni a sus mentores. No redistribuye su currículo privado, libros, videos ni transcripciones completas. [Atribución](NOTICE.md).
+- Original curriculum and code: **MIT**. Copy, modify, and redistribute them, including commercially, while retaining the license.
+- No backend, central account, telemetry, cron, required newsletter, or project subscriptions. At rest: **0 AI calls and 0 database writes**.
+- AI, hosting, and payment providers have their own terms and pricing. You do not need all five: choose one or work offline. See [budgeting](docs/COSTS.md).
+- Independent project inspired by public [Founders School](https://founders.school/) materials. No affiliation with Founders School, Alpha School, or their mentors. This repository does not redistribute their private curriculum, books, videos, or complete transcripts. See [attribution](NOTICE.md).
 
-## Para colaboradores
+## For contributors
 
-Python 3.10+; sin dependencias externas ni llamadas de red en ejecución normal.
+Python 3.10+; no external dependencies or network calls during normal use.
 
 ```sh
 python3 scripts/ofs.py check
@@ -54,4 +54,4 @@ python3 -m unittest discover -s tests -v
 python3 scripts/ofs.py pack
 ```
 
-Consulta [CONTRIBUTING](CONTRIBUTING.md), [seguridad](SECURITY.md), [límites de la primera edición](docs/VALIDATION.md) y [English quickstart](README.en.md).
+Read [CONTRIBUTING](CONTRIBUTING.md), [security](SECURITY.md), [validation limits](docs/VALIDATION.md), and the [quickstart](README.en.md).

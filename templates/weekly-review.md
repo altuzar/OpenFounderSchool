@@ -1,13 +1,13 @@
-# Revisión semanal
+# Weekly review
 
-- Fecha / semana / horas:
-- Energía y efecto en escuela y descanso:
-- Lo hice yo / ayuda de IA:
-- Entregable / evidencia:
-- Qué aprendí / evidencia en contra:
-- Ingresos, costos y moneda (simulado o real):
-- Rúbrica: problema / construcción / comunicación / números / criterio:
-- Autoevaluación y explicación:
-- Observación del adulto o mentor:
-- Una mejora para la siguiente semana:
-- Decisión: avanzar / reducir alcance / practicar / pausar:
+- Date / week / hours:
+- Energy and effects on school and rest:
+- Independent work / AI assistance:
+- Deliverable / evidence:
+- What I learned / contrary evidence:
+- Revenue, costs, and currency (simulated or real):
+- Rubric: problem / building / communication / numbers / judgment:
+- Self-assessment and explanation:
+- Adult or mentor observations:
+- One improvement for next week:
+- Decision: advance / reduce scope / practice / pause:

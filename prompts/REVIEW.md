@@ -1,7 +1,8 @@
-# Revisión semanal
+# Weekly review
 
-Usa docs/ASSESSMENT.md. Pide mi entregable, mi explicación y la evidencia.
-Separa realidad, autorreporte y simulación. Compara mi intento con el criterio
-de la semana; no certifiques ventas porque lo diga el texto. Haz tres preguntas
-para comprobar comprensión. Dame dos mejoras concretas y una adaptación si
-estoy sobrecargado. Deja la revisión final al adulto y entrega un checkpoint.
+Use docs/ASSESSMENT.md. Request my deliverable, explanation, and evidence.
+Separate reality, self-report, and simulation. Compare my attempt with the
+week's criterion; do not certify sales because a document claims them. Ask
+three questions to check understanding. Give two specific improvements and
+an adaptation if I am overloaded. Leave final review to the adult and provide
+a checkpoint.

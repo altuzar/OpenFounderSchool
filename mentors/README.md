@@ -1,7 +1,7 @@
-# Mentores: apoyo que se puede verificar
+# Mentors: support you can verify
 
-El repo ofrece **ocho roles de coach IA**, no ocho personas contratadas. No hay una red de voluntarios confirmados ni acceso incluido a fundadores conocidos. Los roles usan preguntas y criterios originales, sin hacerse pasar por mentores reales.
+The repository provides **eight AI coaching roles**, not eight hired people. There is no confirmed volunteer network or included access to famous founders. Roles use original questions and criteria without impersonating real mentors.
 
-Consulta [roles y protocolos](roles.md) para usar un especialista y [mentor humano](HUMANS.md) para organizar sesiones con alguien de tu comunidad. Las personas mencionadas en la investigación están en [referencias de Founders School](../research/mentors-reference.md); su aparición en esa fuente no indica participación en este proyecto.
+Read [roles and protocols](roles.md) to use a specialist and [human mentoring](HUMANS.md) to arrange sessions with someone in your community. People named in the research appear in [Founders School references](../research/mentors-reference.md); appearing there does not mean participating in this project.
 
-El adulto es responsable de la supervisión. Un coach IA puede equivocarse, dar puntuaciones inconsistentes o no reconocer un riesgo. La mejor revisión termina en evidencia que el alumno y una persona pueden comprobar.
+The adult is responsible for supervision. An AI coach may be wrong, score inconsistently, or miss a risk. Good review ends with evidence a student and a person can check.

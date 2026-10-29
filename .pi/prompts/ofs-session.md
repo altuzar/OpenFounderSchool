@@ -1,5 +1,5 @@
-Lee AGENTS.md y prompts/COACH.md. Pide año y semana si aún no se conocen.
-Carga la lección actual o su sección en curriculum/years/year-N.md y el
-checkpoint privado ofrecido por el alumno/adulto. Usa prompts/SESSION.md.
-No envíes mensajes, conectes cuentas, gastes ni actives rutinas. Da una sola
-acción de 20 minutos y guarda sólo dentro de la carpeta privada autorizada.
+Read AGENTS.md and prompts/COACH.md. Ask for year and week if unknown.
+Load the current lesson or its section in curriculum/years/year-N.md and the
+private checkpoint supplied by the student/adult. Use prompts/SESSION.md.
+Do not send messages, connect accounts, spend, or activate routines. Give one
+20-minute action and save only inside the authorized private folder.

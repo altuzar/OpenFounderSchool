@@ -1,7 +1,7 @@
 id,date,category,amount,currency,usd_per_unit,mode,evidence
-demo-001,2026-01-01,revenue,1000,USD,1,simulation,ficticio-ventas
-demo-002,2026-01-02,refund,50,USD,1,simulation,ficticio-devolucion
-demo-003,2026-01-03,cogs,300,USD,1,simulation,ficticio-materiales
-demo-004,2026-01-04,opex,100,USD,1,simulation,ficticio-herramientas
-demo-005,2026-01-05,tax,50,USD,1,simulation,ficticio-impuestos
-demo-006,2026-01-06,investment,10000,USD,1,simulation,ficticio-financiamiento
+demo-001,2026-01-01,revenue,1000,USD,1,simulation,fictional-sales
+demo-002,2026-01-02,refund,50,USD,1,simulation,fictional-refund
+demo-003,2026-01-03,cogs,300,USD,1,simulation,fictional-materials
+demo-004,2026-01-04,opex,100,USD,1,simulation,fictional-tools
+demo-005,2026-01-05,tax,50,USD,1,simulation,fictional-taxes
+demo-006,2026-01-06,investment,10000,USD,1,simulation,fictional-financing

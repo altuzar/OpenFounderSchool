@@ -1,24 +1,25 @@
-# Decisiones originales de adaptación
+# Original adaptation decisions
 
-Estas son decisiones de OpenFounderSchool a partir del encargo del usuario y la investigación; no afirmaciones de la escuela de referencia.
+These are OpenFounderSchool decisions based on the user's request and research, not claims by the reference school.
 
-| Necesidad | Decisión | Consecuencia |
+| Need | Decision | Consequence |
 | --- | --- | --- |
-| Cursar después de clases | 6 h/semana; dividir semanas si hace falta | La escuela y el descanso siguen teniendo lugar |
-| Acceso abierto | Contenido y código originales MIT | Forks, traducciones y uso sin cuentas centrales |
-| Portabilidad | Markdown + JSON + CSV + checkpoint | Cambiar de agente sin depender de memoria implícita |
-| Primer año utilizable | 40 lecciones con bloques, entregable y criterio | El padre no necesita diseñar la clase desde cero |
-| Continuidad de cuatro años | 120 semanas posteriores en proyectos de cuatro | Hay estructura, con adaptación al negocio real |
-| Meta económica | US$1M de utilidad acumulada, separada de graduación | No confundir actividad comercial con evaluación educativa |
-| Garantía con tuition cero | Humor con monto reembolsable visible | No simular una protección financiera inexistente |
-| Mentores | Ocho roles IA y protocolo humano local | No fingir acceso a una red ajena |
-| Seguridad y autonomía | Simulación inicial; permisos concretos para salir al mundo | Se aprende sin gastos o exposición obligatorios |
-| Costos | Archivos offline, revisión manual, sin backend | Cero llamadas del proyecto en reposo |
-| Evaluación | Rúbrica humana basada en evidencia | Un modelo o una venta no decide el valor del alumno |
-| Investigación | Catálogos y paráfrasis, sin corpus copiado | Trazabilidad sin redistribuir materiales ajenos completos |
+| Learning after school | 6 hours/week; split weeks if needed | School and rest retain their place |
+| Open access | Original code and content under MIT | Forks, translations, and use without central accounts |
+| Portability | Markdown + JSON + CSV + checkpoint | Change agents without relying on implicit memory |
+| Usable first year | 40 lessons with blocks, deliverable, and criterion | Parents need not design classes from scratch |
+| Four-year continuity | 120 later weeks in four-week projects | Structure adaptable to an actual business |
+| Financial target | US$1M cumulative profit, separate from graduation | Commercial activity is not the same as educational assessment |
+| Zero-tuition promise | Humor with a visible maximum refund | No implied financial protection that does not exist |
+| Mentors | Eight AI roles and local human protocol | No invented access to someone else's network |
+| Safety and agency | Initial simulation; specific permissions for external action | Learn without mandatory spending or exposure |
+| Costs | Offline files, manual reviews, no backend | Zero project calls at rest |
+| Assessment | Human evidence-based rubric | A model or sale does not determine a student's worth |
+| Research | Catalogs and paraphrases, no copied corpus | Traceability without complete third-party redistribution |
+| Language | Complete English edition and default English coach | Consistent parent, student, and agent experience |
 
-## Lo que tendría que probar una siguiente edición
+## What a later edition should test
 
-Pilotaje con familias voluntarias; comprensión de instrucciones; tiempo real por actividad; accesibilidad; efectos en carga escolar; utilidad de los checkpoints; cumplimiento de los adaptadores en cada proveedor; fallos del coach; costos de uso real. Sólo después podría hablarse de una edición probada con alumnos. Las pruebas de Python verifican herramientas y empaque, no resultados educativos.
+Volunteer family pilot; instruction comprehension; actual activity duration; accessibility; effect on school workload; checkpoint usefulness; adapters in each provider; coach failures; and real usage cost. Only then could the edition be described as student-tested. Python tests verify tools and packaging, not educational outcomes.
 
-El proyecto puede ser útil como base sin tener un estudio de impacto, pero debe mantener esa distinción visible. No se propone recopilar datos personales o instalar seguimiento para obtenerla: cualquier evaluación futura requiere diseño y consentimiento apropiados, alcance acotado y justificación de los datos necesarios.
+The project can be a useful starting point without an impact study, but must keep that distinction visible. This does not propose collecting personal information or installing tracking: future evaluation requires appropriate design and consent, bounded scope, and justification for necessary data.

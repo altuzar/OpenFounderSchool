@@ -1,89 +1,89 @@
-# Las 21 publicaciones del canal
+# All 21 channel publications
 
-Fuente: [canal Founders School](https://www.youtube.com/channel/UC_IfCaHEYlyTBq0D8zuQndA). Inventario del 28 de octubre de 2026: seis videos largos y quince Shorts, aproximadamente **2 h 20 min** de duración total según sus metadatos. Revisión del texto completo de subtítulos automáticos ingleses y tres imágenes muestreadas por publicación; **no reproducción audiovisual continua**. Los timestamps son referencias aproximadas para volver al original.
+Source: [Founders School channel](https://www.youtube.com/channel/UC_IfCaHEYlyTBq0D8zuQndA). October 28, 2026 inventory: six long videos and fifteen Shorts, approximately **2 hours 20 minutes** total according to metadata. Review covered the complete automatic English subtitle text and three sampled images per publication, **not continuous audiovisual playback**. Timestamps are approximate pointers to the originals.
 
-Las notas siguientes son paráfrasis breves. Cada ejercicio propuesto es una decisión original de OpenFounderSchool, no una actividad atribuida palabra por palabra al canal. Las cifras de títulos o relatos son autorreportes no auditados.
+The notes are brief paraphrases. Proposed exercises are original OpenFounderSchool choices, not word-for-word activities attributed to the channel. Figures in titles and stories are unaudited self-reports.
 
 ## 1. The ONLY Grok Bot Tutorial You Need (Beginner to Genius)
 
 [Video](https://www.youtube.com/watch?v=ifW-Aj9LOXQ) · 26:24.
 
-Nat Eliason demuestra conexiones a herramientas, rutinas, habilidades de escritura, varios bots y delegación a agentes de código. La segunda parte muestra investigación con APIs y compartir resultados desde la conversación. El beneficio que describe es reducir trabajo operativo personal; no se midió aquí su ahorro ni la exactitud de las salidas. Los precios o versiones mencionados en subtítulos no deben usarse como documentación vigente.
+Nat Eliason demonstrates tool connections, routines, writing skills, multiple bots, and delegation to coding agents. Later sections show API research and sharing results from the conversation. He describes reduced personal operational work; we did not measure savings or output accuracy. Prices or versions in automatic captions are not current documentation.
 
-Referencias: [03:39 conexiones](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=219s), [07:43 habilidades](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=463s), [18:06 delegación](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=1086s).
+References: [03:39 connections](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=219s), [07:43 skills](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=463s), [18:06 delegation](https://www.youtube.com/watch?v=ifW-Aj9LOXQ&t=1086s).
 
-**Ejercicio original:** semana 19, compara una tarea con un coach y con dos roles sucesivos; no conectes correo ni actives rutinas. Mide calidad y costo antes de ampliar herramientas.
+**Original exercise:** week 19 compares one coach with two successive roles on a task, without email connections or routines. Measure quality and cost before expanding tools.
 
 ## 2. How to Think Like Elon Musk in 25 Minutes (Eric Jorgenson)
 
 [Video](https://www.youtube.com/watch?v=F9lpewZhU1E) · 25:56.
 
-Conversación sobre misión, plazos, alcance, requisitos innecesarios, intereses propios y elección de colaboradores. Las preguntas posteriores tratan calidad de producto, investigación y tipos de oportunidades para inversión. Son perspectivas y ejemplos del invitado, no reglas universales ni evidencia de que un adolescente deba asumir riesgos extremos. Las anécdotas históricas y afirmaciones cuantitativas no se verificaron independientemente.
+Discussion of mission, deadlines, scope, unnecessary requirements, personal interests, and collaborators. Later questions cover product quality, research, and investment opportunities. These are the guest's views and examples, not universal rules or evidence that teenagers should take extreme risks. Historical anecdotes and quantitative claims were not independently verified.
 
-Referencias: [02:34 plazos](https://www.youtube.com/watch?v=F9lpewZhU1E&t=154s), [05:20 simplificar](https://www.youtube.com/watch?v=F9lpewZhU1E&t=320s), [10:57 cofundadores](https://www.youtube.com/watch?v=F9lpewZhU1E&t=657s).
+References: [02:34 deadlines](https://www.youtube.com/watch?v=F9lpewZhU1E&t=154s), [05:20 simplification](https://www.youtube.com/watch?v=F9lpewZhU1E&t=320s), [10:57 cofounders](https://www.youtube.com/watch?v=F9lpewZhU1E&t=657s).
 
-**Ejercicio original:** semanas 11 y 36, reduce el recorrido mínimo y acuerda cómo resolver desacuerdos. Conserva límites de escuela, descanso y presupuesto aunque una historia celebre intensidad.
+**Original exercise:** weeks 11 and 36 reduce the minimum journey and agree on handling disagreements. Preserve school, rest, and budget limits even when a story celebrates intensity.
 
 ## 3. How To SELL Anything! Teens VS Sales Expert! (Jay Yang)
 
-[Video](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ) · 13:34 en metadatos detallados; el listado redondeó a 13:35.
+[Video](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ) · 13:34 in detailed metadata; the listing rounded to 13:35.
 
-Se comparan pitches y una puntuación de IA. La discusión exige comprador específico, precio, costos de entrega y un remedio ante incumplimiento. Algunas propuestas ilustran garantías vagas o difíciles de sostener; también aparece la diferencia entre un pitch escrito con ayuda de IA y poder formularlo personalmente. El puntaje del evaluador no demuestra que un cliente compre ni que la oferta sea operativamente viable.
+Compares pitches with AI scoring. Discussion calls for a specific buyer, price, fulfillment costs, and a remedy for nonperformance. Some offers illustrate vague or unsustainable guarantees, and the difference between an AI-assisted pitch and being able to formulate one yourself. An evaluator's score does not demonstrate customer purchase or operational viability.
 
-Referencias: [01:00 estructura de oferta](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ&t=60s), [06:00 segunda ronda](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ&t=360s).
+References: [01:00 offer structure](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ&t=60s), [06:00 second round](https://www.youtube.com/watch?v=ZJ1AeWdLkfQ&t=360s).
 
-**Ejercicio original:** semanas 5–7, puntúa claridad y capacidad de cumplir; simula varias devoluciones consecutivas. No conviertas una garantía llamativa en promesa comercial sin revisión humana.
+**Original exercise:** weeks 5–7 assess clarity and fulfillment ability; simulate consecutive refunds. Do not turn an impressive guarantee into a commercial promise without human review.
 
 ## 4. How this 20 year old went from $0 to $25,000 in 30 days (Jay Yang)
 
 [Video](https://www.youtube.com/watch?v=YGHoZFDYU7w) · 31:01.
 
-Jay Yang relata proyectos fallidos, aprendizaje transferible, trabajo para otros emprendedores y evolución de una oferta. Describe muestras de trabajo preparadas antes de pedir una oportunidad, validación de una propuesta de escritura y hábitos de reflexión. La conversación distingue agencia y consultoría y discute audiencia, confianza y formatos de contenido. Las cifras de facturación, clientes y crecimiento que menciona no se auditaron; tampoco equivalen a utilidad.
+Jay Yang describes failed projects, transferable learning, work for other entrepreneurs, and an evolving offer. Examples include preparing work samples before asking for an opportunity, testing a writing offer, and reflection habits. The conversation distinguishes agency and consulting and discusses audience, trust, and content formats. Revenue, customer, and growth figures were not audited and do not establish profit.
 
-Referencias: [10:32 aprender con proyectos](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=632s), [11:42 muestra de trabajo](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=702s), [13:42 validación](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=822s).
+References: [10:32 project learning](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=632s), [11:42 work sample](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=702s), [13:42 validation](https://www.youtube.com/watch?v=YGHoZFDYU7w&t=822s).
 
-**Ejercicio original:** prepara una muestra privada para un problema de un familiar y pide feedback. Contacta a terceros sólo con permiso y no confundas levantar la mano con una compra.
+**Original exercise:** prepare a private sample for a family member's problem and request feedback. Contact third parties only with permission; expressions of interest do not equal purchases.
 
 ## 5. How to Make Your First $1M (At Any Age)
 
 [Video](https://www.youtube.com/watch?v=luJuKTtsy4c) · 16:23.
 
-Joe Liemandt comenta valor para el comprador, especialización, distribución y pitches de alumnos. Discute prioridades del cliente, margen, adquisición y dificultad de distintos negocios. Algunas ideas se relacionan con salud, rescate o seguridad; que aparezcan en un pitch no valida su seguridad o aptitud para ejecutarlas por menores. Los relatos empresariales son afirmaciones del video, no una auditoría.
+Joe Liemandt comments on buyer value, specialization, distribution, and student pitches. He discusses customer priorities, margins, acquisition, and business difficulty. Some ideas concern health, rescue, or security; appearing in a pitch does not validate their safety or suitability for execution by minors. Business stories remain video claims, not an audit.
 
-Referencias: [02:10 valor](https://www.youtube.com/watch?v=luJuKTtsy4c&t=130s), [08:44 prioridad del comprador](https://www.youtube.com/watch?v=luJuKTtsy4c&t=524s), [10:13 márgenes](https://www.youtube.com/watch?v=luJuKTtsy4c&t=613s).
+References: [02:10 value](https://www.youtube.com/watch?v=luJuKTtsy4c&t=130s), [08:44 buyer priority](https://www.youtube.com/watch?v=luJuKTtsy4c&t=524s), [10:13 margins](https://www.youtube.com/watch?v=luJuKTtsy4c&t=613s).
 
-**Ejercicio original:** semana 24, calcula contribución y costos faltantes en un servicio digital acotado. Para explorar ideas de dominios delicados usa sólo maquetas y datos sintéticos.
+**Original exercise:** week 24 calculates contribution and missing costs for a bounded digital service. Explore sensitive domains only through mockups and synthetic data.
 
 ## 6. Inside the High School Promising $1,000,000 by Graduation
 
 [Video](https://www.youtube.com/watch?v=or_vTIdG_3k) · 16:20.
 
-Presenta el entorno escolar, relatos de origen, proyectos y actividades de estudiantes. El recorrido enfatiza construir con otras personas, conversar con posibles usuarios y conservar académicos como prioridad. Incluye una intervención de creación visual con IA. Es un video de presentación de la escuela; no muestra resultados de una cohorte graduada de cuatro años ni demuestra cumplimiento de la garantía.
+Introduces the school environment, origin stories, projects, and student activities. The tour emphasizes building with others, potential-user conversations, and academic priorities. It includes AI-assisted visual creation. This is a school introduction, not evidence from a completed four-year graduating cohort or proof of guarantee fulfillment.
 
-Referencias: [05:05 aprendizajes previos](https://www.youtube.com/watch?v=or_vTIdG_3k&t=305s), [07:15 proyectos](https://www.youtube.com/watch?v=or_vTIdG_3k&t=435s), [11:32 taller](https://www.youtube.com/watch?v=or_vTIdG_3k&t=692s).
+References: [05:05 earlier lessons](https://www.youtube.com/watch?v=or_vTIdG_3k&t=305s), [07:15 projects](https://www.youtube.com/watch?v=or_vTIdG_3k&t=435s), [11:32 workshop](https://www.youtube.com/watch?v=or_vTIdG_3k&t=692s).
 
-**Ejercicio original:** semana 10, muestra proceso y decisiones a la familia. El club no necesita campus, viajes ni exposición pública para hacer una demo útil.
+**Original exercise:** week 10 shows process and decisions to family. A useful club demo needs no campus, travel, or public exposure.
 
-## Los quince Shorts
+## The fifteen Shorts
 
-Varios recortan ideas de los videos largos: no son quince fuentes independientes de resultados. La tabla cubre cada publicación encontrada, incluidos los clips promocionales.
+Several reuse ideas from long videos; they are not fifteen independent sources of outcome evidence. This table covers every publication found, including promotional clips.
 
-| Publicación | Observación y uso educativo propuesto |
+| Publication | Observation and proposed educational use |
 | --- | --- |
-| [5 Books That Make Millionaires](https://www.youtube.com/watch?v=mF2RwmeRtYA) | Recomienda libros; discutir por qué una lista de lecturas no garantiza dinero. |
-| [I Replaced My Entire Workflow in 1 Min With Grok Bot](https://www.youtube.com/watch?v=_JOSdewHq5o) | Condensa herramientas y delegación; proponer una sola tarea antes de crear un sistema. |
-| [30 Days at a School for Teen Entrepreneurs](https://www.youtube.com/watch?v=Y8x5MT9TUqc) | Montaje de actividades y cifras reportadas; distinguir demostración, promoción y resultado verificado. |
-| [Kid Pitches a Junk Removal Business on the Spot](https://www.youtube.com/watch?v=aofKCbxaXwk) | Oferta con alcance y remedio; practicar con un servicio digital seguro. |
-| [He Built a $3M Bike Park at 17](https://www.youtube.com/watch?v=aosdMc5cbbo) | Historia individual sobre capital y propiedad; no confundirlos con utilidad. |
-| [How To Access Influential People](https://www.youtube.com/watch?v=200J-ZJ1uP8) | Relato de una presentación mediante un tercero; practicar solicitud respetuosa y supervisada. |
-| [This Is What Happens When Teenagers Learn to Build With AI](https://www.youtube.com/watch?v=iyYBB3-_NHA) | Reacciones ante proyectos y conversaciones; interés no equivale a pago. |
-| [How To Go From $0 to 25K in 30 days](https://www.youtube.com/watch?v=jifGiufbRZ4) | Resume el relato de Jay Yang; identificar habilidades que sobreviven a un proyecto fallido. |
-| [My Boss is using Grok to Replace Me…](https://www.youtube.com/watch?v=8MvXO3rke-o) | Reacción a difusión en redes; separar atención de valor entregado. |
-| [$0 to $25K in 30 Days](https://www.youtube.com/watch?v=WKGG3V5pC8U) | Hipótesis desde intereses y problemas; una respuesta de interés no demuestra demanda pagada. |
-| [The Worlds Rarest High School](https://www.youtube.com/watch?v=hTB68uKp7Ug) | Recorrido del espacio; preguntar qué condiciones necesita realmente nuestro club. |
-| [This High School Promises $1 Million by Graduation](https://www.youtube.com/watch?v=PewURbln64A) | Pieza promocional de la promesa; leer condiciones, no inferir resultados logrados. |
-| [NYC STUDENT START UP LIFE!](https://www.youtube.com/watch?v=rWZN_rFwwvo) | Caso de alcance de una publicación; practicar documentación privada sin divulgar edad o ubicación. |
-| [Our Students are in the Top 99th Percentile](https://www.youtube.com/watch?v=nSprjPF_VXQ) | Afirmaciones académicas del canal; no tratarlas como evidencia independiente ni objetivos del programa abierto. |
-| [Week 2 of the $1M high school](https://www.youtube.com/watch?v=8Mfcx4_DIWc) | Lectura, práctica y actividades; una sesión familiar puede revisar proceso sin rankings de riqueza. |
+| [5 Books That Make Millionaires](https://www.youtube.com/watch?v=mF2RwmeRtYA) | Book recommendations; discuss why a reading list does not guarantee money. |
+| [I Replaced My Entire Workflow in 1 Min With Grok Bot](https://www.youtube.com/watch?v=_JOSdewHq5o) | Condensed tools and delegation; try one task before building a system. |
+| [30 Days at a School for Teen Entrepreneurs](https://www.youtube.com/watch?v=Y8x5MT9TUqc) | Activity montage and reported figures; distinguish demos, promotion, and verified results. |
+| [Kid Pitches a Junk Removal Business on the Spot](https://www.youtube.com/watch?v=aofKCbxaXwk) | Scope and remedy in an offer; practice with a safe digital service instead. |
+| [He Built a $3M Bike Park at 17](https://www.youtube.com/watch?v=aosdMc5cbbo) | Individual story of capital and property; do not confuse either with profit. |
+| [How To Access Influential People](https://www.youtube.com/watch?v=200J-ZJ1uP8) | Introduction through a third party; practice a respectful, supervised request. |
+| [This Is What Happens When Teenagers Learn to Build With AI](https://www.youtube.com/watch?v=iyYBB3-_NHA) | Reactions to projects and conversations; interest is not payment. |
+| [How To Go From $0 to 25K in 30 days](https://www.youtube.com/watch?v=jifGiufbRZ4) | Jay Yang story summary; identify skills that survive a failed project. |
+| [My Boss is using Grok to Replace Me…](https://www.youtube.com/watch?v=8MvXO3rke-o) | Reaction to social reach; separate attention from delivered value. |
+| [$0 to $25K in 30 Days](https://www.youtube.com/watch?v=WKGG3V5pC8U) | Hypotheses from interests and problems; interest does not prove paid demand. |
+| [The Worlds Rarest High School](https://www.youtube.com/watch?v=hTB68uKp7Ug) | Space tour; ask what conditions our club actually needs. |
+| [This High School Promises $1 Million by Graduation](https://www.youtube.com/watch?v=PewURbln64A) | Promotional promise; read conditions rather than infer achieved outcomes. |
+| [NYC STUDENT START UP LIFE!](https://www.youtube.com/watch?v=rWZN_rFwwvo) | One post's reach; practice private documentation without disclosing age or location. |
+| [Our Students are in the Top 99th Percentile](https://www.youtube.com/watch?v=nSprjPF_VXQ) | Channel academic claims; neither independent evidence nor open-program targets. |
+| [Week 2 of the $1M high school](https://www.youtube.com/watch?v=8Mfcx4_DIWc) | Reading, practice, and activities; review process without wealth rankings. |
 
-Las guías de plataforma se basan en documentación oficial adicional; el canal es una fuente de contexto pedagógico, no especificación técnica de productos de terceros.
+Platform guides use additional official documentation. The channel supplies pedagogical context, not technical specifications for third-party products.

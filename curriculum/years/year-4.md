@@ -1,371 +1,371 @@
-# Año 4 — guía semanal
+# Year 4 — weekly guide
 
-40 semanas activas × 6 horas = 240 horas. Ajusta fechas, descansos y accesibilidad con tu familia.
+40 active weeks × 6 hours = 240 hours. Adjust dates, breaks, and accessibility with your family.
 
-Material original de OpenFounderSchool. Las simulaciones nunca cuentan como clientes o utilidad real.
+Original OpenFounderSchool material. Simulations never count as real customers or profit.
 
-Lee [el overview](../OVERVIEW.md) y [la rúbrica](../../docs/ASSESSMENT.md).
+Read [the overview](../OVERVIEW.md) and [the rubric](../../docs/ASSESSMENT.md).
 
-## Semana 1: Inventario de evidencia: investigar
+## Week 1: Evidence inventory: investigate
 
-Ordena contratos revisados, registros y decisiones con referencias privadas.
+Organize reviewed agreements, records, and decisions with private references.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.
-- **Entregar:** Índice de evidencias — hipótesis y línea base
-- **Criterio:** Puedes localizar el soporte de una cifra sin compartir datos sensibles.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You can locate support for a figure without sharing sensitive data.
+- **Deliver:** Evidence index — hypothesis and baseline
+- **Criterion:** You can locate support for a figure without sharing sensitive data.
 
-## Semana 2: Inventario de evidencia: diseñar
+## Week 2: Evidence inventory: design
 
-Ordena contratos revisados, registros y decisiones con referencias privadas.
+Organize reviewed agreements, records, and decisions with private references.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.
-- **Entregar:** Índice de evidencias — versión de prueba
-- **Criterio:** Puedes localizar el soporte de una cifra sin compartir datos sensibles.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You can locate support for a figure without sharing sensitive data.
+- **Deliver:** Evidence index — test version
+- **Criterion:** You can locate support for a figure without sharing sensitive data.
 
-## Semana 3: Inventario de evidencia: probar
+## Week 3: Evidence inventory: test
 
-Ordena contratos revisados, registros y decisiones con referencias privadas.
+Organize reviewed agreements, records, and decisions with private references.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.
-- **Entregar:** Índice de evidencias — registro de prueba
-- **Criterio:** Puedes localizar el soporte de una cifra sin compartir datos sensibles.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You can locate support for a figure without sharing sensitive data.
+- **Deliver:** Evidence index — test log
+- **Criterion:** You can locate support for a figure without sharing sensitive data.
 
-## Semana 4: Inventario de evidencia: decidir
+## Week 4: Evidence inventory: decide
 
-Ordena contratos revisados, registros y decisiones con referencias privadas.
+Organize reviewed agreements, records, and decisions with private references.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Puedes localizar el soporte de una cifra sin compartir datos sensibles.
-- **Entregar:** Índice de evidencias — memo y checkpoint
-- **Criterio:** Puedes localizar el soporte de una cifra sin compartir datos sensibles.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You can locate support for a figure without sharing sensitive data.
+- **Deliver:** Evidence index — memo and checkpoint
+- **Criterion:** You can locate support for a figure without sharing sensitive data.
 
-## Semana 5: Reconciliar resultados: investigar
+## Week 5: Reconcile results: investigate
 
-Revisa duplicados, costos pendientes y monedas con tu adulto.
+Review duplicates, missing costs, and currencies with your adult.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.
-- **Entregar:** Cierre provisional del programa — hipótesis y línea base
-- **Criterio:** Distingues indicador base caja y utilidad neta contable.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You distinguish a cash-basis indicator from accounting net profit.
+- **Deliver:** Provisional program close — hypothesis and baseline
+- **Criterion:** You distinguish a cash-basis indicator from accounting net profit.
 
-## Semana 6: Reconciliar resultados: diseñar
+## Week 6: Reconcile results: design
 
-Revisa duplicados, costos pendientes y monedas con tu adulto.
+Review duplicates, missing costs, and currencies with your adult.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.
-- **Entregar:** Cierre provisional del programa — versión de prueba
-- **Criterio:** Distingues indicador base caja y utilidad neta contable.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You distinguish a cash-basis indicator from accounting net profit.
+- **Deliver:** Provisional program close — test version
+- **Criterion:** You distinguish a cash-basis indicator from accounting net profit.
 
-## Semana 7: Reconciliar resultados: probar
+## Week 7: Reconcile results: test
 
-Revisa duplicados, costos pendientes y monedas con tu adulto.
+Review duplicates, missing costs, and currencies with your adult.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.
-- **Entregar:** Cierre provisional del programa — registro de prueba
-- **Criterio:** Distingues indicador base caja y utilidad neta contable.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You distinguish a cash-basis indicator from accounting net profit.
+- **Deliver:** Provisional program close — test log
+- **Criterion:** You distinguish a cash-basis indicator from accounting net profit.
 
-## Semana 8: Reconciliar resultados: decidir
+## Week 8: Reconcile results: decide
 
-Revisa duplicados, costos pendientes y monedas con tu adulto.
+Review duplicates, missing costs, and currencies with your adult.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Distingues indicador base caja y utilidad neta contable.
-- **Entregar:** Cierre provisional del programa — memo y checkpoint
-- **Criterio:** Distingues indicador base caja y utilidad neta contable.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You distinguish a cash-basis indicator from accounting net profit.
+- **Deliver:** Provisional program close — memo and checkpoint
+- **Criterion:** You distinguish a cash-basis indicator from accounting net profit.
 
-## Semana 9: Calidad y derechos: investigar
+## Week 9: Quality and rights: investigate
 
-Revisa acceso, licencias, privacidad y promesas de tu producto.
+Review access, licenses, privacy, and product promises.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.
-- **Entregar:** Auditoría educativa de publicación — hipótesis y línea base
-- **Criterio:** Toda afirmación material tiene evidencia o se retira.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: Every material claim has evidence or is removed.
+- **Deliver:** Educational publication audit — hypothesis and baseline
+- **Criterion:** Every material claim has evidence or is removed.
 
-## Semana 10: Calidad y derechos: diseñar
+## Week 10: Quality and rights: design
 
-Revisa acceso, licencias, privacidad y promesas de tu producto.
+Review access, licenses, privacy, and product promises.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.
-- **Entregar:** Auditoría educativa de publicación — versión de prueba
-- **Criterio:** Toda afirmación material tiene evidencia o se retira.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: Every material claim has evidence or is removed.
+- **Deliver:** Educational publication audit — test version
+- **Criterion:** Every material claim has evidence or is removed.
 
-## Semana 11: Calidad y derechos: probar
+## Week 11: Quality and rights: test
 
-Revisa acceso, licencias, privacidad y promesas de tu producto.
+Review access, licenses, privacy, and product promises.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.
-- **Entregar:** Auditoría educativa de publicación — registro de prueba
-- **Criterio:** Toda afirmación material tiene evidencia o se retira.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: Every material claim has evidence or is removed.
+- **Deliver:** Educational publication audit — test log
+- **Criterion:** Every material claim has evidence or is removed.
 
-## Semana 12: Calidad y derechos: decidir
+## Week 12: Quality and rights: decide
 
-Revisa acceso, licencias, privacidad y promesas de tu producto.
+Review access, licenses, privacy, and product promises.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Toda afirmación material tiene evidencia o se retira.
-- **Entregar:** Auditoría educativa de publicación — memo y checkpoint
-- **Criterio:** Toda afirmación material tiene evidencia o se retira.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: Every material claim has evidence or is removed.
+- **Deliver:** Educational publication audit — memo and checkpoint
+- **Criterion:** Every material claim has evidence or is removed.
 
-## Semana 13: Continuidad del servicio: investigar
+## Week 13: Service continuity: investigate
 
-Documenta cómo entregar, responder y pausar sin depender de tu memoria.
+Document delivery, support, and pausing without relying on your memory.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.
-- **Entregar:** Manual de operación — hipótesis y línea base
-- **Criterio:** Otra persona sigue una tarea completa y encuentra ayuda si falla.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: Another person completes a task and can find help if it fails.
+- **Deliver:** Operating handbook — hypothesis and baseline
+- **Criterion:** Another person completes a task and can find help if it fails.
 
-## Semana 14: Continuidad del servicio: diseñar
+## Week 14: Service continuity: design
 
-Documenta cómo entregar, responder y pausar sin depender de tu memoria.
+Document delivery, support, and pausing without relying on your memory.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.
-- **Entregar:** Manual de operación — versión de prueba
-- **Criterio:** Otra persona sigue una tarea completa y encuentra ayuda si falla.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: Another person completes a task and can find help if it fails.
+- **Deliver:** Operating handbook — test version
+- **Criterion:** Another person completes a task and can find help if it fails.
 
-## Semana 15: Continuidad del servicio: probar
+## Week 15: Service continuity: test
 
-Documenta cómo entregar, responder y pausar sin depender de tu memoria.
+Document delivery, support, and pausing without relying on your memory.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.
-- **Entregar:** Manual de operación — registro de prueba
-- **Criterio:** Otra persona sigue una tarea completa y encuentra ayuda si falla.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: Another person completes a task and can find help if it fails.
+- **Deliver:** Operating handbook — test log
+- **Criterion:** Another person completes a task and can find help if it fails.
 
-## Semana 16: Continuidad del servicio: decidir
+## Week 16: Service continuity: decide
 
-Documenta cómo entregar, responder y pausar sin depender de tu memoria.
+Document delivery, support, and pausing without relying on your memory.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Otra persona sigue una tarea completa y encuentra ayuda si falla.
-- **Entregar:** Manual de operación — memo y checkpoint
-- **Criterio:** Otra persona sigue una tarea completa y encuentra ayuda si falla.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: Another person completes a task and can find help if it fails.
+- **Deliver:** Operating handbook — memo and checkpoint
+- **Criterion:** Another person completes a task and can find help if it fails.
 
-## Semana 17: Escenarios futuros: investigar
+## Week 17: Future scenarios: investigate
 
-Modela cierre, continuidad y crecimiento con supuestos explícitos.
+Model closure, continuation, and growth with explicit assumptions.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.
-- **Entregar:** Tres escenarios comparables — hipótesis y línea base
-- **Criterio:** No conviertes una proyección en ingreso ya ganado.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You do not turn a projection into money already earned.
+- **Deliver:** Three comparable scenarios — hypothesis and baseline
+- **Criterion:** You do not turn a projection into money already earned.
 
-## Semana 18: Escenarios futuros: diseñar
+## Week 18: Future scenarios: design
 
-Modela cierre, continuidad y crecimiento con supuestos explícitos.
+Model closure, continuation, and growth with explicit assumptions.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.
-- **Entregar:** Tres escenarios comparables — versión de prueba
-- **Criterio:** No conviertes una proyección en ingreso ya ganado.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You do not turn a projection into money already earned.
+- **Deliver:** Three comparable scenarios — test version
+- **Criterion:** You do not turn a projection into money already earned.
 
-## Semana 19: Escenarios futuros: probar
+## Week 19: Future scenarios: test
 
-Modela cierre, continuidad y crecimiento con supuestos explícitos.
+Model closure, continuation, and growth with explicit assumptions.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.
-- **Entregar:** Tres escenarios comparables — registro de prueba
-- **Criterio:** No conviertes una proyección en ingreso ya ganado.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You do not turn a projection into money already earned.
+- **Deliver:** Three comparable scenarios — test log
+- **Criterion:** You do not turn a projection into money already earned.
 
-## Semana 20: Escenarios futuros: decidir
+## Week 20: Future scenarios: decide
 
-Modela cierre, continuidad y crecimiento con supuestos explícitos.
+Model closure, continuation, and growth with explicit assumptions.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: No conviertes una proyección en ingreso ya ganado.
-- **Entregar:** Tres escenarios comparables — memo y checkpoint
-- **Criterio:** No conviertes una proyección en ingreso ya ganado.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You do not turn a projection into money already earned.
+- **Deliver:** Three comparable scenarios — memo and checkpoint
+- **Criterion:** You do not turn a projection into money already earned.
 
-## Semana 21: Uso responsable de capital: investigar
+## Week 21: Responsible use of capital: investigate
 
-Compara reinversión, reserva y no gastar con un presupuesto acotado.
+Compare reinvesting, holding reserves, and not spending within a bounded budget.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.
-- **Entregar:** Memo de decisión — hipótesis y línea base
-- **Criterio:** No se requiere préstamo ni inversión real para cerrar la unidad.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: No loan or actual investment is required to complete the unit.
+- **Deliver:** Decision memo — hypothesis and baseline
+- **Criterion:** No loan or actual investment is required to complete the unit.
 
-## Semana 22: Uso responsable de capital: diseñar
+## Week 22: Responsible use of capital: design
 
-Compara reinversión, reserva y no gastar con un presupuesto acotado.
+Compare reinvesting, holding reserves, and not spending within a bounded budget.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.
-- **Entregar:** Memo de decisión — versión de prueba
-- **Criterio:** No se requiere préstamo ni inversión real para cerrar la unidad.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: No loan or actual investment is required to complete the unit.
+- **Deliver:** Decision memo — test version
+- **Criterion:** No loan or actual investment is required to complete the unit.
 
-## Semana 23: Uso responsable de capital: probar
+## Week 23: Responsible use of capital: test
 
-Compara reinversión, reserva y no gastar con un presupuesto acotado.
+Compare reinvesting, holding reserves, and not spending within a bounded budget.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.
-- **Entregar:** Memo de decisión — registro de prueba
-- **Criterio:** No se requiere préstamo ni inversión real para cerrar la unidad.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: No loan or actual investment is required to complete the unit.
+- **Deliver:** Decision memo — test log
+- **Criterion:** No loan or actual investment is required to complete the unit.
 
-## Semana 24: Uso responsable de capital: decidir
+## Week 24: Responsible use of capital: decide
 
-Compara reinversión, reserva y no gastar con un presupuesto acotado.
+Compare reinvesting, holding reserves, and not spending within a bounded budget.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: No se requiere préstamo ni inversión real para cerrar la unidad.
-- **Entregar:** Memo de decisión — memo y checkpoint
-- **Criterio:** No se requiere préstamo ni inversión real para cerrar la unidad.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: No loan or actual investment is required to complete the unit.
+- **Deliver:** Decision memo — memo and checkpoint
+- **Criterion:** No loan or actual investment is required to complete the unit.
 
-## Semana 25: Aprender y colaborar: investigar
+## Week 25: Learning and collaboration: investigate
 
-Prepara una guía para alguien que empieza y revisa la atribución.
+Prepare a guide for a beginner and review attribution.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.
-- **Entregar:** Guía original y sesión de apoyo — hipótesis y línea base
-- **Criterio:** La otra persona explica lo que entendió con sus palabras.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: The other person explains what they understood in their own words.
+- **Deliver:** Original guide and support session — hypothesis and baseline
+- **Criterion:** The other person explains what they understood in their own words.
 
-## Semana 26: Aprender y colaborar: diseñar
+## Week 26: Learning and collaboration: design
 
-Prepara una guía para alguien que empieza y revisa la atribución.
+Prepare a guide for a beginner and review attribution.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.
-- **Entregar:** Guía original y sesión de apoyo — versión de prueba
-- **Criterio:** La otra persona explica lo que entendió con sus palabras.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: The other person explains what they understood in their own words.
+- **Deliver:** Original guide and support session — test version
+- **Criterion:** The other person explains what they understood in their own words.
 
-## Semana 27: Aprender y colaborar: probar
+## Week 27: Learning and collaboration: test
 
-Prepara una guía para alguien que empieza y revisa la atribución.
+Prepare a guide for a beginner and review attribution.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.
-- **Entregar:** Guía original y sesión de apoyo — registro de prueba
-- **Criterio:** La otra persona explica lo que entendió con sus palabras.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: The other person explains what they understood in their own words.
+- **Deliver:** Original guide and support session — test log
+- **Criterion:** The other person explains what they understood in their own words.
 
-## Semana 28: Aprender y colaborar: decidir
+## Week 28: Learning and collaboration: decide
 
-Prepara una guía para alguien que empieza y revisa la atribución.
+Prepare a guide for a beginner and review attribution.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: La otra persona explica lo que entendió con sus palabras.
-- **Entregar:** Guía original y sesión de apoyo — memo y checkpoint
-- **Criterio:** La otra persona explica lo que entendió con sus palabras.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: The other person explains what they understood in their own words.
+- **Deliver:** Original guide and support session — memo and checkpoint
+- **Criterion:** The other person explains what they understood in their own words.
 
-## Semana 29: Portafolio público opcional: investigar
+## Week 29: Optional public portfolio: investigate
 
-Construye una versión saneada de tus evidencias que puedas mostrar.
+Create a sanitized version of your evidence that you could share.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.
-- **Entregar:** Portafolio sin datos sensibles — hipótesis y línea base
-- **Criterio:** Incluyes fracasos y distingues metas, simulaciones y resultados.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You include failures and distinguish goals, simulations, and results.
+- **Deliver:** Portfolio without sensitive data — hypothesis and baseline
+- **Criterion:** You include failures and distinguish goals, simulations, and results.
 
-## Semana 30: Portafolio público opcional: diseñar
+## Week 30: Optional public portfolio: design
 
-Construye una versión saneada de tus evidencias que puedas mostrar.
+Create a sanitized version of your evidence that you could share.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.
-- **Entregar:** Portafolio sin datos sensibles — versión de prueba
-- **Criterio:** Incluyes fracasos y distingues metas, simulaciones y resultados.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You include failures and distinguish goals, simulations, and results.
+- **Deliver:** Portfolio without sensitive data — test version
+- **Criterion:** You include failures and distinguish goals, simulations, and results.
 
-## Semana 31: Portafolio público opcional: probar
+## Week 31: Optional public portfolio: test
 
-Construye una versión saneada de tus evidencias que puedas mostrar.
+Create a sanitized version of your evidence that you could share.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.
-- **Entregar:** Portafolio sin datos sensibles — registro de prueba
-- **Criterio:** Incluyes fracasos y distingues metas, simulaciones y resultados.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You include failures and distinguish goals, simulations, and results.
+- **Deliver:** Portfolio without sensitive data — test log
+- **Criterion:** You include failures and distinguish goals, simulations, and results.
 
-## Semana 32: Portafolio público opcional: decidir
+## Week 32: Optional public portfolio: decide
 
-Construye una versión saneada de tus evidencias que puedas mostrar.
+Create a sanitized version of your evidence that you could share.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Incluyes fracasos y distingues metas, simulaciones y resultados.
-- **Entregar:** Portafolio sin datos sensibles — memo y checkpoint
-- **Criterio:** Incluyes fracasos y distingues metas, simulaciones y resultados.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You include failures and distinguish goals, simulations, and results.
+- **Deliver:** Portfolio without sensitive data — memo and checkpoint
+- **Criterion:** You include failures and distinguish goals, simulations, and results.
 
-## Semana 33: Defensa final: investigar
+## Week 33: Final defense: investigate
 
-Ensaya demo, métricas, historia de decisiones y preguntas difíciles.
+Rehearse your demo, metrics, decision history, and difficult questions.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.
-- **Entregar:** Defensa de quince minutos — hipótesis y línea base
-- **Criterio:** Explicas tu aporte, límites de IA y principal incertidumbre.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You explain your contribution, AI limitations, and main uncertainty.
+- **Deliver:** Fifteen-minute defense — hypothesis and baseline
+- **Criterion:** You explain your contribution, AI limitations, and main uncertainty.
 
-## Semana 34: Defensa final: diseñar
+## Week 34: Final defense: design
 
-Ensaya demo, métricas, historia de decisiones y preguntas difíciles.
+Rehearse your demo, metrics, decision history, and difficult questions.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.
-- **Entregar:** Defensa de quince minutos — versión de prueba
-- **Criterio:** Explicas tu aporte, límites de IA y principal incertidumbre.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You explain your contribution, AI limitations, and main uncertainty.
+- **Deliver:** Fifteen-minute defense — test version
+- **Criterion:** You explain your contribution, AI limitations, and main uncertainty.
 
-## Semana 35: Defensa final: probar
+## Week 35: Final defense: test
 
-Ensaya demo, métricas, historia de decisiones y preguntas difíciles.
+Rehearse your demo, metrics, decision history, and difficult questions.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.
-- **Entregar:** Defensa de quince minutos — registro de prueba
-- **Criterio:** Explicas tu aporte, límites de IA y principal incertidumbre.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You explain your contribution, AI limitations, and main uncertainty.
+- **Deliver:** Fifteen-minute defense — test log
+- **Criterion:** You explain your contribution, AI limitations, and main uncertainty.
 
-## Semana 36: Defensa final: decidir
+## Week 36: Final defense: decide
 
-Ensaya demo, métricas, historia de decisiones y preguntas difíciles.
+Rehearse your demo, metrics, decision history, and difficult questions.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Explicas tu aporte, límites de IA y principal incertidumbre.
-- **Entregar:** Defensa de quince minutos — memo y checkpoint
-- **Criterio:** Explicas tu aporte, límites de IA y principal incertidumbre.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You explain your contribution, AI limitations, and main uncertainty.
+- **Deliver:** Fifteen-minute defense — memo and checkpoint
+- **Criterion:** You explain your contribution, AI limitations, and main uncertainty.
 
-## Semana 37: Cierre y siguiente etapa: investigar
+## Week 37: Closure and next steps: investigate
 
-Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.
+Choose continuation or closure, export memory, and cancel unnecessary costs.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.
-- **Entregar:** Plan de transición y checkpoint — hipótesis y línea base
-- **Criterio:** No quedan compromisos ignorados ni rutinas activadas por el programa.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: No commitments are ignored and no routines were activated by the program.
+- **Deliver:** Transition plan and checkpoint — hypothesis and baseline
+- **Criterion:** No commitments are ignored and no routines were activated by the program.
 
-## Semana 38: Cierre y siguiente etapa: diseñar
+## Week 38: Closure and next steps: design
 
-Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.
+Choose continuation or closure, export memory, and cancel unnecessary costs.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.
-- **Entregar:** Plan de transición y checkpoint — versión de prueba
-- **Criterio:** No quedan compromisos ignorados ni rutinas activadas por el programa.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: No commitments are ignored and no routines were activated by the program.
+- **Deliver:** Transition plan and checkpoint — test version
+- **Criterion:** No commitments are ignored and no routines were activated by the program.
 
-## Semana 39: Cierre y siguiente etapa: probar
+## Week 39: Closure and next steps: test
 
-Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.
+Choose continuation or closure, export memory, and cancel unnecessary costs.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.
-- **Entregar:** Plan de transición y checkpoint — registro de prueba
-- **Criterio:** No quedan compromisos ignorados ni rutinas activadas por el programa.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: No commitments are ignored and no routines were activated by the program.
+- **Deliver:** Transition plan and checkpoint — test log
+- **Criterion:** No commitments are ignored and no routines were activated by the program.
 
-## Semana 40: Cierre y siguiente etapa: decidir
+## Week 40: Closure and next steps: decide
 
-Elige continuidad o cierre, exporta memoria y cancela costos innecesarios.
+Choose continuation or closure, export memory, and cancel unnecessary costs.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: No quedan compromisos ignorados ni rutinas activadas por el programa.
-- **Entregar:** Plan de transición y checkpoint — memo y checkpoint
-- **Criterio:** No quedan compromisos ignorados ni rutinas activadas por el programa.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: No commitments are ignored and no routines were activated by the program.
+- **Deliver:** Transition plan and checkpoint — memo and checkpoint
+- **Criterion:** No commitments are ignored and no routines were activated by the program.
 
-## Cómo ejecutar cada semana
+## How to run each week
 
-Bloque 1: revisa evidencia y explica el concepto (90 min). Bloque 2: construye la entrega indicada (90 min). Bloque 3: ejecuta la prueba propuesta con límites y permisos (90 min). Bloque 4: autoevalúa, revisa con adulto y guarda checkpoint (90 min). Cada ciclo de cuatro semanas produce una decisión, no una cuota obligatoria de ingresos. Vuelve a las lecturas y plantillas según la necesidad; el coach puede explicar y adaptar, sin inventar evidencia.
+Block 1: review evidence and explain the concept (90 minutes). Block 2: build the specified deliverable (90 minutes). Block 3: run the proposed test within limits and permissions (90 minutes). Block 4: self-assess, review with an adult, and save a checkpoint (90 minutes). Each four-week cycle produces a decision, not a mandatory revenue quota. Return to readings and templates as needed; the coach may explain and adapt without inventing evidence.

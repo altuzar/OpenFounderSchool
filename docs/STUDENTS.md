@@ -1,27 +1,27 @@
-# Manual del alumno
+# Student handbook
 
-No necesitas una gran idea. Empieza por algo pequeño que conoces y puedes mejorar. Puedes trabajar solo o con hasta dos compañeros. La meta es aprender a resolver problemas y reconocer cuándo tu idea no ayuda.
+You do not need a big idea. Start with something small you know and can improve. Work alone or with up to two teammates. Learn to solve problems and recognize when your idea does not help.
 
-## Tu semana
+## Your week
 
-El primer bloque sirve para entender y practicar; el segundo para construir; el tercero para probar y registrar; el cuarto para explicar a tu adulto o mentor qué pasó. Cada bloque dura 90 minutos. Haz pausas dentro del bloque. Si sólo tienes 3 horas, divide cada semana en dos semanas de calendario.
+The first block is for understanding and practice; the second for building; the third for testing and recording; the fourth for explaining what happened to your adult or mentor. Each block lasts 90 minutes, with breaks inside it. If you only have three hours, spread each curriculum week across two calendar weeks.
 
-## Tu parte y la de la IA
+## Your work and the AI's work
 
-Tú eliges el problema, haces el primer intento, entiendes tu promesa y respondes por tus decisiones. La IA puede explicar, criticar, generar ejemplos y ayudarte a programar. No puede entrevistar a personas inventadas y contarlas como reales. Tampoco puede decidir que un producto funciona porque suena convincente.
+You choose the problem, make the first attempt, understand your promise, and own your decisions. AI can explain, critique, generate examples, and help with code. It cannot interview imaginary people and count them as real. It cannot decide a product works because it sounds convincing.
 
-En cada entrega incluye: “Lo hice yo”, “Me ayudó la IA”, “Lo comprobé así” y “Todavía no sé”. Si no puedes explicar una línea de tus números o una función de tu producto, pide una explicación y vuelve a intentarlo con un ejemplo más pequeño.
+Include these in each submission: “I did this,” “AI helped with this,” “I checked it this way,” and “I still don't know.” If you cannot explain a number or function in your product, ask for an explanation and try a smaller example.
 
-## No necesitas hacerte influencer
+## You do not need to become an influencer
 
-Puedes documentar en una libreta, compartir una demo con tu familia o usar un alias aprobado. No publiques tu escuela, domicilio, horarios, ubicación en vivo ni datos de clientes. Puedes aprender distribución con una lista ficticia y un roleplay si aún no corresponde trabajar con clientes reales.
+Document in a notebook, show your family a demo, or use an approved alias. Do not publish your school, home address, schedule, live location, or customer information. You can learn distribution with a fictional list and roleplay when real customers are not yet appropriate.
 
-## Cuando escuches un no
+## When someone says no
 
-Respeta el no. No insistas, escondas condiciones ni prometas un resultado que no controlas. Anota la razón si la persona quiere compartirla. Pregúntate si el problema existe, si elegiste al comprador correcto, si el precio tiene sentido y si puedes entregar lo que prometes.
+Respect the no. Do not persist, hide conditions, or promise outcomes you cannot control. Record the reason if the person wants to share it. Ask whether the problem exists, whether you chose the right buyer, whether the price makes sense, and whether you can deliver the promise.
 
-## Tu portafolio
+## Your portfolio
 
-Guarda borradores y decisiones, no sólo el resultado bonito. Un experimento descartado con buena evidencia cuenta como aprendizaje. Tu carpeta privada conserva notas; el portafolio público, si lo haces, usa datos resumidos y materiales revisados por un adulto.
+Save drafts and decisions, not just the polished result. A rejected experiment with strong evidence counts as learning. Your private folder holds notes; a public portfolio, if you create one, uses summarized data and adult-reviewed material.
 
-Al terminar cada semana escribe cinco líneas: qué intenté, qué observé, qué costó, qué cambiaré y qué ayuda necesito. Esa es tu memoria portable.
+At the end of each week, write five lines: what I tried, what I observed, what it cost, what I will change, and what help I need. That is your portable memory.

@@ -1,447 +1,447 @@
-# Año 1 — guía semanal
+# Year 1 — weekly guide
 
-40 semanas activas × 6 horas = 240 horas. Ajusta fechas, descansos y accesibilidad con tu familia.
+40 active weeks × 6 hours = 240 hours. Adjust dates, breaks, and accessibility with your family.
 
-Material original de OpenFounderSchool. Las simulaciones nunca cuentan como clientes o utilidad real.
+Original OpenFounderSchool material. Simulations never count as real customers or profit.
 
-Lee [el overview](../OVERVIEW.md) y [la rúbrica](../../docs/ASSESSMENT.md).
+Read [the overview](../OVERVIEW.md) and [the rubric](../../docs/ASSESSMENT.md).
 
-## Semana 1: Tu mapa de curiosidad
+## Week 1: Your curiosity map
 
-Un negocio empieza con una situación concreta, no con una app.
+A business starts with a specific situation, not an app.
 
-- **Construir:** Escribe diez molestias cotidianas y elige dos que conozcas por experiencia.
-- **Probar:** Pide a un familiar un ejemplo reciente; si no puede participar, haz roleplay etiquetado.
-- **Entregar:** Mapa de diez problemas y dos hipótesis.
-- **Criterio:** Distingues observación, opinión y suposición sin inventar clientes.
+- **Build:** List ten everyday frustrations and choose two you know from experience.
+- **Test:** Ask a family member for a recent example; if unavailable, use labeled roleplay.
+- **Deliver:** Map of ten problems and two hypotheses.
+- **Criterion:** You distinguish observation, opinion, and assumption without inventing customers.
 
-[Abrir la lección completa](../lessons/y1-w01.md).
+[Open the full lesson](../lessons/y1-w01.md).
 
-## Semana 2: Observar sin vender
+## Week 2: Observe without selling
 
-Entender el último episodio de un problema revela más que preguntar si comprarían.
+Understanding the last occurrence of a problem reveals more than asking whether someone would buy.
 
-- **Construir:** Prepara cinco preguntas neutrales y practica escuchando sin presentar una solución.
-- **Probar:** Revisa el guion con tu adulto y elimina dos preguntas que sugieren la respuesta.
-- **Entregar:** Guion y notas de una conversación autorizada o simulada.
-- **Criterio:** Puedes explicar qué pregunta sesgaba la respuesta y cómo la cambiaste.
+- **Build:** Prepare five neutral questions and practice listening without pitching a solution.
+- **Test:** Review the script with your adult and remove two leading questions.
+- **Deliver:** Script and notes from one authorized or simulated conversation.
+- **Criterion:** You can explain which question biased the response and how you changed it.
 
-[Abrir la lección completa](../lessons/y1-w02.md).
+[Open the full lesson](../lessons/y1-w02.md).
 
-## Semana 3: Escoger un comprador
+## Week 3: Choose a buyer
 
-Usuario y comprador pueden ser personas distintas.
+The user and buyer may be different people.
 
-- **Construir:** Dibuja tres segmentos y quién decide, usa y paga en cada uno.
-- **Probar:** Busca un contraejemplo donde quien disfruta el producto no puede pagarlo.
-- **Entregar:** Ficha de segmento y mapa de decisión.
-- **Criterio:** El segmento describe una situación comprobable, no todas las personas.
+- **Build:** Describe three segments and who decides, uses, and pays in each.
+- **Test:** Find a counterexample where the person who enjoys the product cannot pay for it.
+- **Deliver:** Segment profile and decision map.
+- **Criterion:** The segment describes an observable situation, not everyone.
 
-[Abrir la lección completa](../lessons/y1-w03.md).
+[Open the full lesson](../lessons/y1-w03.md).
 
-## Semana 4: Las alternativas existentes
+## Week 4: Existing alternatives
 
-Una libreta o no hacer nada también compiten contigo.
+A notebook or doing nothing can also be a competitor.
 
-- **Construir:** Compara tres maneras actuales de resolver un problema: tiempo, costo y limitación.
-- **Probar:** Haz una prueba personal de una alternativa sin comprar ni crear cuentas.
-- **Entregar:** Tabla de alternativas y decisión provisional.
-- **Criterio:** Incluyes la opción de no hacer nada y una razón para preferirla.
+- **Build:** Compare three current ways to solve a problem: time, cost, and limitations.
+- **Test:** Personally try one alternative without buying anything or creating accounts.
+- **Deliver:** Alternatives table and provisional decision.
+- **Criterion:** You include doing nothing and a reason someone might prefer it.
 
-[Abrir la lección completa](../lessons/y1-w04.md).
+[Open the full lesson](../lessons/y1-w04.md).
 
-## Semana 5: Una oferta pequeña
+## Week 5: A small offer
 
-Prometer menos y cumplirlo permite aprender sin compromisos desmedidos.
+Promise less and deliver it to learn without excessive commitments.
 
-- **Construir:** Redacta una oferta con comprador, tarea, alcance, plazo y precio hipotético.
-- **Probar:** Pide a un familiar explicar la oferta con sus propias palabras; corrige ambigüedades.
-- **Entregar:** Oferta de un párrafo con límites.
-- **Criterio:** Otra persona entiende qué recibe y qué queda fuera.
+- **Build:** Draft an offer with a buyer, task, scope, deadline, and hypothetical price.
+- **Test:** Ask a family member to explain the offer in their own words; correct ambiguity.
+- **Deliver:** One-paragraph offer with boundaries.
+- **Criterion:** Another person understands what they get and what is excluded.
 
-[Abrir la lección completa](../lessons/y1-w05.md).
+[Open the full lesson](../lessons/y1-w05.md).
 
-## Semana 6: Precio, costo y tiempo
+## Week 6: Price, cost, and time
 
-Un precio alto no corrige una entrega costosa o innecesaria.
+A high price cannot fix an expensive or unnecessary delivery.
 
-- **Construir:** Calcula tres precios, costos de entrega y horas para un ejemplo ficticio.
-- **Probar:** Simula una devolución y un aumento de materiales; recalcula el resultado.
-- **Entregar:** Tabla de tres escenarios en una sola moneda.
-- **Criterio:** No confundes cobros con utilidad y muestras al menos un escenario de pérdida.
+- **Build:** Calculate three prices, delivery costs, and working hours for a fictional example.
+- **Test:** Simulate a refund and higher material costs; recalculate the result.
+- **Deliver:** Three-scenario table in one currency.
+- **Criterion:** You do not confuse receipts with profit and show at least one loss scenario.
 
-[Abrir la lección completa](../lessons/y1-w06.md).
+[Open the full lesson](../lessons/y1-w06.md).
 
-## Semana 7: Practicar una objeción
+## Week 7: Practice an objection
 
-Una objeción puede señalar falta de valor, confianza o capacidad.
+An objection may reveal a lack of value, trust, or capacity.
 
-- **Construir:** Ensaya tres conversaciones de oferta con el coach en modo SIMULACIÓN.
-- **Probar:** Pide al coach rechazar la oferta por motivos distintos y practica aceptar el no.
-- **Entregar:** Registro de objeciones y dos revisiones.
-- **Criterio:** Respondes sin presión y sin inventar un testimonio o garantía.
+- **Build:** Rehearse three offer conversations with the coach in SIMULATION mode.
+- **Test:** Ask the coach to reject the offer for different reasons and practice accepting no.
+- **Deliver:** Objection log and two revisions.
+- **Criterion:** You respond without pressure and without fabricating a testimonial or guarantee.
 
-[Abrir la lección completa](../lessons/y1-w07.md).
+[Open the full lesson](../lessons/y1-w07.md).
 
-## Semana 8: Cumplir una microentrega
+## Week 8: Deliver something small
 
-La evidencia de servicio es lo que otra persona puede usar.
+Evidence of service is something another person can use.
 
-- **Construir:** Prepara una entrega gratuita para un familiar: organizar un archivo o explicar una tarea.
-- **Probar:** El familiar prueba el resultado; si no participa, documenta una prueba simulada.
-- **Entregar:** Antes y después con datos ficticios o propios no sensibles.
-- **Criterio:** La tarea tiene criterio de terminado y no crea acceso a cuentas ajenas.
+- **Build:** Prepare a free delivery for a family member: organize a file or explain a task.
+- **Test:** Have the family member try the result; if unavailable, document a simulated test.
+- **Deliver:** Before-and-after example using fictional or your own nonsensitive data.
+- **Criterion:** The task has a definition of done and creates no access to other people's accounts.
 
-[Abrir la lección completa](../lessons/y1-w08.md).
+[Open the full lesson](../lessons/y1-w08.md).
 
-## Semana 9: Tu primer experimento
+## Week 9: Your first experiment
 
-Una prueba útil puede demostrar que tu idea es incorrecta.
+A useful test can show that your idea is wrong.
 
-- **Construir:** Escribe hipótesis, indicador, umbral, tiempo y condición de detener antes de probar.
-- **Probar:** Ejecuta una prueba autorizada o simulada y conserva un resultado desfavorable.
-- **Entregar:** Ficha de experimento completa.
-- **Criterio:** El umbral existía antes del resultado y no lo cambias para declarar éxito.
+- **Build:** Write the hypothesis, metric, threshold, time limit, and stopping condition before testing.
+- **Test:** Run an authorized or simulated test and retain an unfavorable result.
+- **Deliver:** Completed experiment sheet.
+- **Criterion:** The threshold existed before the result and you do not change it to claim success.
 
-[Abrir la lección completa](../lessons/y1-w09.md).
+[Open the full lesson](../lessons/y1-w09.md).
 
-## Semana 10: Primera defensa familiar
+## Week 10: First family defense
 
-Explicar tus decisiones muestra qué has aprendido.
+Explaining your decisions shows what you have learned.
 
-- **Construir:** Prepara una demo de tres minutos sobre el problema, oferta y prueba.
-- **Probar:** El adulto hace tres preguntas: evidencia, costo y qué cambiaría tu opinión.
-- **Entregar:** Portafolio del trimestre y autoevaluación.
-- **Criterio:** Diferencias lo aprendido de las ventas reales y propones un siguiente paso pequeño.
+- **Build:** Prepare a three-minute demo of the problem, offer, and test.
+- **Test:** The adult asks three questions about evidence, cost, and what would change your mind.
+- **Deliver:** Quarterly portfolio and self-assessment.
+- **Criterion:** You distinguish learning from actual sales and propose a small next step.
 
-[Abrir la lección completa](../lessons/y1-w10.md).
+[Open the full lesson](../lessons/y1-w10.md).
 
-## Semana 11: Elegir el recorrido mínimo
+## Week 11: Choose the smallest complete journey
 
-Un producto mínimo permite completar una tarea, no impresionar con funciones.
+A minimum product lets someone complete a task, not admire features.
 
-- **Construir:** Dibuja cinco pasos del usuario y reduce el recorrido a tres.
-- **Probar:** Intenta quitar otro paso y describe cuándo el resultado deja de servir.
-- **Entregar:** Flujo mínimo con entradas, salidas y límites.
-- **Criterio:** Cada paso tiene propósito y puedes explicar una función que no construirás.
+- **Build:** Draw five user steps and reduce the journey to three.
+- **Test:** Try removing another step and describe when the result stops being useful.
+- **Deliver:** Minimum flow with inputs, outputs, and boundaries.
+- **Criterion:** Every step has a purpose and you can explain one feature you will not build.
 
-[Abrir la lección completa](../lessons/y1-w11.md).
+[Open the full lesson](../lessons/y1-w11.md).
 
-## Semana 12: Construir con papel primero
+## Week 12: Build on paper first
 
-Un prototipo puede ser una secuencia de pantallas o un servicio manual.
+A prototype can be a sequence of screens or a manual service.
 
-- **Construir:** Haz un prototipo de papel o archivo local con datos sintéticos.
-- **Probar:** Pide a un familiar ejecutar la tarea sin que tú expliques qué botón tocar.
-- **Entregar:** Prototipo y lista de confusiones.
-- **Criterio:** Registras al menos una confusión concreta y una corrección.
+- **Build:** Make a paper or local-file prototype using synthetic data.
+- **Test:** Ask a family member to complete the task without explaining which button to press.
+- **Deliver:** Prototype and confusion log.
+- **Criterion:** You record at least one specific confusion and a correction.
 
-[Abrir la lección completa](../lessons/y1-w12.md).
+[Open the full lesson](../lessons/y1-w12.md).
 
-## Semana 13: Dar instrucciones a la IA
+## Week 13: Give the AI instructions
 
-La especificación es una herramienta para pensar y comprobar.
+A specification helps you think and verify.
 
-- **Construir:** Escribe objetivo, restricciones, ejemplo de entrada y resultado esperado para una función.
-- **Probar:** Compara salida de la IA contra tres ejemplos, incluido uno vacío.
-- **Entregar:** Especificación y tabla de pruebas.
-- **Criterio:** Reconoces un fallo de la IA y puedes explicar la corrección.
+- **Build:** Write the objective, constraints, sample input, and expected output for one function.
+- **Test:** Compare the AI output with three examples, including an empty input.
+- **Deliver:** Specification and test table.
+- **Criterion:** You recognize an AI failure and can explain the correction.
 
-[Abrir la lección completa](../lessons/y1-w13.md).
+[Open the full lesson](../lessons/y1-w13.md).
 
-## Semana 14: Hacer una demo local
+## Week 14: Make a local demo
 
-Una demo funcional puede existir sin hosting ni pagos.
+A working demo can exist without hosting or payments.
 
-- **Construir:** Construye una pantalla local o procedimiento manual para el recorrido mínimo.
-- **Probar:** Prueba entrada normal, vacía e incorrecta sin datos reales de otras personas.
-- **Entregar:** Demo y lista de tres resultados esperados.
-- **Criterio:** El usuario puede terminar la tarea y el error no expone información.
+- **Build:** Build a local screen or manual procedure for the minimum journey.
+- **Test:** Test normal, empty, and incorrect inputs without other people's real data.
+- **Deliver:** Demo and three expected results.
+- **Criterion:** The user can finish the task and errors do not expose information.
 
-[Abrir la lección completa](../lessons/y1-w14.md).
+[Open the full lesson](../lessons/y1-w14.md).
 
-## Semana 15: Datos mínimos
+## Week 15: Minimum necessary data
 
-Lo que no recopilas no necesitas protegerlo en tu proyecto.
+Data you never collect does not need protection in your project.
 
-- **Construir:** Haz un inventario de datos y reemplaza identidad real por información sintética.
-- **Probar:** Borra un registro ficticio y comprueba qué rastros quedan en tus archivos.
-- **Entregar:** Mapa de datos y límites de uso.
-- **Criterio:** Explicas para qué sirve cada dato y eliminas uno innecesario.
+- **Build:** Inventory the data and replace real identities with synthetic information.
+- **Test:** Delete a fictional record and check what traces remain in your files.
+- **Deliver:** Data map and usage boundaries.
+- **Criterion:** You explain the purpose of every data item and remove one unnecessary item.
 
-[Abrir la lección completa](../lessons/y1-w15.md).
+[Open the full lesson](../lessons/y1-w15.md).
 
-## Semana 16: Probar la experiencia
+## Week 16: Test the experience
 
-Que el constructor entienda una pantalla no demuestra que otra persona pueda usarla.
+The builder understanding a screen does not prove someone else can use it.
 
-- **Construir:** Define una tarea y observa una prueba con familiar o roleplay.
-- **Probar:** Registra dónde se detuvo la prueba y cambia una sola cosa.
-- **Entregar:** Notas de usabilidad y versión corregida.
-- **Criterio:** Distingues comentario de comportamiento y no generalizas desde una persona.
+- **Build:** Define a task and observe a family test or roleplay.
+- **Test:** Record where the test stalled and change just one thing.
+- **Deliver:** Usability notes and corrected version.
+- **Criterion:** You distinguish comments from behavior and do not generalize from one person.
 
-[Abrir la lección completa](../lessons/y1-w16.md).
+[Open the full lesson](../lessons/y1-w16.md).
 
-## Semana 17: Explicar sin exagerar
+## Week 17: Explain without exaggeration
 
-Una página clara describe lo que ya funciona.
+A clear page describes what already works.
 
-- **Construir:** Escribe título, ejemplo, alcance y llamada a una prueba privada.
-- **Probar:** Subraya afirmaciones de resultado y elimina las que no tienen evidencia.
-- **Entregar:** Ficha de producto sin publicación obligatoria.
-- **Criterio:** No llamas garantizado a un resultado que depende del cliente.
+- **Build:** Write a headline, example, scope, and invitation to a private test.
+- **Test:** Underline outcome claims and remove any unsupported by evidence.
+- **Deliver:** Product brief without mandatory publication.
+- **Criterion:** You do not call an outcome guaranteed when it depends on the customer.
 
-[Abrir la lección completa](../lessons/y1-w17.md).
+[Open the full lesson](../lessons/y1-w17.md).
 
-## Semana 18: Entrega y soporte
+## Week 18: Delivery and support
 
-Vender incluye responder cuando algo no sale bien.
+Selling includes responding when something goes wrong.
 
-- **Construir:** Diseña instrucciones de uso, contacto gestionado por adulto y política de corrección.
-- **Probar:** Simula una queja, un error y una solicitud fuera de alcance.
-- **Entregar:** Guía de entrega y tres respuestas de soporte.
-- **Criterio:** Cada caso tiene responsable y un remedio que puedes cumplir.
+- **Build:** Design usage instructions, adult-managed contact, and a correction policy.
+- **Test:** Simulate a complaint, an error, and an out-of-scope request.
+- **Deliver:** Delivery guide and three support responses.
+- **Criterion:** Each case has an owner and a remedy you can honor.
 
-[Abrir la lección completa](../lessons/y1-w18.md).
+[Open the full lesson](../lessons/y1-w18.md).
 
-## Semana 19: Límites de herramientas
+## Week 19: Tool limits
 
-Más agentes pueden aumentar costo y confusión.
+More agents can increase cost and confusion.
 
-- **Construir:** Compara hacer una tarea a mano, con un coach y con dos roles sucesivos.
-- **Probar:** Mide minutos y calidad con la misma tarea ficticia sin crear bots permanentes.
-- **Entregar:** Comparación y presupuesto por sesión.
-- **Criterio:** Eliges el camino suficiente y explicas qué no se ejecuta en reposo.
+- **Build:** Compare doing a task manually, with one coach, and with two successive roles.
+- **Test:** Measure time and quality on the same fictional task without creating permanent bots.
+- **Deliver:** Comparison and per-session budget.
+- **Criterion:** You choose the sufficient approach and explain what does not run at rest.
 
-[Abrir la lección completa](../lessons/y1-w19.md).
+[Open the full lesson](../lessons/y1-w19.md).
 
-## Semana 20: Demo de producto
+## Week 20: Product demo
 
-Una demo debe mostrar el recorrido y sus limitaciones.
+A demo should show the journey and its limitations.
 
-- **Construir:** Presenta la tarea original, versión actual y dos fallos conocidos.
-- **Probar:** Tu adulto o compañero repite una prueba y señala algo que aún no entiende.
-- **Entregar:** Demo de cinco minutos y registro de fallos.
-- **Criterio:** No ocultas limitaciones ni conviertes una simulación en tracción real.
+- **Build:** Present the original task, current version, and two known failures.
+- **Test:** Your adult or teammate repeats a test and identifies something still unclear.
+- **Deliver:** Five-minute demo and failure log.
+- **Criterion:** You disclose limitations and do not present a simulation as real traction.
 
-[Abrir la lección completa](../lessons/y1-w20.md).
+[Open the full lesson](../lessons/y1-w20.md).
 
-## Semana 21: Seleccionar una prueba de demanda
+## Week 21: Choose a demand test
 
-Clics, elogios y dinero son señales distintas.
+Clicks, compliments, and money are different signals.
 
-- **Construir:** Define qué conducta indicaría interés y qué no lo demostraría.
-- **Probar:** Construye una escalera de evidencia: opinión, intento, compromiso y cobro real.
-- **Entregar:** Plan de prueba y escalera de evidencia.
-- **Criterio:** Puedes describir un falso positivo de tu prueba.
+- **Build:** Define what behavior would indicate interest and what would not prove it.
+- **Test:** Build an evidence ladder: opinion, attempt, commitment, and actual payment.
+- **Deliver:** Test plan and evidence ladder.
+- **Criterion:** You can describe a false positive in your test.
 
-[Abrir la lección completa](../lessons/y1-w21.md).
+[Open the full lesson](../lessons/y1-w21.md).
 
-## Semana 22: Distribuir con permiso
+## Week 22: Distribute with permission
 
-Un canal pequeño y pertinente puede enseñar más que publicar masivamente.
+A small relevant channel can teach more than mass publication.
 
-- **Construir:** Prepara un borrador para dos contactos aprobados o una audiencia ficticia.
-- **Probar:** Compara dos mensajes en roleplay y pide revisión del adulto antes de enviar alguno.
-- **Entregar:** Borradores y lista privada de permisos.
-- **Criterio:** No envías automáticamente ni insistes tras un rechazo.
+- **Build:** Prepare a draft for two approved contacts or a fictional audience.
+- **Test:** Compare two messages through roleplay and get adult review before sending either.
+- **Deliver:** Drafts and private permission list.
+- **Criterion:** You do not send automatically or persist after rejection.
 
-[Abrir la lección completa](../lessons/y1-w22.md).
+[Open the full lesson](../lessons/y1-w22.md).
 
-## Semana 23: Decidir con pocos datos
+## Week 23: Decide with limited data
 
-Una muestra pequeña orienta preguntas, no demuestra una ley.
+A small sample guides questions; it does not establish a law.
 
-- **Construir:** Organiza resultados, incluidos ceros y rechazos, en una tabla.
-- **Probar:** Pide al coach proponer una explicación alternativa y diseña cómo distinguirla.
-- **Entregar:** Tabla de evidencia y próxima prueba.
-- **Criterio:** Nombras sesgo de selección y evitas afirmar significancia estadística sin base.
+- **Build:** Organize results, including zeros and rejections, in a table.
+- **Test:** Ask the coach for an alternative explanation and design a way to distinguish it.
+- **Deliver:** Evidence table and next test.
+- **Criterion:** You identify selection bias and do not claim statistical significance without support.
 
-[Abrir la lección completa](../lessons/y1-w23.md).
+[Open the full lesson](../lessons/y1-w23.md).
 
-## Semana 24: Revisar economía unitaria
+## Week 24: Review unit economics
 
-Cada venta debe contribuir a cubrir los demás costos.
+Every sale should contribute toward other costs.
 
-- **Construir:** Calcula ingreso neto de devolución, costo directo y contribución por entrega.
-- **Probar:** Simula doble tiempo de trabajo y una devolución en cinco ventas.
-- **Entregar:** Modelo por unidad con sensibilidad.
-- **Criterio:** No llamas margen neto al margen de contribución.
+- **Build:** Calculate receipts net of refunds, direct cost, and contribution per delivery.
+- **Test:** Simulate double the working time and one refund among five sales.
+- **Deliver:** Per-unit model with sensitivity analysis.
+- **Criterion:** You do not call contribution margin net margin.
 
-[Abrir la lección completa](../lessons/y1-w24.md).
+[Open the full lesson](../lessons/y1-w24.md).
 
-## Semana 25: Aprender de retención
+## Week 25: Learn from retention
 
-La repetición puede indicar utilidad, pero no toda compra debe repetirse.
+Repeat usage may indicate value, but not every purchase should recur.
 
-- **Construir:** Dibuja cómo un usuario obtiene valor y por qué volvería o no.
-- **Probar:** Entrevista a familiar sobre un producto que dejó de usar o usa roleplay.
-- **Entregar:** Mapa de uso y dos hipótesis de abandono.
-- **Criterio:** No añades suscripción a una necesidad que no se repite.
+- **Build:** Map how a user gets value and why they would or would not return.
+- **Test:** Interview a family member about a product they stopped using, or use roleplay.
+- **Deliver:** Usage map and two abandonment hypotheses.
+- **Criterion:** You do not add a subscription to a need that does not recur.
 
-[Abrir la lección completa](../lessons/y1-w25.md).
+[Open the full lesson](../lessons/y1-w25.md).
 
-## Semana 26: Cambiar una variable
+## Week 26: Change one variable
 
-Si cambias todo a la vez no sabes qué produjo la diferencia.
+Changing everything at once hides what caused the difference.
 
-- **Construir:** Elige una variable: mensaje, alcance o precio, y escribe qué mantendrás fijo.
-- **Probar:** Prueba dos variantes simuladas o en grupo autorizado y conserva limitaciones.
-- **Entregar:** Comparación con una variable y decisión provisional.
-- **Criterio:** No presentas una prueba informal como experimento causal concluyente.
+- **Build:** Choose one variable: message, scope, or price; write what stays fixed.
+- **Test:** Test two simulated variants or use an authorized group and preserve the limitations.
+- **Deliver:** One-variable comparison and provisional decision.
+- **Criterion:** You do not present an informal test as a conclusive causal experiment.
 
-[Abrir la lección completa](../lessons/y1-w26.md).
+[Open the full lesson](../lessons/y1-w26.md).
 
-## Semana 27: Cerrar un ciclo
+## Week 27: Close a learning cycle
 
-Cerrar una idea preserva tiempo y deja aprendizaje.
+Closing an idea preserves time and learning.
 
-- **Construir:** Revisa tres pruebas y decide continuar, reducir, pivotar o cerrar.
-- **Probar:** Escribe el mejor argumento contra tu decisión y responde con evidencia.
-- **Entregar:** Memo de decisión de una página.
-- **Criterio:** La decisión incluye costo de seguir y condición futura para revisarla.
+- **Build:** Review three tests and choose to continue, narrow, pivot, or close.
+- **Test:** Write the strongest argument against your decision and respond with evidence.
+- **Deliver:** One-page decision memo.
+- **Criterion:** The decision includes the cost of continuing and a future condition for reconsideration.
 
-[Abrir la lección completa](../lessons/y1-w27.md).
+[Open the full lesson](../lessons/y1-w27.md).
 
-## Semana 28: Contenido que ayuda
+## Week 28: Content that helps
 
-Puedes enseñar lo aprendido sin exponerte públicamente.
+You can teach what you learned without public exposure.
 
-- **Construir:** Escribe una guía breve sobre un problema de tu dominio usando tu propio ejemplo.
-- **Probar:** Un familiar intenta seguirla; registra dónde necesita ayuda.
-- **Entregar:** Guía privada y prueba de comprensión.
-- **Criterio:** Usas tus palabras, atribuyes referencias y no copias un libro o video.
+- **Build:** Write a short guide to a problem in your field using your own example.
+- **Test:** Have a family member follow it; record where they need help.
+- **Deliver:** Private guide and comprehension test.
+- **Criterion:** You use your own words, credit references, and do not copy a book or video.
 
-[Abrir la lección completa](../lessons/y1-w28.md).
+[Open the full lesson](../lessons/y1-w28.md).
 
-## Semana 29: Volver a probar
+## Week 29: Test again
 
-Una iteración útil responde a una observación concreta.
+A useful iteration responds to a specific observation.
 
-- **Construir:** Implementa una mejora basada en un fallo documentado.
-- **Probar:** Repite la misma tarea y compara tiempos, errores y límites de la comparación.
-- **Entregar:** Antes y después medidos.
-- **Criterio:** La mejora responde a evidencia y no sólo a preferencia estética.
+- **Build:** Implement one improvement based on a documented failure.
+- **Test:** Repeat the same task and compare time, errors, and limits of the comparison.
+- **Deliver:** Measured before-and-after example.
+- **Criterion:** The improvement responds to evidence rather than aesthetic preference alone.
 
-[Abrir la lección completa](../lessons/y1-w29.md).
+[Open the full lesson](../lessons/y1-w29.md).
 
-## Semana 30: Revisión de demanda
+## Week 30: Demand review
 
-La honestidad sobre ausencia de demanda permite una buena decisión.
+Being honest about missing demand enables a good decision.
 
-- **Construir:** Presenta indicadores, rechazos, costos y aprendizajes del trimestre.
-- **Probar:** Defiende por qué harías otra prueba o por qué cerrarías el proyecto.
-- **Entregar:** Defensa de tracción o cierre con evidencia.
-- **Criterio:** Puedes aprobar sin ingresos si el razonamiento y la evidencia son sólidos.
+- **Build:** Present metrics, rejections, costs, and lessons from the quarter.
+- **Test:** Defend why you would run another test or close the project.
+- **Deliver:** Evidence-based traction or closure defense.
+- **Criterion:** You can pass without revenue when the reasoning and evidence are strong.
 
-[Abrir la lección completa](../lessons/y1-w30.md).
+[Open the full lesson](../lessons/y1-w30.md).
 
-## Semana 31: Documentar una entrega
+## Week 31: Document a delivery
 
-Un proceso entendible reduce errores sin automatizar todo.
+An understandable process reduces errors without automating everything.
 
-- **Construir:** Escribe un SOP de una tarea que ya repetiste.
-- **Probar:** Otro familiar o compañero sigue el SOP con datos ficticios sin tu ayuda.
-- **Entregar:** Procedimiento y registro de dudas.
-- **Criterio:** Incluye entradas, pasos, calidad, responsable y manejo de errores.
+- **Build:** Write an SOP for a task you have already repeated.
+- **Test:** Have a family member or teammate follow it with fictional data without your help.
+- **Deliver:** Procedure and questions log.
+- **Criterion:** It includes inputs, steps, quality, owner, and error handling.
 
-[Abrir la lección completa](../lessons/y1-w31.md).
+[Open the full lesson](../lessons/y1-w31.md).
 
-## Semana 32: Automatizar una vez
+## Week 32: Automate once
 
-Automatiza una tarea entendida, con límites y retorno medible.
+Automate a task you understand, with limits and a measurable return.
 
-- **Construir:** Prepara un script local o instrucción reutilizable para una tarea pequeña.
-- **Probar:** Ejecuta una vez con caso normal, vacío y fallo; no añadas recurrencia.
-- **Entregar:** Demo manual y comparación de tiempo y costo.
-- **Criterio:** Puedes detenerlo y demostrar que no hay tareas programadas.
+- **Build:** Prepare a local script or reusable instruction for one small task.
+- **Test:** Run it once with normal, empty, and failure cases; add no recurrence.
+- **Deliver:** Manual demo and time/cost comparison.
+- **Criterion:** You can stop it and demonstrate that no scheduled tasks exist.
 
-[Abrir la lección completa](../lessons/y1-w32.md).
+[Open the full lesson](../lessons/y1-w32.md).
 
-## Semana 33: Negociar el alcance
+## Week 33: Negotiate scope
 
-Acordar límites protege a ambas partes.
+Agreeing on boundaries protects both sides.
 
-- **Construir:** Ensaya dos opciones de alcance con distintos plazos y precios ficticios.
-- **Probar:** Un rol cliente solicita algo extra; practica decir qué cambia en el acuerdo.
-- **Entregar:** Acuerdo simulado con alcance y límites.
-- **Criterio:** No prometes resultados fuera de tu control para cerrar la conversación.
+- **Build:** Rehearse two scope options with different fictional deadlines and prices.
+- **Test:** A customer role asks for an extra; practice explaining what changes in the agreement.
+- **Deliver:** Simulated agreement with scope and limits.
+- **Criterion:** You do not promise outcomes beyond your control to close the conversation.
 
-[Abrir la lección completa](../lessons/y1-w33.md).
+[Open the full lesson](../lessons/y1-w33.md).
 
-## Semana 34: Caja y compromisos
+## Week 34: Cash and commitments
 
-Tener dinero en cuenta no significa poder gastarlo todo.
+Having money in an account does not mean you can spend it all.
 
-- **Construir:** Haz un calendario ficticio de cobros, pagos y reservas para devoluciones.
-- **Probar:** Mueve un cobro una semana y observa si falta caja para entregar.
-- **Entregar:** Calendario de caja y reserva justificada.
-- **Criterio:** Distingues financiamiento, caja disponible y utilidad provisional.
+- **Build:** Make a fictional calendar of receipts, payments, and refund reserves.
+- **Test:** Delay a receipt by one week and check whether you can still fund delivery.
+- **Deliver:** Cash calendar and justified reserve.
+- **Criterion:** You distinguish financing, available cash, and provisional profit.
 
-[Abrir la lección completa](../lessons/y1-w34.md).
+[Open the full lesson](../lessons/y1-w34.md).
 
-## Semana 35: Derechos y publicación
+## Week 35: Rights and publication
 
-Poder ver un material no concede permiso de redistribuirlo.
+Being able to view material does not grant redistribution rights.
 
-- **Construir:** Inventaría imágenes, texto, código y datos de tu demo con su procedencia.
-- **Probar:** Sustituye un recurso de derechos inciertos por uno propio o autorizado.
-- **Entregar:** Inventario de derechos y versión saneada.
-- **Criterio:** No incluyes contenido privado ni atribuyes respaldo a alguien por citarlo.
+- **Build:** Inventory images, text, code, and data in your demo with their provenance.
+- **Test:** Replace a resource of uncertain rights with your own or an authorized one.
+- **Deliver:** Rights inventory and sanitized version.
+- **Criterion:** You include no private content or implied endorsement merely because you cite someone.
 
-[Abrir la lección completa](../lessons/y1-w35.md).
+[Open the full lesson](../lessons/y1-w35.md).
 
-## Semana 36: Trabajar en equipo
+## Week 36: Working as a team
 
-Colaborar exige explicar contribuciones y resolver desacuerdos.
+Collaboration requires clear contributions and ways to resolve disagreement.
 
-- **Construir:** Define roles, entregas, horarios y qué pasa si alguien deja el equipo.
-- **Probar:** Ensaya un desacuerdo sobre calidad o carga de trabajo con adulto moderador.
-- **Entregar:** Acuerdo educativo de colaboración.
-- **Criterio:** Cada persona puede explicar su trabajo y hay una salida respetuosa.
+- **Build:** Define roles, deliverables, hours, and what happens if someone leaves.
+- **Test:** Rehearse a disagreement over quality or workload with an adult moderator.
+- **Deliver:** Educational collaboration agreement.
+- **Criterion:** Everyone can explain their contribution and there is a respectful exit path.
 
-[Abrir la lección completa](../lessons/y1-w36.md).
+[Open the full lesson](../lessons/y1-w36.md).
 
-## Semana 37: Auditar tus números
+## Week 37: Audit your numbers
 
-Un registro confiable incluye errores y correcciones visibles.
+A trustworthy record includes errors and visible corrections.
 
-- **Construir:** Revisa duplicados, moneda, modo y referencias de tu ledger.
-- **Probar:** Introduce un duplicado en una copia y comprueba que la herramienta lo rechaza.
-- **Entregar:** Ledger saneado y lista de costos faltantes.
-- **Criterio:** Nunca cuentas inversión ni simulaciones como utilidad real.
+- **Build:** Check duplicates, currency, mode, and references in your ledger.
+- **Test:** Insert a duplicate into a copy and confirm the tool rejects it.
+- **Deliver:** Clean ledger and list of missing costs.
+- **Criterion:** You never count investment or simulations as real profit.
 
-[Abrir la lección completa](../lessons/y1-w37.md).
+[Open the full lesson](../lessons/y1-w37.md).
 
-## Semana 38: Evaluar riesgos de IA
+## Week 38: Assess AI risks
 
-Una salida convincente puede ser incorrecta o contener datos indebidos.
+A convincing answer can be incorrect or contain inappropriate data.
 
-- **Construir:** Haz una tabla de tres maneras en que tu coach o producto podría fallar.
-- **Probar:** Prueba un caso ficticio por riesgo y define revisión o reducción de alcance.
-- **Entregar:** Análisis de riesgos y mitigación comprobada.
-- **Criterio:** Distingues instrucciones al modelo de controles técnicos reales.
+- **Build:** List three ways your coach or product could fail.
+- **Test:** Test one fictional case for each risk and define review or reduced scope.
+- **Deliver:** Risk analysis and tested mitigation.
+- **Criterion:** You distinguish model instructions from real technical controls.
 
-[Abrir la lección completa](../lessons/y1-w38.md).
+[Open the full lesson](../lessons/y1-w38.md).
 
-## Semana 39: Defender el portafolio
+## Week 39: Defend the portfolio
 
-La defensa comprueba comprensión, no sólo apariencia.
+A defense checks understanding, not just appearance.
 
-- **Construir:** Selecciona cinco evidencias y ensaya la presentación de quince minutos.
-- **Probar:** Adulto o mentor cuestiona cifra principal, contribución de IA y decisión más débil.
-- **Entregar:** Portafolio y defensa con preguntas registradas.
-- **Criterio:** Explicas evidencia, incertidumbre y errores sin inventar resultados.
+- **Build:** Choose five pieces of evidence and rehearse the fifteen-minute presentation.
+- **Test:** An adult or mentor questions the main figure, AI contribution, and weakest decision.
+- **Deliver:** Portfolio and defense with recorded questions.
+- **Criterion:** You explain evidence, uncertainty, and mistakes without inventing results.
 
-[Abrir la lección completa](../lessons/y1-w39.md).
+[Open the full lesson](../lessons/y1-w39.md).
 
-## Semana 40: Elegir el siguiente año
+## Week 40: Choose your next year
 
-Continuar, cambiar o cerrar son decisiones de fundador.
+Continuing, changing, and closing are all founder decisions.
 
-- **Construir:** Diseña un plan de diez semanas con una hipótesis, carga y presupuesto.
-- **Probar:** Compara ese plan con cerrar el proyecto y empezar uno más pequeño.
-- **Entregar:** Plan de año 2 y checkpoint de cierre.
-- **Criterio:** El plan respeta escuela y descanso, y no depende de alcanzar el millón.
+- **Build:** Design a ten-week plan with a hypothesis, workload, and budget.
+- **Test:** Compare it with closing the project and starting something smaller.
+- **Deliver:** Year 2 plan and closing checkpoint.
+- **Criterion:** The plan respects school and rest and does not depend on reaching a million.
 
-[Abrir la lección completa](../lessons/y1-w40.md).
+[Open the full lesson](../lessons/y1-w40.md).

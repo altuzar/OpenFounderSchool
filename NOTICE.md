@@ -1,23 +1,22 @@
-# Atribución, derechos y marcas
+# Attribution, rights, and trademarks
 
-OpenFounderSchool es un proyecto educativo independiente. No está afiliado a
-Founders School, Alpha School, sus empleados, mentores o invitados, ni a los
-proveedores de IA mencionados. Las marcas y nombres pertenecen a sus titulares.
-Referenciarlos no implica respaldo, colaboración o autorización de marca.
+OpenFounderSchool is an independent educational project. It is not affiliated
+with Founders School, Alpha School, their employees, mentors, or guests, or the
+AI providers mentioned. Names and trademarks belong to their respective owners.
+References imply no endorsement, collaboration, or trademark authorization.
 
-El contenido y código originales de este repositorio se ofrecen bajo MIT.
-Esa licencia no se extiende a sitios, libros, imágenes, videos, transcripciones,
-marcas o software de terceros enlazados. No se incluye su contenido completo
-ni se pretende abrir bajo MIT un currículo privado de otra organización.
+Original content and code in this repository are offered under MIT. That license
+does not extend to linked third-party websites, books, images, videos,
+transcripts, trademarks, or software. Their complete content is not included;
+this project does not purport to license another organization's private curriculum.
 
-La investigación usa páginas públicas, metadatos del canal, revisión de
-subtítulos automáticos y muestreo visual indicado en research/. Las notas son
-paráfrasis breves y los ejercicios, plantillas y guías son originales. Para
-ver contenido de referencia, visita su URL original. No hay copias de libros,
-medios audiovisuales ni transcripciones completas en el repositorio o paquetes.
+Research uses public pages, channel metadata, automatic transcript review, and
+visual sampling documented in research/. Notes are brief paraphrases; exercises,
+templates, and guides are original. Visit original URLs for reference material.
+No complete books, audiovisual media, or transcripts are included in the repo
+or downloadable kits.
 
-Al contribuir, aporta sólo material que puedas licenciar. Si adaptas contenido
-externo con permiso o licencia compatible, incluye procedencia, licencia y
-condiciones; no basta con que sea accesible en internet. Los nombres de mentores
-de otra escuela se documentan como referencia, nunca como una lista de mentores
-disponibles de OpenFounderSchool.
+Contribute only material you can license. For authorized or compatibly licensed
+adaptations, include provenance, license, and conditions; internet availability
+alone is not permission. Mentors from another school are listed as references,
+never as available OpenFounderSchool mentors.

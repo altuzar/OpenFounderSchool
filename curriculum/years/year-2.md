@@ -1,371 +1,371 @@
-# Año 2 — guía semanal
+# Year 2 — weekly guide
 
-40 semanas activas × 6 horas = 240 horas. Ajusta fechas, descansos y accesibilidad con tu familia.
+40 active weeks × 6 hours = 240 hours. Adjust dates, breaks, and accessibility with your family.
 
-Material original de OpenFounderSchool. Las simulaciones nunca cuentan como clientes o utilidad real.
+Original OpenFounderSchool material. Simulations never count as real customers or profit.
 
-Lee [el overview](../OVERVIEW.md) y [la rúbrica](../../docs/ASSESSMENT.md).
+Read [the overview](../OVERVIEW.md) and [the rubric](../../docs/ASSESSMENT.md).
 
-## Semana 1: Foco de negocio: investigar
+## Week 1: Business focus: investigate
 
-Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.
+Compare three projects by problem evidence, delivery capacity, and costs.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.
-- **Entregar:** Matriz de selección — hipótesis y línea base
-- **Criterio:** Justificas por qué no eliges las otras dos opciones.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You justify why you did not choose the other two options.
+- **Deliver:** Selection matrix — hypothesis and baseline
+- **Criterion:** You justify why you did not choose the other two options.
 
-## Semana 2: Foco de negocio: diseñar
+## Week 2: Business focus: design
 
-Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.
+Compare three projects by problem evidence, delivery capacity, and costs.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.
-- **Entregar:** Matriz de selección — versión de prueba
-- **Criterio:** Justificas por qué no eliges las otras dos opciones.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You justify why you did not choose the other two options.
+- **Deliver:** Selection matrix — test version
+- **Criterion:** You justify why you did not choose the other two options.
 
-## Semana 3: Foco de negocio: probar
+## Week 3: Business focus: test
 
-Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.
+Compare three projects by problem evidence, delivery capacity, and costs.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.
-- **Entregar:** Matriz de selección — registro de prueba
-- **Criterio:** Justificas por qué no eliges las otras dos opciones.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You justify why you did not choose the other two options.
+- **Deliver:** Selection matrix — test log
+- **Criterion:** You justify why you did not choose the other two options.
 
-## Semana 4: Foco de negocio: decidir
+## Week 4: Business focus: decide
 
-Compara tres proyectos por evidencia de problema, capacidad de entrega y costos.
+Compare three projects by problem evidence, delivery capacity, and costs.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Justificas por qué no eliges las otras dos opciones.
-- **Entregar:** Matriz de selección — memo y checkpoint
-- **Criterio:** Justificas por qué no eliges las otras dos opciones.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You justify why you did not choose the other two options.
+- **Deliver:** Selection matrix — memo and checkpoint
+- **Criterion:** You justify why you did not choose the other two options.
 
-## Semana 5: Clientes repetidos: investigar
+## Week 5: Repeat customers: investigate
 
-Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.
+Investigate a recurring need and test a repeatable delivery.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.
-- **Entregar:** Mapa de recurrencia — hipótesis y línea base
-- **Criterio:** No confundes una promesa de repetir con una compra repetida.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You do not confuse a promise to return with an actual repeat purchase.
+- **Deliver:** Recurrence map — hypothesis and baseline
+- **Criterion:** You do not confuse a promise to return with an actual repeat purchase.
 
-## Semana 6: Clientes repetidos: diseñar
+## Week 6: Repeat customers: design
 
-Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.
+Investigate a recurring need and test a repeatable delivery.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.
-- **Entregar:** Mapa de recurrencia — versión de prueba
-- **Criterio:** No confundes una promesa de repetir con una compra repetida.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You do not confuse a promise to return with an actual repeat purchase.
+- **Deliver:** Recurrence map — test version
+- **Criterion:** You do not confuse a promise to return with an actual repeat purchase.
 
-## Semana 7: Clientes repetidos: probar
+## Week 7: Repeat customers: test
 
-Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.
+Investigate a recurring need and test a repeatable delivery.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.
-- **Entregar:** Mapa de recurrencia — registro de prueba
-- **Criterio:** No confundes una promesa de repetir con una compra repetida.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You do not confuse a promise to return with an actual repeat purchase.
+- **Deliver:** Recurrence map — test log
+- **Criterion:** You do not confuse a promise to return with an actual repeat purchase.
 
-## Semana 8: Clientes repetidos: decidir
+## Week 8: Repeat customers: decide
 
-Investiga una necesidad que aparece de nuevo y prueba una entrega repetible.
+Investigate a recurring need and test a repeatable delivery.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: No confundes una promesa de repetir con una compra repetida.
-- **Entregar:** Mapa de recurrencia — memo y checkpoint
-- **Criterio:** No confundes una promesa de repetir con una compra repetida.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You do not confuse a promise to return with an actual repeat purchase.
+- **Deliver:** Recurrence map — memo and checkpoint
+- **Criterion:** You do not confuse a promise to return with an actual repeat purchase.
 
-## Semana 9: Oferta sostenible: investigar
+## Week 9: Sustainable offer: investigate
 
-Ajusta alcance y precio después de medir el costo real de cumplir.
+Adjust scope and price after measuring actual fulfillment cost.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.
-- **Entregar:** Oferta y modelo de contribución — hipótesis y línea base
-- **Criterio:** Incluyes devoluciones y capacidad semanal, además de materiales.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You include refunds and weekly capacity alongside materials.
+- **Deliver:** Offer and contribution model — hypothesis and baseline
+- **Criterion:** You include refunds and weekly capacity alongside materials.
 
-## Semana 10: Oferta sostenible: diseñar
+## Week 10: Sustainable offer: design
 
-Ajusta alcance y precio después de medir el costo real de cumplir.
+Adjust scope and price after measuring actual fulfillment cost.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.
-- **Entregar:** Oferta y modelo de contribución — versión de prueba
-- **Criterio:** Incluyes devoluciones y capacidad semanal, además de materiales.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You include refunds and weekly capacity alongside materials.
+- **Deliver:** Offer and contribution model — test version
+- **Criterion:** You include refunds and weekly capacity alongside materials.
 
-## Semana 11: Oferta sostenible: probar
+## Week 11: Sustainable offer: test
 
-Ajusta alcance y precio después de medir el costo real de cumplir.
+Adjust scope and price after measuring actual fulfillment cost.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.
-- **Entregar:** Oferta y modelo de contribución — registro de prueba
-- **Criterio:** Incluyes devoluciones y capacidad semanal, además de materiales.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You include refunds and weekly capacity alongside materials.
+- **Deliver:** Offer and contribution model — test log
+- **Criterion:** You include refunds and weekly capacity alongside materials.
 
-## Semana 12: Oferta sostenible: decidir
+## Week 12: Sustainable offer: decide
 
-Ajusta alcance y precio después de medir el costo real de cumplir.
+Adjust scope and price after measuring actual fulfillment cost.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Incluyes devoluciones y capacidad semanal, además de materiales.
-- **Entregar:** Oferta y modelo de contribución — memo y checkpoint
-- **Criterio:** Incluyes devoluciones y capacidad semanal, además de materiales.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You include refunds and weekly capacity alongside materials.
+- **Deliver:** Offer and contribution model — memo and checkpoint
+- **Criterion:** You include refunds and weekly capacity alongside materials.
 
-## Semana 13: Experiencia de inicio: investigar
+## Week 13: Getting started: investigate
 
-Observa cómo una persona autorizada o ficticia comienza a usar el producto.
+Observe how an authorized or fictional person begins using the product.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.
-- **Entregar:** Guía de inicio y lista de fricciones — hipótesis y línea base
-- **Criterio:** La tarea principal se completa sin tu explicación constante.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: The main task can be completed without your constant explanation.
+- **Deliver:** Getting-started guide and friction log — hypothesis and baseline
+- **Criterion:** The main task can be completed without your constant explanation.
 
-## Semana 14: Experiencia de inicio: diseñar
+## Week 14: Getting started: design
 
-Observa cómo una persona autorizada o ficticia comienza a usar el producto.
+Observe how an authorized or fictional person begins using the product.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.
-- **Entregar:** Guía de inicio y lista de fricciones — versión de prueba
-- **Criterio:** La tarea principal se completa sin tu explicación constante.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: The main task can be completed without your constant explanation.
+- **Deliver:** Getting-started guide and friction log — test version
+- **Criterion:** The main task can be completed without your constant explanation.
 
-## Semana 15: Experiencia de inicio: probar
+## Week 15: Getting started: test
 
-Observa cómo una persona autorizada o ficticia comienza a usar el producto.
+Observe how an authorized or fictional person begins using the product.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.
-- **Entregar:** Guía de inicio y lista de fricciones — registro de prueba
-- **Criterio:** La tarea principal se completa sin tu explicación constante.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: The main task can be completed without your constant explanation.
+- **Deliver:** Getting-started guide and friction log — test log
+- **Criterion:** The main task can be completed without your constant explanation.
 
-## Semana 16: Experiencia de inicio: decidir
+## Week 16: Getting started: decide
 
-Observa cómo una persona autorizada o ficticia comienza a usar el producto.
+Observe how an authorized or fictional person begins using the product.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: La tarea principal se completa sin tu explicación constante.
-- **Entregar:** Guía de inicio y lista de fricciones — memo y checkpoint
-- **Criterio:** La tarea principal se completa sin tu explicación constante.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: The main task can be completed without your constant explanation.
+- **Deliver:** Getting-started guide and friction log — memo and checkpoint
+- **Criterion:** The main task can be completed without your constant explanation.
 
-## Semana 17: Canal pequeño: investigar
+## Week 17: A small channel: investigate
 
-Prueba un canal autorizado con un límite de contactos y sin automatización.
+Test one authorized channel with a contact limit and no automation.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.
-- **Entregar:** Registro de canal — hipótesis y línea base
-- **Criterio:** Separaste alcance, respuestas, pruebas y pagos.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You separate reach, replies, trials, and payments.
+- **Deliver:** Channel log — hypothesis and baseline
+- **Criterion:** You separate reach, replies, trials, and payments.
 
-## Semana 18: Canal pequeño: diseñar
+## Week 18: A small channel: design
 
-Prueba un canal autorizado con un límite de contactos y sin automatización.
+Test one authorized channel with a contact limit and no automation.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.
-- **Entregar:** Registro de canal — versión de prueba
-- **Criterio:** Separaste alcance, respuestas, pruebas y pagos.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You separate reach, replies, trials, and payments.
+- **Deliver:** Channel log — test version
+- **Criterion:** You separate reach, replies, trials, and payments.
 
-## Semana 19: Canal pequeño: probar
+## Week 19: A small channel: test
 
-Prueba un canal autorizado con un límite de contactos y sin automatización.
+Test one authorized channel with a contact limit and no automation.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.
-- **Entregar:** Registro de canal — registro de prueba
-- **Criterio:** Separaste alcance, respuestas, pruebas y pagos.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You separate reach, replies, trials, and payments.
+- **Deliver:** Channel log — test log
+- **Criterion:** You separate reach, replies, trials, and payments.
 
-## Semana 20: Canal pequeño: decidir
+## Week 20: A small channel: decide
 
-Prueba un canal autorizado con un límite de contactos y sin automatización.
+Test one authorized channel with a contact limit and no automation.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Separaste alcance, respuestas, pruebas y pagos.
-- **Entregar:** Registro de canal — memo y checkpoint
-- **Criterio:** Separaste alcance, respuestas, pruebas y pagos.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You separate reach, replies, trials, and payments.
+- **Deliver:** Channel log — memo and checkpoint
+- **Criterion:** You separate reach, replies, trials, and payments.
 
-## Semana 21: Sistema de calidad: investigar
+## Week 21: Quality system: investigate
 
-Define tres errores frecuentes y una comprobación antes de entregar.
+Define three common errors and a check before delivery.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.
-- **Entregar:** Checklist de calidad — hipótesis y línea base
-- **Criterio:** Otra persona detecta un error usando tu procedimiento.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: Another person detects an error using your procedure.
+- **Deliver:** Quality checklist — hypothesis and baseline
+- **Criterion:** Another person detects an error using your procedure.
 
-## Semana 22: Sistema de calidad: diseñar
+## Week 22: Quality system: design
 
-Define tres errores frecuentes y una comprobación antes de entregar.
+Define three common errors and a check before delivery.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.
-- **Entregar:** Checklist de calidad — versión de prueba
-- **Criterio:** Otra persona detecta un error usando tu procedimiento.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: Another person detects an error using your procedure.
+- **Deliver:** Quality checklist — test version
+- **Criterion:** Another person detects an error using your procedure.
 
-## Semana 23: Sistema de calidad: probar
+## Week 23: Quality system: test
 
-Define tres errores frecuentes y una comprobación antes de entregar.
+Define three common errors and a check before delivery.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.
-- **Entregar:** Checklist de calidad — registro de prueba
-- **Criterio:** Otra persona detecta un error usando tu procedimiento.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: Another person detects an error using your procedure.
+- **Deliver:** Quality checklist — test log
+- **Criterion:** Another person detects an error using your procedure.
 
-## Semana 24: Sistema de calidad: decidir
+## Week 24: Quality system: decide
 
-Define tres errores frecuentes y una comprobación antes de entregar.
+Define three common errors and a check before delivery.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Otra persona detecta un error usando tu procedimiento.
-- **Entregar:** Checklist de calidad — memo y checkpoint
-- **Criterio:** Otra persona detecta un error usando tu procedimiento.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: Another person detects an error using your procedure.
+- **Deliver:** Quality checklist — memo and checkpoint
+- **Criterion:** Another person detects an error using your procedure.
 
-## Semana 25: Cuenta completa: investigar
+## Week 25: Complete records: investigate
 
-Reconcilia un mes de registro base caja con soportes privados anonimizados.
+Reconcile one month of cash-basis records with anonymized private supporting evidence.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.
-- **Entregar:** Cierre mensual educativo — hipótesis y línea base
-- **Criterio:** Explicas partidas faltantes y no presentas el cierre como auditado.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: You explain missing entries and do not present the close as audited.
+- **Deliver:** Educational monthly close — hypothesis and baseline
+- **Criterion:** You explain missing entries and do not present the close as audited.
 
-## Semana 26: Cuenta completa: diseñar
+## Week 26: Complete records: design
 
-Reconcilia un mes de registro base caja con soportes privados anonimizados.
+Reconcile one month of cash-basis records with anonymized private supporting evidence.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.
-- **Entregar:** Cierre mensual educativo — versión de prueba
-- **Criterio:** Explicas partidas faltantes y no presentas el cierre como auditado.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: You explain missing entries and do not present the close as audited.
+- **Deliver:** Educational monthly close — test version
+- **Criterion:** You explain missing entries and do not present the close as audited.
 
-## Semana 27: Cuenta completa: probar
+## Week 27: Complete records: test
 
-Reconcilia un mes de registro base caja con soportes privados anonimizados.
+Reconcile one month of cash-basis records with anonymized private supporting evidence.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.
-- **Entregar:** Cierre mensual educativo — registro de prueba
-- **Criterio:** Explicas partidas faltantes y no presentas el cierre como auditado.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: You explain missing entries and do not present the close as audited.
+- **Deliver:** Educational monthly close — test log
+- **Criterion:** You explain missing entries and do not present the close as audited.
 
-## Semana 28: Cuenta completa: decidir
+## Week 28: Complete records: decide
 
-Reconcilia un mes de registro base caja con soportes privados anonimizados.
+Reconcile one month of cash-basis records with anonymized private supporting evidence.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: Explicas partidas faltantes y no presentas el cierre como auditado.
-- **Entregar:** Cierre mensual educativo — memo y checkpoint
-- **Criterio:** Explicas partidas faltantes y no presentas el cierre como auditado.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: You explain missing entries and do not present the close as audited.
+- **Deliver:** Educational monthly close — memo and checkpoint
+- **Criterion:** You explain missing entries and do not present the close as audited.
 
-## Semana 29: Servicio y devoluciones: investigar
+## Week 29: Service and refunds: investigate
 
-Prepara respuestas y reservas para fallos de entrega y cancelación.
+Prepare responses and reserves for delivery failures and cancellations.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.
-- **Entregar:** Manual de servicio — hipótesis y línea base
-- **Criterio:** El remedio es comprensible, cumplible y revisado por adulto.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: The remedy is understandable, deliverable, and reviewed by an adult.
+- **Deliver:** Service handbook — hypothesis and baseline
+- **Criterion:** The remedy is understandable, deliverable, and reviewed by an adult.
 
-## Semana 30: Servicio y devoluciones: diseñar
+## Week 30: Service and refunds: design
 
-Prepara respuestas y reservas para fallos de entrega y cancelación.
+Prepare responses and reserves for delivery failures and cancellations.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.
-- **Entregar:** Manual de servicio — versión de prueba
-- **Criterio:** El remedio es comprensible, cumplible y revisado por adulto.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: The remedy is understandable, deliverable, and reviewed by an adult.
+- **Deliver:** Service handbook — test version
+- **Criterion:** The remedy is understandable, deliverable, and reviewed by an adult.
 
-## Semana 31: Servicio y devoluciones: probar
+## Week 31: Service and refunds: test
 
-Prepara respuestas y reservas para fallos de entrega y cancelación.
+Prepare responses and reserves for delivery failures and cancellations.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.
-- **Entregar:** Manual de servicio — registro de prueba
-- **Criterio:** El remedio es comprensible, cumplible y revisado por adulto.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: The remedy is understandable, deliverable, and reviewed by an adult.
+- **Deliver:** Service handbook — test log
+- **Criterion:** The remedy is understandable, deliverable, and reviewed by an adult.
 
-## Semana 32: Servicio y devoluciones: decidir
+## Week 32: Service and refunds: decide
 
-Prepara respuestas y reservas para fallos de entrega y cancelación.
+Prepare responses and reserves for delivery failures and cancellations.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: El remedio es comprensible, cumplible y revisado por adulto.
-- **Entregar:** Manual de servicio — memo y checkpoint
-- **Criterio:** El remedio es comprensible, cumplible y revisado por adulto.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: The remedy is understandable, deliverable, and reviewed by an adult.
+- **Deliver:** Service handbook — memo and checkpoint
+- **Criterion:** The remedy is understandable, deliverable, and reviewed by an adult.
 
-## Semana 33: Capacidad y descanso: investigar
+## Week 33: Capacity and rest: investigate
 
-Mide horas por entrega y fija una cola máxima que preserve tus horarios.
+Measure hours per delivery and set a maximum queue that preserves your schedule.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.
-- **Entregar:** Plan de capacidad — hipótesis y línea base
-- **Criterio:** El plan sobrevive a una semana con la mitad del tiempo.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: The plan survives a week with half the available time.
+- **Deliver:** Capacity plan — hypothesis and baseline
+- **Criterion:** The plan survives a week with half the available time.
 
-## Semana 34: Capacidad y descanso: diseñar
+## Week 34: Capacity and rest: design
 
-Mide horas por entrega y fija una cola máxima que preserve tus horarios.
+Measure hours per delivery and set a maximum queue that preserves your schedule.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.
-- **Entregar:** Plan de capacidad — versión de prueba
-- **Criterio:** El plan sobrevive a una semana con la mitad del tiempo.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: The plan survives a week with half the available time.
+- **Deliver:** Capacity plan — test version
+- **Criterion:** The plan survives a week with half the available time.
 
-## Semana 35: Capacidad y descanso: probar
+## Week 35: Capacity and rest: test
 
-Mide horas por entrega y fija una cola máxima que preserve tus horarios.
+Measure hours per delivery and set a maximum queue that preserves your schedule.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.
-- **Entregar:** Plan de capacidad — registro de prueba
-- **Criterio:** El plan sobrevive a una semana con la mitad del tiempo.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: The plan survives a week with half the available time.
+- **Deliver:** Capacity plan — test log
+- **Criterion:** The plan survives a week with half the available time.
 
-## Semana 36: Capacidad y descanso: decidir
+## Week 36: Capacity and rest: decide
 
-Mide horas por entrega y fija una cola máxima que preserve tus horarios.
+Measure hours per delivery and set a maximum queue that preserves your schedule.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: El plan sobrevive a una semana con la mitad del tiempo.
-- **Entregar:** Plan de capacidad — memo y checkpoint
-- **Criterio:** El plan sobrevive a una semana con la mitad del tiempo.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: The plan survives a week with half the available time.
+- **Deliver:** Capacity plan — memo and checkpoint
+- **Criterion:** The plan survives a week with half the available time.
 
-## Semana 37: Defensa de continuidad: investigar
+## Week 37: Continuity defense: investigate
 
-Compara continuar, cambiar de oferta y cerrar con tus datos del año.
+Compare continuing, changing the offer, and closing using the year's data.
 
-- **Construir:** Anota tres supuestos, revisa evidencia existente y busca una explicación alternativa.
-- **Probar:** Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.
-- **Entregar:** Defensa de año 2 — hipótesis y línea base
-- **Criterio:** La recomendación incluye límites financieros y de bienestar.
+- **Build:** List three assumptions, review existing evidence, and seek an alternative explanation.
+- **Test:** Review with an adult or teammate: Your recommendation includes financial and wellbeing limits.
+- **Deliver:** Year 2 defense — hypothesis and baseline
+- **Criterion:** Your recommendation includes financial and wellbeing limits.
 
-## Semana 38: Defensa de continuidad: diseñar
+## Week 38: Continuity defense: design
 
-Compara continuar, cambiar de oferta y cerrar con tus datos del año.
+Compare continuing, changing the offer, and closing using the year's data.
 
-- **Construir:** Prepara el artefacto mínimo y escribe cómo reconocerás un fallo antes de probarlo.
-- **Probar:** Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.
-- **Entregar:** Defensa de año 2 — versión de prueba
-- **Criterio:** La recomendación incluye límites financieros y de bienestar.
+- **Build:** Prepare the smallest useful artifact and write how you will recognize failure before testing.
+- **Test:** Review with an adult or teammate: Your recommendation includes financial and wellbeing limits.
+- **Deliver:** Year 2 defense — test version
+- **Criterion:** Your recommendation includes financial and wellbeing limits.
 
-## Semana 39: Defensa de continuidad: probar
+## Week 39: Continuity defense: test
 
-Compara continuar, cambiar de oferta y cerrar con tus datos del año.
+Compare continuing, changing the offer, and closing using the year's data.
 
-- **Construir:** Ejecuta una prueba autorizada o simulada; registra también rechazos, errores y costos.
-- **Probar:** Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.
-- **Entregar:** Defensa de año 2 — registro de prueba
-- **Criterio:** La recomendación incluye límites financieros y de bienestar.
+- **Build:** Run an authorized or simulated test; also record rejections, errors, and costs.
+- **Test:** Review with an adult or teammate: Your recommendation includes financial and wellbeing limits.
+- **Deliver:** Year 2 defense — test log
+- **Criterion:** Your recommendation includes financial and wellbeing limits.
 
-## Semana 40: Defensa de continuidad: decidir
+## Week 40: Continuity defense: decide
 
-Compara continuar, cambiar de oferta y cerrar con tus datos del año.
+Compare continuing, changing the offer, and closing using the year's data.
 
-- **Construir:** Compara resultados con el criterio inicial; elige seguir, corregir o cerrar y justifica.
-- **Probar:** Revisa con adulto o compañero: La recomendación incluye límites financieros y de bienestar.
-- **Entregar:** Defensa de año 2 — memo y checkpoint
-- **Criterio:** La recomendación incluye límites financieros y de bienestar.
+- **Build:** Compare results with the original criterion; choose to continue, correct, or close, and explain why.
+- **Test:** Review with an adult or teammate: Your recommendation includes financial and wellbeing limits.
+- **Deliver:** Year 2 defense — memo and checkpoint
+- **Criterion:** Your recommendation includes financial and wellbeing limits.
 
-## Cómo ejecutar cada semana
+## How to run each week
 
-Bloque 1: revisa evidencia y explica el concepto (90 min). Bloque 2: construye la entrega indicada (90 min). Bloque 3: ejecuta la prueba propuesta con límites y permisos (90 min). Bloque 4: autoevalúa, revisa con adulto y guarda checkpoint (90 min). Cada ciclo de cuatro semanas produce una decisión, no una cuota obligatoria de ingresos. Vuelve a las lecturas y plantillas según la necesidad; el coach puede explicar y adaptar, sin inventar evidencia.
+Block 1: review evidence and explain the concept (90 minutes). Block 2: build the specified deliverable (90 minutes). Block 3: run the proposed test within limits and permissions (90 minutes). Block 4: self-assess, review with an adult, and save a checkpoint (90 minutes). Each four-week cycle produces a decision, not a mandatory revenue quota. Return to readings and templates as needed; the coach may explain and adapt without inventing evidence.

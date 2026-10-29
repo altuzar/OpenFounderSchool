@@ -1,29 +1,30 @@
-# Alcance de validación — edición 0.1.0
+# Validation scope — edition 0.2.0
 
-Fecha: 28 de octubre de 2026 (Ciudad de México). Es una primera edición de material educativo original, no un programa acreditado, pilotado o evaluado por resultados de negocio.
+Date: October 28, 2026 (Mexico City). This is an English edition of original educational material, not an accredited, student-piloted, or business-outcome-validated program.
 
-## Comprobado localmente
+## Checked locally
 
-- 160 semanas únicas y consultables; 40 lecciones completas del primer año; cuatro guías anuales y campos de actividad, prueba, entrega y criterio.
-- Trece pruebas Python: números, separación real/simulación, devoluciones, costos, financiamiento, moneda, participación, errores, duplicados, pérdidas, alias, archivos privados y lecturas sin red.
-- Ejecución de onboarding local y registro de progreso. Repetir una marca de avance no la duplica y `init` rechaza sobrescribir una carpeta existente.
-- El ejemplo financiero produce US$500 en SIMULACIÓN, excluyendo US$10,000 de inversión del indicador. No certifica utilidad neta contable.
-- Cinco paquetes portátiles con manifiestos y hashes. La comprobación incluye rutas, correspondencia con archivos fuente y enlaces locales en repo y dentro de los ZIPs.
-- Se regeneraron los cinco ZIPs con sockets bloqueados y sus hashes coincidieron entre ambas ejecuciones. Cada paquete contiene 109 archivos, incluido el manifiesto; se usa ZIP sin compresión para evitar variaciones por versiones de zlib.
-- Empaque mediante lista explícita, sin archivos privados, secretos, transcripciones ni videos. Los ejemplos incluidos son ficticios.
+- 160 unique, addressable weeks; 40 complete first-year lessons; four annual guides; activity, test, deliverable, and criterion fields.
+- Thirteen Python tests covering numbers, real/simulation separation, refunds, costs, financing, currency, participation, errors, duplicates, losses, aliases, private files, and network-free reads.
+- Local onboarding and progress recording. Repeated completion does not duplicate a week; `init` refuses to overwrite an existing folder.
+- The financial example produces US$500 in SIMULATION, excluding US$10,000 investment from the indicator. It does not certify accounting net profit.
+- Five portable kits with manifests and hashes. Checks cover paths, correspondence with source files, and local links both in the repo and inside ZIPs.
+- Kits regenerated with sockets blocked produced identical hashes on repeated runs. Each kit contains 109 files including the manifest; stored ZIP entries avoid zlib-version differences.
+- Explicit packaging list excludes private files, secrets, transcripts, and videos. Included examples are fictional.
+- English source data and renderer generate English lessons and guides. Public text and unpacked kits were scanned for remaining Spanish phrasing and reviewed; private family files and historical Git content are outside the translation scope.
 
-## Reposo y uso activo
+## Idle and active operation
 
-Inspección del código: sin clientes de red, servidor, cron, loops programados, base de datos o suscripciones. La prueba activa de lectura/finanzas se ejecutó con creación de sockets bloqueada y pasó. Los comandos terminan y no dejan un servicio propio corriendo. No existe una frontera de recurrencia que esperar en este diseño.
+Code inspection found no network clients, server, cron, scheduled loops, database, or subscriptions. The active reading/finance test passed with socket creation blocked. Commands exit without leaving a project service running. There is no recurrence boundary to wait for in this design.
 
-La proyección estructural en reposo es 0 llamadas de IA y 0 escrituras DB del proyecto; no es una medición de facturación de proveedores conectados, pues no se conectó ninguno. La estimación de tokens de docs/COSTS.md es una proyección distinta, no consumo observado.
+The structural idle projection is zero project AI calls and database writes, not a measurement of connected-provider billing: no provider was connected. The token estimate in docs/COSTS.md is a separate projection, not observed consumption.
 
-## No comprobado
+## Not checked
 
-No se instalaron Pi o Hermes, se importaron bots nativos ni se abrieron cuentas o Projects reales para las cinco plataformas. Sus guías se basan en documentación pública y carga manual. No se ejecutaron las evaluaciones de comportamiento contra modelos reales; cada familia debe realizar la prueba de recepción con datos ficticios antes de usar herramientas.
+We did not install Pi or Hermes, import native bots, or open actual accounts or Projects for the five platforms. Guides use public documentation and manual loading. Behavioral evaluations were not run against actual models; each family should perform the acceptance check with fictional data before enabling tools.
 
-No hay piloto con menores, auditoría de seguridad, revisión profesional de obligaciones por jurisdicción, validación de accesibilidad con usuarios ni resultados de graduación. Las instrucciones del coach no constituyen controles técnicos de permiso. Las afirmaciones de terceros se conservan como referencias, sin certificación.
+There is no minor-participant pilot, security audit, professional jurisdiction-specific obligation review, user-tested accessibility validation, or graduation outcome data. Coach instructions are not technical permission controls. Third-party claims remain references, not certifications.
 
-## Investigación
+## Research
 
-Se intentaron 29 páginas del sitemap; hubo capturas HTTP incompletas y se usó también texto público accesible mediante lector web. Se revisaron subtítulos ingleses completos de las 21 publicaciones públicas encontradas y tres imágenes por publicación. No se afirma visionado audiovisual continuo ni acceso al currículo privado. Consulta research/README.md y sus catálogos para el método y las limitaciones.
+Twenty-nine sitemap pages were attempted, with incomplete HTTP captures supplemented by accessible public text through the web reader. Complete English captions and three sampled images were reviewed for all 21 public channel publications found. No continuous audiovisual viewing or private curriculum access is claimed. See research/README.md and the catalogs for method and limits.

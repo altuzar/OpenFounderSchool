@@ -1,29 +1,29 @@
-# Evaluación y graduación
+# Assessment and graduation
 
-Se evalúa el trabajo, no el valor del alumno. La cantidad de dinero no sustituye el aprendizaje. No se requieren seguidores, anuncios pagados, viajes, contactos de élite ni capital familiar.
+Assess the work, not the student's worth. Money does not replace learning. Followers, paid ads, travel, elite contacts, and family capital are not required.
 
-## Rúbrica de evidencia
+## Evidence rubric
 
-Puntúa cada dimensión de 0 a 3. El alumno se autoevalúa primero, después un adulto o mentor revisa una muestra. El coach aporta comentarios; no puede certificar hechos que no presenció ni sustituir el juicio humano.
+Score each dimension from 0 to 3. The student self-assesses first; an adult or mentor then reviews a sample. The coach offers comments but cannot certify facts it did not observe or replace human judgment.
 
-| Dimensión | 0 | 1 | 2 | 3 |
+| Dimension | 0 | 1 | 2 | 3 |
 | --- | --- | --- | --- | --- |
-| Comprensión del problema | No hay evidencia | Opinión o roleplay | Observaciones documentadas y límites claros | Contrasta fuentes y explica contraejemplos |
-| Construcción y entrega | No funciona ni se explica | Demo guiada | Entrega pequeña verificable | Otra persona puede probarla y se atienden fallos |
-| Comunicación y oferta | Promesa confusa | Mensaje básico | Comprador, alcance y precio claros | Ajusta con objeciones y evita exageraciones |
-| Números y medición | Cifras inventadas o mezcladas | Registro incompleto | Ingresos, costos y simulación separados | Concilia soportes y explica incertidumbre |
-| Criterio y colaboración | Riesgos ignorados | Necesita recordatorios | Respeta límites y registra decisiones | Anticipa efectos y pide ayuda a tiempo |
+| Problem understanding | No evidence | Opinion or roleplay | Documented observations and clear limits | Compares sources and explains counterexamples |
+| Building and delivery | Does not work or cannot be explained | Guided demo | Small, verifiable delivery | Someone else can test it and failures are addressed |
+| Communication and offer | Unclear promise | Basic message | Clear buyer, scope, and price | Responds to objections without exaggeration |
+| Numbers and measurement | Invented or mixed figures | Incomplete records | Revenue, costs, and simulation separated | Reconciles evidence and explains uncertainty |
+| Judgment and collaboration | Risks ignored | Needs reminders | Respects boundaries and records decisions | Anticipates effects and asks for help in time |
 
-No promedies una falta de integridad con otras notas. Si hay evidencia fabricada o un riesgo pendiente, corrige el registro y revisa la actividad antes de continuar externamente. El error honesto y su corrección son parte del aprendizaje.
+Do not average an integrity issue away with other scores. If evidence is fabricated or a risk remains unresolved, correct the record and review the activity before continuing externally. Honest mistakes and corrections are part of learning.
 
-## Avance
+## Progression
 
-La semana se cierra cuando existe su entregable y el alumno explica qué demostraría que está equivocado. Si no hay entrega, reduce alcance o repite la práctica. Las semanas no son una carrera; el número de calendario puede cambiar.
+A week closes when its deliverable exists and the student can explain what would show they are wrong. If no deliverable exists, narrow scope or repeat practice. Weeks are not a race; calendar dates may change.
 
-Revisión trimestral: muestra tres entregables, una decisión de abandonar o cambiar algo y una tabla de números. Para cerrar el año, alcanza al menos 2 en las cinco dimensiones o conserva un plan de recuperación específico. La revisión humana puede aceptar una adaptación de accesibilidad con evidencia equivalente.
+Quarterly review: show three deliverables, one decision to stop or change something, and a numbers table. To close a year, reach at least 2 in all five dimensions or retain a specific recovery plan. Human review may accept an accessibility adaptation with equivalent evidence.
 
-## Portafolio de salida
+## Completion portfolio
 
-Al completar los cuatro años: problema y clientes delimitados; historial de experimentos; producto o servicio demostrable; registros de costos e ingresos o simulación identificada; documentación para otra persona; reflexión de decisiones; defensa oral y plan de continuidad o cierre. El certificado local que una familia elabore es de participación, no diploma acreditado ni prueba auditada de utilidad.
+After four years: a defined problem and customer group; experiment history; a demonstrable product or service; records of costs and revenue or labeled simulation; documentation for another person; reflection on decisions; oral defense; and a continuity or closure plan. Any locally created family certificate is participation recognition, not an accredited diploma or audited proof of profit.
 
-Defensa de 15 minutos: 5 de demo, 5 de evidencia y números, 5 de preguntas. Pregunta qué hizo la IA, qué cambió por evidencia, qué salió mal y cómo se verifica la cifra más importante. La meta de US$1M se reporta aparte, sólo con metodología y revisión apropiadas.
+Fifteen-minute defense: five minutes of demo, five of evidence and numbers, five of questions. Ask what AI did, what changed because of evidence, what failed, and how the main figure can be verified. Report the US$1M goal separately, only with appropriate methodology and review.

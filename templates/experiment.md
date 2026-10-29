@@ -1,13 +1,13 @@
-# Experimento
+# Experiment
 
-- Hipótesis falsable:
-- Evidencia previa y alternativa:
-- Una variable a cambiar:
-- Modo REAL / SIMULACIÓN:
-- Participantes autorizados y cómo se seleccionaron:
-- Indicador / umbral antes de probar:
-- Límite de tiempo y presupuesto:
-- Condición de detener / deshacer:
-- Resultado y evidencia (incluye ceros y rechazos):
-- Limitaciones de la muestra:
-- Decisión: continuar / cambiar / cerrar y por qué.
+- Falsifiable hypothesis:
+- Previous evidence and alternative explanation:
+- One variable to change:
+- REAL / SIMULATION mode:
+- Authorized participants and selection method:
+- Metric / threshold set before testing:
+- Time and budget limit:
+- Stopping / rollback condition:
+- Result and evidence (include zeros and rejections):
+- Sample limitations:
+- Decision: continue / change / close, and why.

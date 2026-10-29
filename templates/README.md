@@ -1,17 +1,17 @@
-# Plantillas para usar en privado
+# Templates for private use
 
-Copia sólo las necesarias a `private/<alias>/`. No publiques las respuestas
-de una familia ni los soportes del negocio. Las plantillas son herramientas
-educativas; un registro de permiso no verifica la identidad del adulto.
+Copy only what you need into `private/<alias>/`. Do not publish family responses
+or business supporting evidence. Templates are educational tools; a permission
+log does not verify an adult's identity.
 
-- `checkpoint.md`: memoria entre sesiones y plataformas.
-- `family-agreement.md`: tiempo, presupuesto y límites.
-- `interview.md`: conversación neutral y evidencia.
-- `offer.md`: comprador, alcance, precio y remedio.
-- `experiment.md`: hipótesis, umbral y decisión.
-- `venture.md`: descripción del proyecto y alternativas.
-- `weekly-review.md`: autoevaluación y revisión humana.
-- `permission.md`: autorización concreta y temporal.
-- `sop.md`: proceso repetible y costo en reposo.
-- `pitch.md`: demo y defensa con evidencia.
-- `ledger.csv`: registro base caja; instrucciones en docs/FINANCE.md.
+- `checkpoint.md`: memory between sessions and platforms.
+- `family-agreement.md`: time, budget, and boundaries.
+- `interview.md`: neutral conversation and evidence.
+- `offer.md`: buyer, scope, price, and remedy.
+- `experiment.md`: hypothesis, threshold, and decision.
+- `venture.md`: project description and alternatives.
+- `weekly-review.md`: self-assessment and human review.
+- `permission.md`: specific, time-limited authorization.
+- `sop.md`: repeatable process and idle cost.
+- `pitch.md`: demo and evidence-based defense.
+- `ledger.csv`: cash-basis records; instructions in docs/FINANCE.md.

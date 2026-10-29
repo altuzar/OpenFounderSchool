@@ -1,21 +1,21 @@
-# Operar un club after school
+# Running an after-school club
 
-Formato sugerido: 4–8 alumnos, un facilitador y un segundo adulto disponible según necesidades del grupo y reglas del lugar. Cada familia mantiene sus cuentas y archivos privados. Este es un diseño operativo sugerido, no una proporción certificada de supervisión.
+Suggested format: 4–8 students, one facilitator, and a second adult available according to group needs and venue rules. Each family keeps its own accounts and private files. This is an operating suggestion, not a certified supervision ratio.
 
-## Antes de la primera reunión
+## Before the first meeting
 
-Reúne a las familias para acordar espacio, horarios, responsables, recogida, accesibilidad, presupuesto y cómo reportar problemas. Explica que la IA no supervisa alumnos. Evita que un solo asistente mezcle carpetas y conversaciones privadas de distintas familias.
+Meet families to agree on space, hours, responsibilities, pickup, accessibility, budget, and reporting problems. Explain that AI does not supervise students. Avoid one assistant mixing private folders and conversations from different families.
 
-El club puede compartir currículo y plantillas públicas. No comparte contraseñas, libretas de clientes ni resultados personales. Un tablero común usa alias y avances de habilidades, nunca rankings de patrimonio. Cualquier cobro por el club es independiente del tuition cero del repo y requiere condiciones propias transparentes.
+The club may share public curriculum and templates, not passwords, customer notes, or personal results. A common board uses aliases and skill progress, never wealth rankings. Any club fees are separate from this repository's zero tuition and require transparent independent terms.
 
-## Reunión de 90 minutos
+## A 90-minute meeting
 
-10 min de llegada y bienestar, 15 de demostración, 35 de trabajo en parejas, 15 de feedback, 10 de decisiones y 5 de cierre. Los demás bloques semanales pueden hacerse en casa. Cada alumno explica su propia contribución, aunque comparta proyecto.
+10 minutes for arrival and wellbeing, 15 for demonstration, 35 for paired work, 15 for feedback, 10 for decisions, and 5 to close. Other weekly blocks may happen at home. Every student explains their own contribution even on a shared project.
 
-## Mentor invitado
+## Guest mentor
 
-Usa mentors/HUMANS.md. Comparte una ficha sin datos sensibles y tres preguntas antes de la sesión. Un adulto presenta y modera. El invitado comenta un entregable real o simulado. No se promete acceso posterior ni se publican grabaciones por defecto.
+Use mentors/HUMANS.md. Share a brief without sensitive data and three questions before the session. An adult introduces and moderates. The guest comments on a real or simulated deliverable. No later access is promised and recordings are not published by default.
 
 ## Demo day
 
-No necesita escenario ni concurso. Cada alumno tiene tres minutos para enseñar algo y dos para preguntas. Comparte cifras sólo si alumno y adulto quieren; una versión con números ficticios debe indicarlo. Cierra reconociendo aprendizaje, honestidad y ayuda entre compañeros.
+No stage or competition is necessary. Each student has three minutes to show something and two for questions. Share figures only if student and adult want to; label fictional numbers. Finish by recognizing learning, honesty, and peer support.

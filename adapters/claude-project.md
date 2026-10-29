@@ -1,18 +1,18 @@
-# Claude con un Project
+# Claude with a Project
 
-La [guía oficial de Projects](https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects) describe instrucciones y documentos de conocimiento. Usa esos espacios para el currículo. No basta con que un archivo exista en tu computadora.
+The [official Projects guide](https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects) describes instructions and knowledge documents. Use those spaces for the curriculum; a file merely existing on your computer is not enough.
 
-1. Un adulto revisa elegibilidad y condiciones del servicio. Crea un proyecto privado llamado OpenFounderSchool; evita nombres completos de alumnos.
-2. Descomprime `release/openfounderschool-claude-project.zip`.
-3. Copia el contenido de `prompts/COACH.md` a las instrucciones del proyecto. Agrega `STARTER.md` al conocimiento. Puedes añadir overview, rúbrica y roles si tu cuenta permite esa carga.
-4. Inicia un chat dentro del proyecto. Adjunta la lección actual y un checkpoint saneado. Ejecuta la prueba común de adapters/README.md.
-5. Pide una sesión en modo simulación. No actives conectores para correo o cobros para completar el onboarding.
-6. Al terminar, actualiza el checkpoint privado y, cuando necesites que otro chat lo use, actualiza explícitamente el documento que ese chat tendrá disponible.
+1. An adult reviews eligibility and terms. Create a private OpenFounderSchool project; avoid students' full names.
+2. Unzip `release/openfounderschool-claude-project.zip`.
+3. Copy `prompts/COACH.md` into project instructions. Add `STARTER.md` to knowledge. Add the overview, rubric, and roles if your account supports the load.
+4. Start a chat inside the project. Attach the current lesson and a sanitized checkpoint. Run the shared check in adapters/README.md.
+5. Request a simulation session. Do not enable email or payment connectors for onboarding.
+6. Update your private checkpoint at the end. When another chat needs it, explicitly update the document that chat can access.
 
-## Contexto y privacidad
+## Context and privacy
 
-Las capacidades de memoria y acceso dependen del producto y sus ajustes. El checkpoint controlado por la familia evita depender de un recuerdo implícito. No subas todos los documentos del negocio por si acaso; ofrece sólo la información necesaria, sin identificación de clientes.
+Memory and access depend on the product and its settings. A family-controlled checkpoint avoids relying on implicit recall. Do not upload every business document just in case; provide only necessary information without identifiable customer data.
 
-Si el conocimiento es demasiado grande o un archivo no se recupera bien, usa STARTER.md más la lección actual. Pregunta qué fragmento está usando y confirma el criterio de avance. Si se contradice sobre números, vuelve al ledger y no aceptes una cifra sin cálculo y evidencia.
+If knowledge is too large or retrieval fails, use STARTER.md plus the current lesson. Ask which section it is using and confirm the completion criterion. If its numbers conflict, return to the ledger and reject figures without calculation and evidence.
 
-Esta guía no crea el proyecto en tu cuenta ni valida sus límites. No presupone que un plan incluya funciones específicas por ser “gratis”. Comprueba disponibilidad en tu propia interfaz.
+This guide does not create a project in your account or validate its limits. It does not assume a plan includes particular features because it is free. Check availability in your own interface.

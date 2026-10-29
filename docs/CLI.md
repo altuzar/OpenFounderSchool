@@ -1,24 +1,24 @@
-# Herramienta local (opcional)
+# Local tool (optional)
 
-Requiere Python 3.10+ y biblioteca estándar. Los comandos no usan red, modelos, API, base de datos ni tareas en segundo plano. Ejecútalos desde la raíz del repo. Si no tienes Python, usa los Markdown y plantillas manualmente.
+Requires Python 3.10+ and the standard library. Commands use no network, models, API, database, or background tasks. Run from the repository root. Without Python, use the Markdown files and templates manually.
 
 ```sh
-python3 scripts/ofs.py init --alias aprendiz
+python3 scripts/ofs.py init --alias learner
 python3 scripts/ofs.py lesson --year 1 --week 1
-python3 scripts/ofs.py complete --alias aprendiz --year 1 --week 1
-python3 scripts/ofs.py profit private/aprendiz/ledger.csv
+python3 scripts/ofs.py complete --alias learner --year 1 --week 1
+python3 scripts/ofs.py profit private/learner/ledger.csv
 python3 scripts/ofs.py profit examples/ledger-demo.csv --simulation
 python3 scripts/ofs.py profit examples/ledger-demo.csv --simulation --share 0.5
 python3 scripts/ofs.py pack
 python3 scripts/ofs.py check
 ```
 
-`init` crea una carpeta privada nueva y rechaza sobrescribirla. `complete` registra avance **auto-reportado**, sin asignar una nota o certificar ventas. Repetir la misma semana no la duplica. La siguiente lección la elige el alumno/coach según la revisión; el comando no la avanza automáticamente.
+`init` creates a new private folder and refuses to overwrite one. `complete` records **self-reported** progress without assigning a grade or certifying sales. Repeating the same week does not duplicate it. The student/coach selects the next lesson based on review; the command does not advance automatically.
 
-`profit` valida IDs únicos, categorías, fechas, moneda y conversión. Usa importes positivos; la categoría define qué se resta. Por defecto calcula sólo filas `real`. `--simulation` calcula sólo simulaciones; jamás mezcla ambas. `--share` multiplica el indicador por la participación declarada (0 a 1, sin incluir cero), que debe respaldarse fuera del programa. No demuestra propiedad legal.
+`profit` validates unique IDs, categories, dates, currency, and conversion. Use positive amounts; categories determine deductions. By default it calculates only `real` rows. `--simulation` calculates only simulations, never a mix. `--share` multiplies the indicator by the declared participation share (greater than 0 and at most 1), which must be supported outside the tool. It does not prove legal ownership.
 
-El CSV se puede editar con un editor de texto o herramienta propia. Si una hoja de cálculo altera fechas, separadores o números, conserva exactamente el encabezado y decimales con punto antes de calcular. Errores de validación detienen el cálculo: no se omiten silenciosamente filas inválidas.
+Edit the CSV with a text editor or your own tool. If a spreadsheet changes dates, separators, or numbers, retain the exact header and decimal points before calculating. Validation errors stop calculation; invalid rows are not silently skipped.
 
-`pack` escribe cinco ZIPs y SHA256SUMS en release/. Usa una lista explícita de contenidos; no incluye private/, credenciales, videos ni fuentes completas. `check` comprueba la estructura, enlaces internos y hashes de paquetes existentes. No comprueba acceso remoto a enlaces ni el comportamiento de un LLM.
+`pack` writes five ZIPs and SHA256SUMS in release/. It uses an explicit content list and excludes private/, credentials, videos, and complete source materials. `check` validates structure, local links, and existing package hashes. It does not check remote link access or LLM behavior.
 
-Después de editar curriculum/plan.json regenera guías con `python3 scripts/render_curriculum.py`, ejecuta tests y empaqueta. No edites sólo el archivo generado si quieres conservar el cambio.
+After editing curriculum/plan.json, regenerate guides with `python3 scripts/render_curriculum.py`, run tests, and package. Editing only a generated file will not preserve the change on the next build.

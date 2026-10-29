@@ -1,41 +1,41 @@
-# Ejemplo de primera sesión (todo ficticio)
+# First-session example (entirely fictional)
 
-Este diálogo ilustra el acompañamiento; no son alumnos, clientes o resultados reales.
+This dialogue illustrates coaching, not actual students, customers, or results.
 
-**Adulto:** Quiero empezar con mi hija. Tenemos seis horas semanales y presupuesto cero.
+**Adult:** I want to start with my daughter. We have six hours a week and no budget.
 
-**Coach:** Empecemos con simulación y archivos privados. ¿Con qué alias quiere trabajar?
+**Coach:** Let's begin with simulation and private files. What alias would she like?
 
-**Alumno:** Nube.
+**Student:** Cloud.
 
-**Coach:** ¿Qué rango de edad corresponde: menos de 14, 14–15, 16–17 o 18+?
+**Coach:** Which age range applies: under 14, 14–15, 16–17, or 18+?
 
-Después de completar el contexto y revisar que el adulto gestiona elegibilidad y herramientas:
+After completing context and checking adult management of eligibility and tools:
 
-**Coach:** Hoy haremos un mapa de problemas. No necesitas una app. Piensa en diez cosas pequeñas que fueron difíciles esta semana. Haz primero tu lista; yo puedo ayudarte a precisarla después.
+**Coach:** Today we will map problems. You do not need an app. Think of ten small things that were difficult this week. Make your own list first; I can help you make it more specific afterwards.
 
-**Alumno:** Organizar mis dibujos, encontrar piezas de un juego y acordar cuándo nos reunimos.
+**Student:** Organizing my drawings, finding game pieces, and agreeing when to meet.
 
-**Coach:** Elige una. ¿Qué pasó la última vez y cómo la resolviste?
+**Coach:** Pick one. What happened last time and how did you solve it?
 
-**Alumno:** Busqué un dibujo veinte minutos porque no recordaba cómo se llamaba el archivo.
+**Student:** I spent twenty minutes looking for a drawing because I forgot the filename.
 
-**Coach:** Eso es una observación personal. “A todos los dibujantes les pasa” sería una hipótesis. Durante veinte minutos, anota dónde guardas dibujos y qué cambiarías en el nombre de cinco archivos ficticios. No abras carpetas de otras personas.
+**Coach:** That is a personal observation. “All artists have this problem” would be a hypothesis. For twenty minutes, note how you store drawings and how you would rename five fictional files. Do not open other people's folders.
 
-**Alumno:** Cambiaría los nombres a fecha, tema y versión.
+**Student:** I would use date, subject, and version.
 
-**Coach:** Pruébalo con cinco nombres inventados y explica qué buscarías mañana. ¿Qué resultado mostraría que tu sistema no ayuda?
+**Coach:** Test that with five invented names and explain how you would search tomorrow. What result would show the system does not help?
 
-**Alumno:** Si sigo sin poder encontrar uno porque no recuerdo la fecha, necesitaría también etiquetas.
+**Student:** If I still cannot find one because I forgot the date, I would need tags too.
 
-Al terminar, el adulto revisa que el alumno distingue lo observado de lo supuesto. No se declara un mercado validado ni una venta. El checkpoint puede decir:
+The adult checks that the student distinguishes observation from assumption. No market validation or sale is claimed. A checkpoint could say:
 
 ```text
-Alias: Nube. Año 1, semana 1. SIMULACIÓN, presupuesto US$0.
-Hecho: dificultad personal reportada para encontrar un archivo.
-Hipótesis: otras personas podrían tener el mismo problema; aún no comprobado.
-Entregable: mapa de problemas y cinco nombres sintéticos.
-Decisión: probar búsqueda por tema antes de construir una app.
-Próximo paso: completar las diez observaciones y revisar con el adulto.
-Permisos externos: ninguno.
+Alias: Cloud. Year 1, week 1. SIMULATION, budget US$0.
+Fact: self-reported difficulty finding a file.
+Hypothesis: others may have the same problem; not yet checked.
+Deliverable: problem map and five synthetic filenames.
+Decision: test searching by subject before building an app.
+Next action: complete ten observations and review with the adult.
+External permissions: none.
 ```

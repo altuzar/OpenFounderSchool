@@ -1,27 +1,27 @@
-# La garantía de tuition cero
+# The zero-tuition promise
 
-**“Gradúate con US$1M de profit o te devolvemos el tuition. El tuition es US$0.”**
+**“Graduate with US$1M in profit or get your tuition back. Tuition is US$0.”**
 
-La frase expresa ambición y humor. No asegura ingresos. No ofrece un pago de US$1M, indemnización, reposición de capital ni cobertura de gastos. OpenFounderSchool no cobra tuition: su devolución máxima es US$0. El tiempo, suscripciones, equipo, inventario, impuestos, publicidad y demás gastos externos no se reembolsan.
+The line expresses ambition and humor. It does not assure earnings. It offers no US$1M payment, compensation, replacement capital, or expense coverage. OpenFounderSchool charges no tuition: the maximum refund is US$0. Time, subscriptions, equipment, inventory, taxes, advertising, and other outside expenses are not reimbursed.
 
-No hay una institución que custodie una garantía financiera, admisiones, contrato de enriquecimiento o fondo de compensación. Cualquier organizador que cobre por mentoría o por un club debe explicar sus propias condiciones y no trasladar esta frase como cobertura de lo que cobre.
+There is no institution holding a financial guarantee, admissions process, wealth contract, or compensation fund. Any organizer charging for mentoring or a club must explain their own terms and must not present this line as protection for those charges.
 
-## Cómo se interpreta la meta
+## How to interpret the target
 
-- Moneda: dólares estadounidenses, **US$**, por decisión de diseño de esta edición. No equivale a MX$1M.
-- Período: desde el inicio documentado hasta el cierre del cuarto año de participación; no se anualiza un mes bueno ni se inventan utilidades futuras.
-- Base: utilidad neta acumulada educativa a partir de operaciones registradas, después de devoluciones, costos directos, gastos operativos e impuestos del negocio registrados. Incluye meses de pérdida.
-- No cuenta: inversión, deuda, regalos, ahorro familiar, valor de acciones, valuación de la empresa, intenciones de compra, facturas aún no cobradas en el registro de caja, ni ventas o utilidades simuladas.
-- Cofundadores: reporta por separado utilidad total del negocio y proporción atribuible al alumno, sin duplicarla entre varios alumnos. Usa el acuerdo de participación; nunca ajustes porcentajes retroactivamente para alcanzar la meta.
+- Currency: US dollars, **US$**, as a design choice for this edition. This is not MX$1M.
+- Period: documented program start through the end of the fourth participation year. Do not annualize one good month or invent future profits.
+- Basis: educational cumulative net profit from recorded operations, after refunds, direct costs, operating expenses, and recorded business taxes. Include losing months.
+- Excluded: investment, debt, gifts, family savings, share value, company valuation, purchase intentions, unpaid invoices in the cash-basis ledger, and simulated sales or profits.
+- Cofounders: report total business profit and the student's attributable share separately, without counting the same profit for several students. Use the participation agreement; never adjust percentages retroactively to reach the target.
 
-El registro incluido es **base caja simplificada**: no constituye estados financieros auditados. Inventario, activos, devengos, impuestos y diferencias de tipo de cambio pueden requerir ajustes profesionales. El cálculo no certifica que se haya alcanzado utilidad neta contable ni riqueza personal. Para una declaración pública, un adulto y un profesional competente deben reconciliar registros, soportes y ajustes del negocio.
+The included ledger uses a **simplified cash basis** and is not an audited financial statement. Inventory, assets, accruals, taxes, and exchange differences may require professional adjustments. The calculation does not certify accounting net profit or personal wealth. For a public claim, an adult and a competent professional should reconcile records, supporting evidence, and business adjustments.
 
-## Ejemplo de magnitud — sólo aritmética, no pronóstico
+## A scale example — arithmetic only, not a forecast
 
-US$1M / 4 años = US$250,000 de utilidad media anual. Con margen neto hipotético de 25%, requeriría US$4M de ventas acumuladas. A 6 horas por semana durante 40 semanas por año son 960 horas: más de US$1,041 de utilidad por hora de programa. La utilidad no se genera linealmente por horas de clase. Este cálculo explica por qué la meta es extraordinaria; no estima cuántos alumnos podrán lograrla.
+US$1M / 4 years = US$250,000 average annual profit. At a hypothetical 25% net margin, that would require US$4M in cumulative sales. At 6 hours a week for 40 weeks a year, the program totals 960 hours: more than US$1,041 of profit per program hour. Profit is not generated linearly by classroom hours. This arithmetic explains why the target is extraordinary; it does not estimate how many students can achieve it.
 
-## Graduarse y alcanzar la meta son cosas distintas
+## Graduation and reaching the target are different
 
-Se completa el currículo con un portafolio, defensa y demostración de habilidades según [evaluación](ASSESSMENT.md). Se puede completar con pérdidas o en simulación, dejando ese estado visible. No se inventan ventas para aprobar ni se excluye a una familia por presupuesto.
+Students complete the curriculum through a portfolio, defense, and demonstrated skills under [assessment](ASSESSMENT.md). They can complete it with losses or in simulation, with that status visible. Never invent sales to pass or exclude a family because of budget.
 
-La primera edición no tiene estudios de resultados, cohortes evaluadas ni tasas de éxito medidas. Al comunicar resultados futuros, publica período, tamaño de muestra, pérdidas, abandonos, costos y metodología, con consentimiento y datos agregados. No muestres casos excepcionales como resultado típico.
+This edition has no outcome studies, evaluated cohorts, or measured success rates. When communicating future results, publish the period, sample size, losses, withdrawals, costs, and method, using consent and aggregated data. Do not present exceptional cases as typical outcomes.

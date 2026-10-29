@@ -1,8 +1,8 @@
-# Personas mencionadas por las fuentes
+# People named by the sources
 
-Referencia documental; **ninguna participación en OpenFounderSchool está confirmada**. No se prometen sesiones, contacto o respaldo. Las asociaciones de la tabla reproducen cómo la [página principal](https://founders.school/#mentors) presenta su red, sin verificar contratos o frecuencia individual:
+Documentary reference only; **no participation in OpenFounderSchool is confirmed**. No sessions, contact, or endorsement are promised. Associations below reflect how the [home page](https://founders.school/#mentors) presents its network, without verifying individual agreements or frequency:
 
-| Nombre | Referencia que muestra el sitio |
+| Name | Reference shown on the site |
 | --- | --- |
 | Justin Mares | TrueMed, Kettle & Fire |
 | Zach Yadegari | CalAI |
@@ -17,6 +17,6 @@ Referencia documental; **ninguna participación en OpenFounderSchool está confi
 | Joe Liemandt | Alpha School |
 | Sarah Cone | Social Impact Capital |
 
-El canal permite distinguir a invitados de una lista de red: [Eric Jorgenson](https://www.youtube.com/watch?v=F9lpewZhU1E), [Jay Yang](https://www.youtube.com/watch?v=YGHoZFDYU7w) y una intervención de dirección creativa presentada como Jamie Gannon en el [recorrido de la escuela](https://www.youtube.com/watch?v=or_vTIdG_3k&t=692s). Los subtítulos automáticos no son una fuente suficiente para normalizar todos los demás nombres o biografías.
+The channel distinguishes guests from a network listing: [Eric Jorgenson](https://www.youtube.com/watch?v=F9lpewZhU1E), [Jay Yang](https://www.youtube.com/watch?v=YGHoZFDYU7w), and a creative-direction workshop introduced as Jamie Gannon in the [school tour](https://www.youtube.com/watch?v=or_vTIdG_3k&t=692s). Automatic captions alone do not establish reliable spellings or biographies for every other name.
 
-Nuestra elección: roles funcionales originales y mentoría local gestionada por un adulto. No “clonar” personalidades, fabricar citas o atribuir al nombre de alguien una respuesta generada por IA. Para organizar mentoría real consulta [HUMANS](../mentors/HUMANS.md).
+Our choice is original functional roles plus adult-managed local mentoring. Do not clone personalities, fabricate quotes, or attribute an AI response to a real person's name. For actual mentoring, use [HUMANS](../mentors/HUMANS.md).

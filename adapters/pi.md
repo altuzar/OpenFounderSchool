@@ -1,22 +1,22 @@
-# Pi desde pi.dev
+# Pi from pi.dev
 
-Es el harness de agentes de [pi.dev](https://pi.dev/), no otro producto llamado Pi. La [documentación de configuración](https://pi.dev/docs/latest/configuration) describe AGENTS.md y prompts locales en `.pi/prompts/`.
+This is the agent harness at [pi.dev](https://pi.dev/), not another product named Pi. The [configuration documentation](https://pi.dev/docs/latest/configuration) describes AGENTS.md and local prompts in `.pi/prompts/`.
 
-## Instalación por el adulto
+## Adult-managed installation
 
-Sigue [el inicio oficial](https://pi.dev/docs/latest/quickstart), revisa el instalador y configura un proveedor elegible con su propio presupuesto. No ejecutamos instaladores ni damos claves desde este repo. Una instalación de Pi no hace gratuitos los modelos o herramientas que utilice.
+Follow the [official quickstart](https://pi.dev/docs/latest/quickstart), review the installer, and configure an eligible provider with its own budget. This repository does not run installers or supply keys. Installing Pi does not make its models or tools free.
 
-## Usar el currículo
+## Use the curriculum
 
-1. Clona o descomprime el repo en una carpeta dedicada, sin documentos personales vecinos a los que el agente tenga acceso.
-2. Abre tu terminal en esa carpeta e inicia Pi según su instalación (`pi`).
-3. Revisa las instrucciones de proyecto que cargó: AGENTS.md pide leer COACH.md y los materiales mínimos.
-4. Cuando corresponda, concede confianza al proyecto tras revisar archivos. El prompt incluido es Markdown, no una extensión ejecutable.
-5. Usa `/ofs-session` si se descubrió el prompt local `.pi/prompts/ofs-session.md`; como alternativa universal pega prompts/SESSION.md y especifica la lección.
-6. Ejecuta la prueba común y comienza en simulación. Autoriza únicamente la carpeta privada del alumno para entregables, manteniendo el currículo público como referencia.
+1. Clone or unzip the repository into a dedicated folder without personal documents accessible to the agent.
+2. Open your terminal there and start Pi according to your installation (`pi`).
+3. Review loaded project instructions: AGENTS.md asks for COACH.md and the minimum materials.
+4. Grant project trust when appropriate after reviewing files. The included prompt is Markdown, not an executable extension.
+5. Use `/ofs-session` if the local `.pi/prompts/ofs-session.md` prompt was discovered; otherwise paste prompts/SESSION.md and specify the lesson.
+6. Run the shared check and start in simulation. Authorize only the student's private folder for deliverables, keeping the public curriculum as reference.
 
-## Comprobar y salir
+## Check and exit
 
-Pide al agente enumerar los archivos que leyó y el criterio de semana 1. Guarda el checkpoint como texto o archivo autorizado. Cierra la sesión al terminar. No añadas paquetes de subagentes, automatización, MCP ni reemplaces el system prompt para cursar el programa.
+Ask the agent to list files it read and the week 1 criterion. Save the checkpoint as text or an authorized file. Close the session when finished. You do not need subagent packages, automation, MCP, or a replacement system prompt.
 
-Las instrucciones de archivo no son un sandbox. Configura el acceso de herramientas con el adulto y consulta las opciones de seguridad del proveedor. La adaptación no fue probada con un runtime Pi real: se verificaron rutas y paquete, no autenticación o ejecución de modelos.
+File instructions are not a sandbox. Configure tool access with the adult and consult provider safety options. This adaptation has not been tested with an actual Pi runtime: paths and packaging were checked, not authentication or model execution.

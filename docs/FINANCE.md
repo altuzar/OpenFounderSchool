@@ -1,28 +1,28 @@
-# Caja, utilidad y la meta del millón
+# Cash, profit, and the million-dollar target
 
-Para empezar, el alumno debe poder explicar estas diferencias con un ejemplo propio:
+Start by explaining these distinctions using your own example:
 
-| Concepto | Qué representa | ¿Cuenta como profit? |
+| Concept | Meaning | Does it count as profit? |
 | --- | --- | --- |
-| Venta cobrada | Dinero recibido por entregar algo | Sólo después de costos y ajustes |
-| Reserva o factura pendiente | Compromiso o cobro por recibir | No en el registro base caja |
-| Inversión/préstamo | Financiamiento | No |
-| Valuación | Estimación de valor de la empresa | No |
-| Retiro del dueño | Movimiento a su cuenta personal | No es un nuevo gasto operativo |
-| Utilidad | Resultado económico luego de costos | Debe especificar período y base |
+| Collected sale | Money received for delivering something | Only after costs and adjustments |
+| Booking or unpaid invoice | Commitment or future receipt | Not in the cash-basis ledger |
+| Investment/loan | Financing | No |
+| Valuation | Estimated company value | No |
+| Owner withdrawal | Movement to the owner's personal account | Not a new operating expense |
+| Profit | Economic result after costs | Specify period and accounting basis |
 
-## Registro educativo
+## Educational ledger
 
-`templates/ledger.csv` usa importes positivos y una categoría por fila: `revenue`, `refund`, `cogs`, `opex`, `tax`, `investment`, `loan`, `owner_draw`, `transfer`. La categoría decide el signo. No ingreses una devolución negativa: se restaría dos veces. Usa identificador único, fecha ISO, moneda, referencia anónima de evidencia y `real` o `simulation`.
+`templates/ledger.csv` uses positive amounts and one category per row: `revenue`, `refund`, `cogs`, `opex`, `tax`, `investment`, `loan`, `owner_draw`, `transfer`. The category determines the sign. Do not enter a negative refund: that would subtract it twice. Use a unique ID, ISO date, currency, anonymous evidence reference, and `real` or `simulation`.
 
-`usd_per_unit` es cuántos US$ vale una unidad de la moneda de esa fila. Para USD es exactamente 1. Para MXN usa un tipo documentado por el adulto en la referencia; el programa no busca divisas ni verifica su vigencia. No mezcles importes sin conversión ni ajustes con números elegidos para alcanzar la meta.
+`usd_per_unit` means how many US dollars one unit of that row's currency is worth. For USD it must equal 1. For MXN, use an adult-documented exchange rate in the reference; the tool does not look up exchange rates or verify they are current. Never mix amounts without conversion or choose rates to reach the target.
 
-Indicador educativo base caja USD = cobros `revenue` − `refund` − `cogs` − `opex` − `tax`. Financiamiento, retiros y transferencias se muestran aparte y no alteran ese indicador. Sólo cuenta `real` por defecto; `--simulation` calcula exclusivamente las filas simuladas.
+Educational USD cash-basis indicator = `revenue` receipts − `refund` − `cogs` − `opex` − `tax`. Financing, withdrawals, and transfers are shown separately and do not change that indicator. Only `real` rows count by default; `--simulation` calculates simulated rows exclusively.
 
-Este indicador no resuelve inventarios, depreciación, devengos, impuestos personales ni consolidación entre negocios. Registra costos faltantes aunque descubras que el negocio pierde. Incluye trabajo pagado de terceros e IA. Lleva horas del alumno por separado y considera un costo de tiempo hipotético al evaluar si el negocio tiene sentido, sin confundirlo con un pago registrado.
+This indicator does not resolve inventory, depreciation, accruals, personal taxes, or consolidation across businesses. Record missing costs even if the business is losing money. Include paid third-party work and AI. Track student hours separately and consider a hypothetical time cost when evaluating viability, without confusing it with a recorded payment.
 
-## Ejemplo ficticio
+## Fictional example
 
-Ventas US$1,000; devoluciones US$50; costos directos US$300; operación US$100; impuestos registrados US$50: indicador US$500. Una inversión de US$10,000 no lo vuelve US$10,500. Una valuación de US$1M tampoco lo cambia. Si no conoces impuestos pendientes o faltan costos, marca el resultado como provisional.
+Sales US$1,000; refunds US$50; direct costs US$300; operations US$100; recorded taxes US$50: indicator US$500. A US$10,000 investment does not make it US$10,500. A US$1M valuation does not change it either. If taxes or costs remain unknown, label the result provisional.
 
-Consulta `examples/ledger-demo.csv` y ejecuta `python3 scripts/ofs.py profit examples/ledger-demo.csv --simulation`. No subas tickets o datos bancarios al repo. Conserva soporte privado y revisión adulta; antes de cualquier declaración pública de utilidad neta, reconcilia con una persona competente.
+See `examples/ledger-demo.csv` and run `python3 scripts/ofs.py profit examples/ledger-demo.csv --simulation`. Do not upload receipts or bank data to this repository. Keep supporting evidence privately with adult review. Before any public net-profit claim, reconcile the records with a competent person.

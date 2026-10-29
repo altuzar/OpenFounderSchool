@@ -1,42 +1,42 @@
-# Tu primera tarde
+# Your first afternoon
 
-Tiempo: 45 minutos con un adulto y 45 minutos de exploración. Necesitas libreta o carpeta local; no necesitas tarjeta de crédito.
+Allow 45 minutes with an adult and 45 minutes for exploration. You need a notebook or local folder, not a credit card.
 
-1. El alumno decide si quiere participar y qué le da curiosidad. El adulto acuerda un horario sostenible. No conviertas la meta económica en presión familiar.
-2. Elige modalidad: solo con adulto, equipo de 2–3, o club de 4–8. Identifica un responsable del club y un canal privado para familias. No hay comunidad central administrada por este repo.
-3. Anota únicamente alias, rango de edad, idioma, horas disponibles, intereses y presupuesto. No subas domicilio, escuela, fecha de nacimiento, documentos ni contraseñas.
-4. Lee [el pacto de trabajo](docs/SAFETY.md). Empieza en simulación. La IA prepara borradores; el alumno explica y ejecuta las partes que ha entendido.
-5. Sigue el adaptador de tu plataforma. Si no admite archivos, pega COACH.md y la lección actual. No pegues todo el repositorio en cada mensaje.
-6. Realiza [la primera lección](curriculum/lessons/y1-w01.md). Guarda un inventario de problemas cotidianos, una hipótesis y un plan pequeño para esta semana.
-7. Cierra con: qué hiciste tú, qué hizo la IA, qué aprendiste y cuál es el siguiente paso.
+1. The student decides whether to participate and what interests them. The adult agrees on a sustainable schedule. Do not turn the financial goal into family pressure.
+2. Choose a format: individual with an adult, team of 2–3, or club of 4–8. Identify a club lead and a private family communication channel. This repository does not administer a central community.
+3. Record only an alias, age range, language, available hours, interests, and budget. Do not upload a home address, school, birth date, identity documents, or passwords.
+4. Read [the working agreement](docs/SAFETY.md). Start in simulation mode. The AI prepares drafts; the student explains and executes the parts they understand.
+5. Follow your platform adapter. If it does not support files, paste COACH.md and the current lesson. Do not paste the entire repository into every message.
+6. Complete [the first lesson](curriculum/lessons/y1-w01.md). Save a list of everyday problems, one hypothesis, and a small plan for this week.
+7. Finish with what you did, what the AI did, what you learned, and your next step.
 
-## Si trabajas con terminal
+## If you use a terminal
 
-Desde la raíz del repositorio:
+From the repository root:
 
 ```sh
-python3 scripts/ofs.py init --alias aprendiz
+python3 scripts/ofs.py init --alias learner
 python3 scripts/ofs.py lesson --year 1 --week 1
 ```
 
-Se crea `private/aprendiz/`, ignorado por Git. Un alias solo admite letras ASCII, números, guiones y guion bajo. Nunca uses el nombre completo del alumno como alias público. No publiques tu carpeta privada. Una regla de `.gitignore` no elimina archivos ya publicados.
+This creates `private/learner/`, which Git ignores. An alias accepts only ASCII letters, numbers, hyphens, and underscores. Never use a student's full name as a public alias. Do not publish the private folder. A `.gitignore` rule does not remove files already published.
 
-## Mensaje de arranque
+## Starting message
 
 ```text
-Usa OpenFounderSchool como currículo after school. Lee las instrucciones del
-coach y la lección actual. Entrevístanos de una pregunta a la vez: rol de quien
-contesta, alias, rango de edad, idioma, tiempo e intereses. Pregunta si hay
-adulto responsable antes de actividades externas. No recojas datos sensibles.
-No me pidas crear cuentas ni conectar email para comenzar. Presupuesto US$0,
-modo simulación, sin mensajes externos ni tareas programadas. Al finalizar,
-dame una acción de 20 minutos y el resumen para guardar en mi carpeta privada.
+Use OpenFounderSchool as an after-school curriculum. Read the coach instructions
+and current lesson. Interview us one question at a time: respondent's role,
+alias, age range, language, available time, and interests. Ask about a responsible
+adult before external activities. Do not collect sensitive data. Do not ask me
+to create accounts or connect email to get started. Budget US$0, simulation mode,
+no external messages or scheduled tasks. Finish with one 20-minute action and a
+summary to save in my private folder.
 ```
 
-## Cuando algo falla
+## Troubleshooting
 
-- La IA no recuerda: carga el último `checkpoint.md`, no confíes en memoria implícita.
-- No lee un ZIP: descomprímelo y sube los Markdown o el `STARTER.md` del paquete.
-- No tiene herramientas: usa el modo conversación y copia los entregables tú.
-- El proveedor no admite la edad del alumno: trabaja en papel con un adulto; no falsifiques edad ni compartas credenciales.
-- El proyecto se vuelve agotador: reduce sesiones a 45 minutos o pausa. Registra dónde retomar.
+- The AI forgets: load the latest `checkpoint.md`; do not rely on implicit memory.
+- It cannot read a ZIP: unzip it and upload the Markdown files or the kit's `STARTER.md`.
+- It has no tools: use conversation mode and copy the deliverables yourself.
+- The provider does not allow the student's age: work on paper with an adult; do not falsify age or share credentials.
+- The work becomes exhausting: reduce sessions to 45 minutes or pause. Record where to resume.
